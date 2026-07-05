@@ -1,6 +1,12 @@
 import os
 import pandas as pd
 from datetime import timedelta
+import logging
+
+# Log file creation
+log_file = 'logs/get_bist_data.log'
+os.makedirs(os.path.dirname(log_file), exist_ok=True)
+logging.basicConfig(filename=log_file, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def check_data(file_path):
     try:
