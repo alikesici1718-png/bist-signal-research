@@ -1,3 +1,4 @@
+import pandas as pd
 from utils.data_utils import preprocess_data
 
 def process_events(news_data, conflict_data):
