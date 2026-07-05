@@ -4,7 +4,7 @@ import os
 import time
 import logging
 
-# Log dosyasını oluştur
+# Log file creation
 log_file = 'logs/get_bist_data.log'
 os.makedirs(os.path.dirname(log_file), exist_ok=True)
 logging.basicConfig(filename=log_file, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -16,19 +16,15 @@ def read_symbols(file_path):
 
 def download_data(symbol):
     try:
-        data = yf.download(symbol + '.IS', period='2y', group_by='ticker')
-        
-        # Eğer data.columns bir MultiIndex ise, düzleştir (flatten)
+        data = yf.download(symbol + '.IS', period='2y', auto_adjust=True)
+        if data.empty:
+            logging.warning(f'No data found for {symbol}')
+            return
         if isinstance(data.columns, pd.MultiIndex):
-            data.columns = ['_'.join(col).strip() for col in data.columns.values]
-        
-        # CSV'ye yazmadan önce index'i sıfırla (reset_index) ki Date bir kolon olsun
-        data.reset_index(inplace=True)
-        
-        # Sadece belirtilen kolonları koruyarak diğerlerini kaldır
+            data.columns = [col[0] for col in data.columns]
+        data = data.reset_index()
         columns_to_keep = ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
-        data = data[columns_to_keep]
-        
+        data = data[[c for c in columns_to_keep if c in data.columns]]
         os.makedirs('data', exist_ok=True)
         data.to_csv(f'data/{symbol}.csv', index=False)
         logging.info(f'Data downloaded and saved for {symbol}')
