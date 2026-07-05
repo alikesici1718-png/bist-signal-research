@@ -9,7 +9,9 @@ log_file = 'logs/get_usdtry_data.log'
 os.makedirs(os.path.dirname(log_file), exist_ok=True)
 logging.basicConfig(filename=log_file, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-def download_data(symbol):
+def download_data(symbol, save_name=None):
+    if save_name is None:
+        save_name = symbol
     try:
         data = yf.download(symbol, period='2y', auto_adjust=True)
         if data.empty:
@@ -21,14 +23,13 @@ def download_data(symbol):
         columns_to_keep = ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
         data = data[[c for c in columns_to_keep if c in data.columns]]
         os.makedirs('data', exist_ok=True)
-        data.to_csv(f'data/{symbol}.csv', index=False)
-        logging.info(f'Data downloaded and saved for {symbol}')
+        data.to_csv(f'data/{save_name}.csv', index=False)
+        logging.info(f'Data downloaded and saved for {symbol} as {save_name}.csv')
     except Exception as e:
         logging.error(f'Error downloading data for {symbol}: {e}')
 
 def main():
-    symbol = 'USDTRY=X'
-    download_data(symbol)
+    download_data('USDTRY=X', save_name='USDTRY')
 
 if __name__ == '__main__':
     main()
