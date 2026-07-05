@@ -54,7 +54,8 @@ def main():
             symbol1 = df.columns[i]
             symbol2 = df.columns[j]
             result = calculate_cointegration(df[symbol1], df[symbol2])
-            results.append({'symbol1': str(symbol1), 'symbol2': str(symbol2), 'p_value': p_value, 'test_statistic': test_stat})
+            p_value, test_statistic, feasibility = result[2:]
+            results.append({'symbol1': str(symbol1), 'symbol2': str(symbol2), 'p_value': p_value, 'test_statistic': test_statistic})
     
     # Sonuçları DataFrame'e topla
     coint_results = pd.DataFrame(results)
@@ -62,7 +63,7 @@ def main():
     # p-value'ya göre sırala ve en anlamlı ilk 20 çifti konsola yazdır
     top_20_pairs = coint_results.sort_values(by='p_value').head(20)
     print('Top 20 Cointegrated Pairs:')
-    print(top_20_pairs[['symbol1', 'symbol2', 'p_value', 'test_statistic', 'feasibility']].to_string(index=False))
+    print(top_20_pairs[['symbol1', 'symbol2', 'p_value', 'test_statistic']].to_string(index=False))
     
     # Tüm sonuçları kaydet
     coint_results.to_csv('cointegration_results.csv', index=False)
@@ -70,8 +71,8 @@ def main():
     # Özet istatistik yazdır
     summary = {
         'total_pairs': len(coint_results),
-        'feasible_strong_count': (coint_results['feasibility'] == 'FEASIBLE_STRONG').sum(),
-        'feasible_weak_count': (coint_results['feasibility'] == 'FEASIBLE_WEAK').sum()
+        'feasible_strong_count': (coint_results['p_value'] < 0.01).sum(),
+        'feasible_weak_count': ((coint_results['p_value'] >= 0.01) & (coint_results['p_value'] < 0.05)).sum()
     }
     print('Summary Statistics:')
     for key, value in summary.items():
