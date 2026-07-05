@@ -2,6 +2,7 @@ import os
 import pandas as pd
 from statsmodels.tsa.stattools import coint
 from statsmodels.stats.multitest import multipletests
+import numpy as np
 import logging
 
 # Log dosyasını oluştur
@@ -62,12 +63,12 @@ def main():
     coint_results = pd.DataFrame(results)
     
     # Benjamini-Hochberg düzeltmesi ekle
-    q_values_bh, _, _, _ = multipletests(coint_results['p_value'], alpha=0.05, method='fdr_bh')
-    coint_results['q_value_bh'] = q_values_bh
+    reject_bh, pvals_corrected_bh, _, _ = multipletests(coint_results['p_value'], alpha=0.05, method='fdr_bh')
+    coint_results['q_value_bh'] = pvals_corrected_bh
     
     # Bonferroni düzeltmesi ekle
-    q_values_bonferroni, _, _, _ = multipletests(coint_results['p_value'], alpha=0.05, method='bonferroni')
-    coint_results['q_value_bonferroni'] = q_values_bonferroni
+    reject_bonf, pvals_corrected_bonf, _, _ = multipletests(coint_results['p_value'], alpha=0.05, method='bonferroni')
+    coint_results['q_value_bonferroni'] = pvals_corrected_bonf
     
     # Kaç çift BH q<0.05'i geçiyor, kaç çift Bonferroni'yi geçiyor ayrı ayrı say ve yazdır
     bh_count = (coint_results['q_value_bh'] < 0.05).sum()
