@@ -2,6 +2,7 @@ import os
 import pandas as pd
 from scipy.stats import ttest_ind
 import numpy as np
+from datetime import timedelta
 import logging
 
 # Log dosyasını oluştur
@@ -45,7 +46,7 @@ def main():
     df = read_data(data_dir)
     
     if df.empty:
-        logging.error('No data found in the data directory')
+        logging.error('No data found in the data_dir')
         return
     
     # Ortak tarih aralığına sahip satırları kullan
