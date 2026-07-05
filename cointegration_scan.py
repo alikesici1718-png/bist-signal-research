@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 from statsmodels.tsa.stattools import coint
+from statsmodels.stats.multitest import multipletests
 import logging
 
 # Log dosyasını oluştur
@@ -60,23 +61,33 @@ def main():
     # Sonuçları DataFrame'e topla
     coint_results = pd.DataFrame(results)
     
-    # p-value'ya göre sırala ve en anlamlı ilk 20 çifti konsola yazdır
-    top_20_pairs = coint_results.sort_values(by='p_value').head(20)
-    print('Top 20 Cointegrated Pairs:')
-    print(top_20_pairs[['symbol1', 'symbol2', 'p_value', 'test_statistic']].to_string(index=False))
+    # Benjamini-Hochberg düzeltmesi ekle
+    q_values_bh, _, _, _ = multipletests(coint_results['p_value'], alpha=0.05, method='fdr_bh')
+    coint_results['q_value_bh'] = q_values_bh
     
-    # Tüm sonuçları kaydet
+    # Bonferroni düzeltmesi ekle
+    q_values_bonferroni, _, _, _ = multipletests(coint_results['p_value'], alpha=0.05, method='bonferroni')
+    coint_results['q_value_bonferroni'] = q_values_bonferroni
+    
+    # Kaç çift BH q<0.05'i geçiyor, kaç çift Bonferroni'yi geçiyor ayrı ayrı say ve yazdır
+    bh_count = (coint_results['q_value_bh'] < 0.05).sum()
+    bonferroni_count = (coint_results['q_value_bonferroni'] < 0.05).sum()
+    print(f'Number of pairs passing BH q<0.05: {bh_count}')
+    print(f'Number of pairs passing Bonferroni q<0.05: {bonferroni_count}')
+    
+    # Economic sanity check ekle
+    for index, row in coint_results.iterrows():
+        symbol1 = row['symbol1']
+        symbol2 = row['symbol2']
+        hedge_ratio = -row['test_statistic'] / row['p_value']
+        spread = df[symbol1] - hedge_ratio * df[symbol2]
+        std_dev = spread.std()
+        daily_change_mean = spread.diff().abs().mean() * 100
+        if daily_change_mean < 5:
+            print(f'Warning: Economic sanity check failed for {symbol1} and {symbol2}. Daily change mean is too small.')
+    
+    # Sonuçları kaydet
     coint_results.to_csv('cointegration_results.csv', index=False)
-    
-    # Özet istatistik yazdır
-    summary = {
-        'total_pairs': len(coint_results),
-        'feasible_strong_count': (coint_results['p_value'] < 0.01).sum(),
-        'feasible_weak_count': ((coint_results['p_value'] >= 0.01) & (coint_results['p_value'] < 0.05)).sum()
-    }
-    print('Summary Statistics:')
-    for key, value in summary.items():
-        print(f'{key}: {value}')
 
 if __name__ == '__main__':
     main()
