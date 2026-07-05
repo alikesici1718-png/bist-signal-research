@@ -1,3 +1,6 @@
+import numpy as np
+from scipy.stats import ttest_1samp
+
 def test_fx_shock_reaction(stock_returns, usdtry_returns, shock_threshold_pct,
                             horizons, date_filter=None):
     results = []
