@@ -54,15 +54,15 @@ def main():
             symbol1 = df.columns[i]
             symbol2 = df.columns[j]
             result = calculate_cointegration(df[symbol1], df[symbol2])
-            results.append(result)
+            results.append({'symbol1': str(symbol1), 'symbol2': str(symbol2), 'p_value': p_value, 'test_statistic': test_stat})
     
     # Sonuçları DataFrame'e topla
-    coint_results = pd.DataFrame(results, columns=['symbol1', 'symbol2', 'p_value', 'test_statistic', 'feasibility'])
+    coint_results = pd.DataFrame(results)
     
     # p-value'ya göre sırala ve en anlamlı ilk 20 çifti konsola yazdır
     top_20_pairs = coint_results.sort_values(by='p_value').head(20)
     print('Top 20 Cointegrated Pairs:')
-    print(top_20_pairs[['symbol1', 'symbol2', 'p_value', 'feasibility']])
+    print(top_20_pairs[['symbol1', 'symbol2', 'p_value', 'test_statistic', 'feasibility']].to_string(index=False))
     
     # Tüm sonuçları kaydet
     coint_results.to_csv('cointegration_results.csv', index=False)
