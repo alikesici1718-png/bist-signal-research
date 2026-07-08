@@ -1,0 +1,319 @@
+=== Sermaye Artirimi Pilot ===
+Semboller: 25 adet
+Tarih araligi: 2023-01-01 -> 2026-07-06
+Cikti: kap_data\pilot_capital_increase.csv
+
+Company ID haritasi olusturuluyor...
+  [UYARI] KOZAL için company_id alınamadı: Ticker 'KOZAL' not found in BIST company list.
+24/25 sembol icin company_id bulundu.
+
+[ 1/25] THYAO isleniyor... (id: 4028e4a140f2ed720140f376bebb01a7)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 0 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 0 kayıt eklendi.
+
+[ 2/25] AKBNK isleniyor... (id: 4028e4a240e8d1830140e905edcd0006)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 0 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 0 kayıt eklendi.
+
+[ 3/25] GARAN isleniyor... (id: 4028e4a140f2ed720140f37cb2a601b7)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 0 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 0 kayıt eklendi.
+
+[ 4/25] ISCTR isleniyor... (id: 4028e4a140f2ed7201411682b0cb05c6)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 1 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 3 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 4 kayıt eklendi.
+
+[ 5/25] YKBNK isleniyor... (id: 4028e4a240f2ef4c01412ae6d6630538)
+  Pencere: 2023-01-01 -> 2024-01-01
+  [429] Rate limit. 60sn bekleniyor...
+  [429] Rate limit. 60sn bekleniyor...
+  [429] Rate limit. 60sn bekleniyor...
+  HATA: YKBNK [2023-01-01->2024-01-01]: 3 deneme de basarisiz. Son hata: HTTP 429
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 0 kayıt eklendi.
+
+[ 6/25] SAHOL isleniyor... (id: 4028e4a240ee37a90140ee50087e000b)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 0 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 0 kayıt eklendi.
+
+[ 7/25] KCHOL isleniyor... (id: 4028e4a140f2ed710140f2f4d6c70039)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 8 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 5 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 3 kayıt bulundu
+  Toplam 16 kayıt eklendi.
+
+[ 8/25] SISE isleniyor... (id: 4028e4a140f2ed710140f385d5690102)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 0 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 0 kayıt eklendi.
+
+[ 9/25] EREGL isleniyor... (id: 4028e4a240e95dc90140ede4c12a0133)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 0 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 7 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 7 kayıt eklendi.
+
+[10/25] BIMAS isleniyor... (id: 4028e4a140e95be70140ee1b7b030119)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 0 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 5 kayıt bulundu
+  Toplam 5 kayıt eklendi.
+
+[11/25] TUPRS isleniyor... (id: 4028e4a140f2ed720140f37f139c01bc)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 6 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 6 kayıt eklendi.
+
+[12/25] ASELS isleniyor... (id: 4028e4a1413b7ef401413bc2251e0047)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 7 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 7 kayıt eklendi.
+
+[13/25] FROTO isleniyor... (id: 4028e4a140f2ed71014106890fae0138)
+  Pencere: 2023-01-01 -> 2024-01-01
+  [429] Rate limit. 60sn bekleniyor...
+  [429] Rate limit. 60sn bekleniyor...
+  [429] Rate limit. 60sn bekleniyor...
+  HATA: FROTO [2023-01-01->2024-01-01]: 3 deneme de basarisiz. Son hata: HTTP 429
+  Pencere: 2024-01-01 -> 2024-12-31
+  [429] Rate limit. 60sn bekleniyor...
+  [429] Rate limit. 60sn bekleniyor...
+    → 2 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 7 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 9 kayıt eklendi.
+
+[14/25] TOASO isleniyor... (id: 4028e4a140f2ed710140f328bed700a5)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 0 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 0 kayıt eklendi.
+
+[15/25] TCELL isleniyor... (id: 4028e4a1486ec80a0148c55510d71d31)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 0 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 0 kayıt eklendi.
+
+[16/25] PGSUS isleniyor... (id: 4028e4a2422d9a78014232e751bc22a4)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 0 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 5 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 5 kayıt eklendi.
+
+[17/25] ARCLK isleniyor... (id: 4028e4a240e95dc90140ed55b43900cf)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 0 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 0 kayıt eklendi.
+
+[18/25] VAKBN isleniyor... (id: 4028e4a1415f4d9b01415fe3340f36e4)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 9 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 9 kayıt eklendi.
+
+[19/25] HALKB isleniyor... (id: 1DE05DAA82C3073AE0530A4A622A2EBD)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 7 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+  [429] Rate limit. 60sn bekleniyor...
+  [429] Rate limit. 60sn bekleniyor...
+  [429] Rate limit. 60sn bekleniyor...
+  HATA: HALKB [2024-12-31->2025-12-31]: 3 deneme de basarisiz. Son hata: HTTP 429
+  Pencere: 2025-12-31 -> 2026-07-06
+  [429] Rate limit. 60sn bekleniyor...
+  [429] Rate limit. 60sn bekleniyor...
+  [429] Rate limit. 60sn bekleniyor...
+  HATA: HALKB [2025-12-31->2026-07-06]: 3 deneme de basarisiz. Son hata: HTTP 429
+  Toplam 7 kayıt eklendi.
+
+[20/25] PETKM isleniyor... (id: 4028e4a240f2ef470141165c566a03e4)
+  Pencere: 2023-01-01 -> 2024-01-01
+  [429] Rate limit. 60sn bekleniyor...
+    → 0 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 0 kayıt eklendi.
+
+[21/25] KOZAL ATLANDI (company_id bulunamadi)
+
+[22/25] ENKAI isleniyor... (id: 4028e4a240e95dc90140ed3883fe0093)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 0 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 0 kayıt eklendi.
+
+[23/25] MGROS isleniyor... (id: 4028e4a141462df2014150162e1c3424)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 0 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 0 kayıt eklendi.
+
+[24/25] ULKER isleniyor... (id: 4028e4a14184e9c901419801438a422b)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 0 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 0 kayıt eklendi.
+
+[25/25] TAVHL isleniyor... (id: 4028e4a140f2ed720140f31195ef010e)
+  Pencere: 2023-01-01 -> 2024-01-01
+    → 0 kayıt bulundu
+  Pencere: 2024-01-01 -> 2024-12-31
+    → 0 kayıt bulundu
+  Pencere: 2024-12-31 -> 2025-12-31
+    → 0 kayıt bulundu
+  Pencere: 2025-12-31 -> 2026-07-06
+    → 0 kayıt bulundu
+  Toplam 0 kayıt eklendi.
+
+
+CSV kaydedildi: kap_data\pilot_capital_increase.csv (75 satır)
+
+============================================================
+RAPOR
+============================================================
+Toplam çekilen kayıt: 75
+
+Kategori dağılımı:
+  BEDELSIZ    : 0
+  BEDELLI     : 0
+  TAHSISLI    : 0
+  BELIRSIZ    : 75
+
+--- BEDELSIZ: 0 kayıt ---
+
+--- BEDELLI: 0 kayıt ---
+
+--- TAHSISLI: 0 kayıt ---
+
+--- BELIRSIZ (75 kayıt) — 3 örnek başlık ---
+  1. TÜRKİYE İŞ BANKASI A.Ş.
+  2. MARMARİS ALTINYUNUS TURİSTİK TESİSLER A.Ş.
+  3. EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.
+
+Hatalar:
+  - KOZAL: company_id bulunamadi
+============================================================
+Tamamlandı.

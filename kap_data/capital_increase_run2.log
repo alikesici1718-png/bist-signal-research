@@ -1,0 +1,314 @@
+﻿=== Sermaye Artırımı Pilot ===
+Semboller: 25 adet
+Tarih aralığı: 2023-01-01 → 2026-07-06
+Çıktı: kap_data\pilot_capital_increase.csv
+
+[ 1/25] THYAO işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[ 2/25] AKBNK işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[ 3/25] GARAN işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[ 4/25] ISCTR işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[ 5/25] YKBNK işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[ 6/25] SAHOL işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[ 7/25] KCHOL işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[ 8/25] SISE işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+  [429] Rate limit. 60sn bekleniyor...
+  [429] Rate limit. 60sn bekleniyor...
+  [429] Rate limit. 60sn bekleniyor...
+  HATA: SISE [2024-12-31→2025-12-31]: 3 deneme de başarısız. Son hata: HTTP 429
+  Pencere: 2025-12-31 → 2026-07-06
+  [429] Rate limit. 60sn bekleniyor...
+    → 2000 kayıt bulundu
+  Toplam 6000 kayıt eklendi.
+
+[ 9/25] EREGL işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[10/25] BIMAS işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[11/25] TUPRS işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[12/25] ASELS işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[13/25] FROTO işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[14/25] TOASO işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[15/25] TCELL işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[16/25] PGSUS işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[17/25] ARCLK işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[18/25] VAKBN işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[19/25] HALKB işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[20/25] PETKM işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+  [429] Rate limit. 60sn bekleniyor...
+  [429] Rate limit. 60sn bekleniyor...
+  [429] Rate limit. 60sn bekleniyor...
+  HATA: PETKM [2023-01-01→2024-01-01]: 3 deneme de başarısız. Son hata: HTTP 429
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 6000 kayıt eklendi.
+
+[21/25] KOZAL işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[22/25] ENKAI işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[23/25] MGROS işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[24/25] ULKER işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+[25/25] TAVHL işleniyor...
+  Pencere: 2023-01-01 → 2024-01-01
+    → 2000 kayıt bulundu
+  Pencere: 2024-01-01 → 2024-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2024-12-31 → 2025-12-31
+    → 2000 kayıt bulundu
+  Pencere: 2025-12-31 → 2026-07-06
+    → 2000 kayıt bulundu
+  Toplam 8000 kayıt eklendi.
+
+
+CSV kaydedildi: kap_data\pilot_capital_increase.csv (196000 satır)
+
+============================================================
+RAPOR
+============================================================
+Toplam çekilen kayıt: 196000
+
+Kategori dağılımı:
+  BEDELSIZ    : 0
+  BEDELLI     : 0
+  TAHSISLI    : 0
+  BELIRSIZ    : 196000
+
+--- BEDELSIZ: 0 kayıt ---
+
+--- BEDELLI: 0 kayıt ---
+
+--- TAHSISLI: 0 kayıt ---
+
+--- BELIRSIZ (196000 kayıt) — 3 örnek başlık ---
+  1. ERSAN ALIŞVERİŞ HİZMETLERİ VE GIDA SANAYİ TİCARET A.Ş.
+  2. AKBANK T.A.Ş.
+  3. TÜRK EKONOMİ BANKASI A.Ş.
+
+============================================================
+Tamamlandı.

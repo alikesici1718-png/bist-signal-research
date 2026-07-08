@@ -1,0 +1,103 @@
+Symbols: 576 | Market benchmark: XU100 gercek endeks (data_market/XU100.csv)
+Toplam sinyal: 73135 | Sinyalli gun sayisi: 3621
+
+KAPASITE KISITI: gunde en fazla 15 pozisyon (en likit olanlar oncelikli secilir)
+POZISYON BOYUTU: min(gunluk_dolar_hacminin_%2'i, 50,000 TL sabit taban)
+ANA SENARYO (gercekci-kotumser): AtaYatirim komisyonu + YUKSEK_spread
+
+======================================================================
+HORIZON 1d
+======================================================================
+[Midas_kampanyali     + DUSUK_spread  ]
+    Gunluk portfoy NET ort=-40.4 bps | kazanma_orani=41.1% | n_gun=3619 | kapasite_asilan_gun=3314 (92%)
+    Toplam kumulatif (basit toplam) = -143451 bps | gunluk std=224.8 bps | ort/std oran=-0.180
+[YapiKredi_kademeli   + DUSUK_spread  ]
+    Gunluk portfoy NET ort=-61.4 bps | kazanma_orani=36.1% | n_gun=3619 | kapasite_asilan_gun=3314 (92%)
+    Toplam kumulatif (basit toplam) = -218001 bps | gunluk std=224.8 bps | ort/std oran=-0.273
+[AtaYatirim           + DUSUK_spread  ]
+    Gunluk portfoy NET ort=-77.4 bps | kazanma_orani=32.7% | n_gun=3619 | kapasite_asilan_gun=3314 (92%)
+    Toplam kumulatif (basit toplam) = -274801 bps | gunluk std=224.8 bps | ort/std oran=-0.344
+[HalkYatirim_standart + DUSUK_spread  ]
+    Gunluk portfoy NET ort=-103.4 bps | kazanma_orani=27.4% | n_gun=3619 | kapasite_asilan_gun=3314 (92%)
+    Toplam kumulatif (basit toplam) = -367101 bps | gunluk std=224.8 bps | ort/std oran=-0.460
+[Midas_kampanyali     + YUKSEK_spread ]
+    Gunluk portfoy NET ort=-126.8 bps | kazanma_orani=24.2% | n_gun=3619 | kapasite_asilan_gun=3314 (92%)
+    Toplam kumulatif (basit toplam) = -450154 bps | gunluk std=226.8 bps | ort/std oran=-0.559
+[YapiKredi_kademeli   + YUKSEK_spread ]
+    Gunluk portfoy NET ort=-147.8 bps | kazanma_orani=21.0% | n_gun=3619 | kapasite_asilan_gun=3314 (92%)
+    Toplam kumulatif (basit toplam) = -524704 bps | gunluk std=226.8 bps | ort/std oran=-0.652
+[AtaYatirim           + YUKSEK_spread ] *** ANA SENARYO ***
+    Gunluk portfoy NET ort=-163.8 bps | kazanma_orani=18.8% | n_gun=3619 | kapasite_asilan_gun=3314 (92%)
+    Toplam kumulatif (basit toplam) = -581504 bps | gunluk std=226.8 bps | ort/std oran=-0.722
+[HalkYatirim_standart + YUKSEK_spread ]
+    Gunluk portfoy NET ort=-189.8 bps | kazanma_orani=15.1% | n_gun=3619 | kapasite_asilan_gun=3314 (92%)
+    Toplam kumulatif (basit toplam) = -673804 bps | gunluk std=226.8 bps | ort/std oran=-0.837
+
+======================================================================
+HORIZON 3d
+======================================================================
+[Midas_kampanyali     + DUSUK_spread  ]
+    Gunluk portfoy NET ort=-21.8 bps | kazanma_orani=46.7% | n_gun=3617 | kapasite_asilan_gun=3312 (92%)
+    Toplam kumulatif (basit toplam) = -77108 bps | gunluk std=359.7 bps | ort/std oran=-0.061
+[YapiKredi_kademeli   + DUSUK_spread  ]
+    Gunluk portfoy NET ort=-42.8 bps | kazanma_orani=44.0% | n_gun=3617 | kapasite_asilan_gun=3312 (92%)
+    Toplam kumulatif (basit toplam) = -151259 bps | gunluk std=359.7 bps | ort/std oran=-0.119
+[AtaYatirim           + DUSUK_spread  ]
+    Gunluk portfoy NET ort=-58.8 bps | kazanma_orani=41.8% | n_gun=3617 | kapasite_asilan_gun=3312 (92%)
+    Toplam kumulatif (basit toplam) = -207755 bps | gunluk std=359.7 bps | ort/std oran=-0.164
+[HalkYatirim_standart + DUSUK_spread  ]
+    Gunluk portfoy NET ort=-84.8 bps | kazanma_orani=38.7% | n_gun=3617 | kapasite_asilan_gun=3312 (92%)
+    Toplam kumulatif (basit toplam) = -299561 bps | gunluk std=359.7 bps | ort/std oran=-0.236
+[Midas_kampanyali     + YUKSEK_spread ]
+    Gunluk portfoy NET ort=-108.2 bps | kazanma_orani=35.6% | n_gun=3617 | kapasite_asilan_gun=3312 (92%)
+    Toplam kumulatif (basit toplam) = -382187 bps | gunluk std=360.9 bps | ort/std oran=-0.300
+[YapiKredi_kademeli   + YUKSEK_spread ]
+    Gunluk portfoy NET ort=-129.2 bps | kazanma_orani=32.8% | n_gun=3617 | kapasite_asilan_gun=3312 (92%)
+    Toplam kumulatif (basit toplam) = -456338 bps | gunluk std=360.9 bps | ort/std oran=-0.358
+[AtaYatirim           + YUKSEK_spread ] *** ANA SENARYO ***
+    Gunluk portfoy NET ort=-145.2 bps | kazanma_orani=31.1% | n_gun=3617 | kapasite_asilan_gun=3312 (92%)
+    Toplam kumulatif (basit toplam) = -512834 bps | gunluk std=360.9 bps | ort/std oran=-0.402
+[HalkYatirim_standart + YUKSEK_spread ]
+    Gunluk portfoy NET ort=-171.2 bps | kazanma_orani=28.0% | n_gun=3617 | kapasite_asilan_gun=3312 (92%)
+    Toplam kumulatif (basit toplam) = -604640 bps | gunluk std=360.9 bps | ort/std oran=-0.475
+
+======================================================================
+HORIZON 5d
+======================================================================
+[Midas_kampanyali     + DUSUK_spread  ]
+    Gunluk portfoy NET ort=3.7 bps | kazanma_orani=50.5% | n_gun=3615 | kapasite_asilan_gun=3310 (92%)
+    Toplam kumulatif (basit toplam) = 13180 bps | gunluk std=449.7 bps | ort/std oran=0.008
+[YapiKredi_kademeli   + DUSUK_spread  ]
+    Gunluk portfoy NET ort=-17.3 bps | kazanma_orani=48.6% | n_gun=3615 | kapasite_asilan_gun=3310 (92%)
+    Toplam kumulatif (basit toplam) = -60803 bps | gunluk std=449.7 bps | ort/std oran=-0.038
+[AtaYatirim           + DUSUK_spread  ]
+    Gunluk portfoy NET ort=-33.3 bps | kazanma_orani=46.9% | n_gun=3615 | kapasite_asilan_gun=3310 (92%)
+    Toplam kumulatif (basit toplam) = -117171 bps | gunluk std=449.7 bps | ort/std oran=-0.074
+[HalkYatirim_standart + DUSUK_spread  ]
+    Gunluk portfoy NET ort=-59.3 bps | kazanma_orani=44.1% | n_gun=3615 | kapasite_asilan_gun=3310 (92%)
+    Toplam kumulatif (basit toplam) = -208769 bps | gunluk std=449.7 bps | ort/std oran=-0.132
+[Midas_kampanyali     + YUKSEK_spread ]
+    Gunluk portfoy NET ort=-82.7 bps | kazanma_orani=41.9% | n_gun=3615 | kapasite_asilan_gun=3310 (92%)
+    Toplam kumulatif (basit toplam) = -291186 bps | gunluk std=450.0 bps | ort/std oran=-0.184
+[YapiKredi_kademeli   + YUKSEK_spread ]
+    Gunluk portfoy NET ort=-103.7 bps | kazanma_orani=39.9% | n_gun=3615 | kapasite_asilan_gun=3310 (92%)
+    Toplam kumulatif (basit toplam) = -365169 bps | gunluk std=450.0 bps | ort/std oran=-0.230
+[AtaYatirim           + YUKSEK_spread ] *** ANA SENARYO ***
+    Gunluk portfoy NET ort=-119.7 bps | kazanma_orani=37.9% | n_gun=3615 | kapasite_asilan_gun=3310 (92%)
+    Toplam kumulatif (basit toplam) = -421537 bps | gunluk std=450.0 bps | ort/std oran=-0.266
+[HalkYatirim_standart + YUKSEK_spread ]
+    Gunluk portfoy NET ort=-145.7 bps | kazanma_orani=35.1% | n_gun=3615 | kapasite_asilan_gun=3310 (92%)
+    Toplam kumulatif (basit toplam) = -513135 bps | gunluk std=450.0 bps | ort/std oran=-0.324
+
+ONEMLI NOTLAR:
+- Bu backtest, gunluk portfoy getirisini kapasite kisitli olarak hesaplar.
+  Onceki (check_net_returns.py) test, her sinyale sinirsiz sermaye ile
+  girilebiliyormus gibi hesapliyordu - bu daha gerceklikten uzakti.
+- Pozisyon boyutu kisiti (dolar hacminin %2'si) market impact'i ortuk olarak
+  modele katar: hacmin cok kucuk bir kismini alan pozisyonlar o fiyattan
+  gerceklesir varsayimi, hacmin buyuk kismini almaya calisanlar gerceklesmez.
+- 'kapasite_asilan_gun' orani yuksekse (signal sayisi cap'i asiyorsa), bu
+  stratejinin olcek/capacity limiti oldugunu gosterir - portfoyu buyutmek
+  getiriyi orantili artirmaz.
+- Komisyon sabit/gercek, spread hala HL_RATIO tabanli tahmin - bkz.
+  check_net_returns.py notlari.

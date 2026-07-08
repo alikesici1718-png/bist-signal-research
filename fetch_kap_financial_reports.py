@@ -51,9 +51,9 @@ FAILED_LOG_PATH = OUTPUT_DIR / "kap_fetch_failed.csv"
 LOG_PATH = OUTPUT_DIR / "kap_fetch.log"
 
 CHECKPOINT_EVERY = 50          # kac sembolde bir ara kayit yapilsin
-REQUEST_DELAY_SECONDS = 2.5    # her sembol istegi arasi bekleme (KAP'i yormamak icin)
+REQUEST_DELAY_SECONDS = 8.0    # her sembol istegi arasi bekleme (KAP'i yormamak icin)
 MAX_RETRIES = 3
-RETRY_BACKOFF_BASE = 5.0       # saniye; deneme basina 1x, 2x, 4x... katlanir
+RETRY_BACKOFF_BASE = 15.0      # saniye; deneme basina 1x, 2x, 4x... katlanir
 
 logging.basicConfig(
     level=logging.INFO,
@@ -138,7 +138,10 @@ def fetch_one_symbol(ticker: str, from_date: date, to_date: date) -> list:
                 break
             except Exception as e:
                 last_error = str(e)
-                wait = RETRY_BACKOFF_BASE * (2 ** (attempt - 1))
+                if "429" in last_error:
+                    wait = 60.0
+                else:
+                    wait = RETRY_BACKOFF_BASE * (2 ** (attempt - 1))
                 log.warning(f"{ticker} [{window_start}-{window_end}]: deneme {attempt}/{MAX_RETRIES} basarisiz ({last_error}). {wait:.0f}sn bekleniyor...")
                 time.sleep(wait)
         else:
@@ -166,10 +169,18 @@ def main():
     from_date = datetime.strptime(args.from_date, "%Y-%m-%d").date()
     to_date = datetime.strptime(args.to_date, "%Y-%m-%d").date()
 
+    import os
     if args.symbols:
         symbols = [s.strip().upper() for s in args.symbols.split(",")]
     else:
-        symbols = sorted(pykap.bist_company_list())
+        symbols_file = "config/symbols.txt"
+        if os.path.exists(symbols_file):
+            with open(symbols_file, "r") as f:
+                symbols = sorted(set(line.strip().upper() for line in f if line.strip()))
+            log.info(f"config/symbols.txt kullanildi: {len(symbols)} sembol")
+        else:
+            symbols = sorted(pykap.bist_company_list())
+            log.warning("config/symbols.txt bulunamadi, tum pykap listesi kullaniliyor")
 
     log.info(f"Toplam {len(symbols)} sembol islenecek ({from_date} -> {to_date})")
 

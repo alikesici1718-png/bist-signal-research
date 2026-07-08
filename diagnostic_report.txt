@@ -1,0 +1,41 @@
+Symbols loaded: 576
+Market benchmark: XU100 gercek endeks (data_market/XU100.csv)
+IPO seasoning filter: ilk 60 islem gunu haric tutuldu (elenen: 2475 volume_spike, 2824 extreme_down adayi)
+volume_spike_2x events: 130801
+extreme_down_reversal events: 73135
+Overlap (same symbol+date): 14817
+  -> 11.3% of volume_spike events are also extreme_down events
+  -> 20.3% of extreme_down events are also volume_spike events
+
+--- Horizon 1d ---
+  volume_spike_2x: overall excess = -8.8 bps (n=130758)
+      illiquid: -0.2 bps (n=68208)
+      mid     : -15.9 bps (n=47099)
+      liquid  : -25.5 bps (n=15451)
+  extreme_down_reversal: overall excess = -45.8 bps (n=73106)
+      illiquid: -22.0 bps (n=42159)
+      mid     : -71.2 bps (n=21198)
+      liquid  : -93.3 bps (n=9749)
+
+--- Horizon 3d ---
+  volume_spike_2x: overall excess = -14.2 bps (n=130677)
+      illiquid: -1.2 bps (n=68171)
+      mid     : -22.7 bps (n=47075)
+      liquid  : -45.8 bps (n=15431)
+  extreme_down_reversal: overall excess = -63.1 bps (n=73048)
+      illiquid: -25.8 bps (n=42136)
+      mid     : -104.1 bps (n=21183)
+      liquid  : -135.3 bps (n=9729)
+
+--- Horizon 5d ---
+  volume_spike_2x: overall excess = -5.6 bps (n=130613)
+      illiquid: 15.0 bps (n=68149)
+      mid     : -20.0 bps (n=47056)
+      liquid  : -53.1 bps (n=15408)
+  extreme_down_reversal: overall excess = -76.4 bps (n=72990)
+      illiquid: -35.5 bps (n=42121)
+      mid     : -121.1 bps (n=21167)
+      liquid  : -156.1 bps (n=9702)
+
+Top 30 most extreme negative 5d-excess events saved to outlier_events.csv
+Inceleme onerisi: bu sembol+tarihleri elle kontrol et (split, temettu, limit-down var mi)

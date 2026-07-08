@@ -1,0 +1,115 @@
+#01 | ISCTR | ALIM
+     Bankamızın Borsada İşlem Gören Bağlı Ortaklıklarına Ait Hisselerinin Piyasadan Satın Alınması Hakkında
+
+#02 | ISCTR | ALIM
+     Bankamızın Borsada İşlem Gören Bağlı Ortaklıklarına Ait Payların Piyasadan Satın Alınması Hakkında
+
+#03 | ISCTR | ALIM
+     Türkiye Şişe ve Cam Fabrikaları A.Ş. Pay Alım İşlemleri Hakkında
+
+#04 | ISCTR | ALIM
+     Türkiye Şişe ve Cam Fabrikaları A.Ş. Pay Alım İşlemleri Hakkında
+
+#05 | ISCTR | ALIM
+     Türkiye Şişe ve Cam Fabrikaları A.Ş. Pay Alım İşlemleri Hakkında
+
+
+#06 | ISCTR | ALIM
+     Türkiye Şişe ve Cam Fabrikaları A.Ş. Pay Alım İşlemleri Hakkında
+
+#07 | ISCTR | ALIM
+     İş Gayrimenkul Yatırım Ortaklığı A.Ş. Pay Alım İşlemleri Hakkında
+
+#08 | ISCTR | ALIM
+     Türkiye Şişe ve Cam Fabrikaları A.Ş. Pay Alım İşlemleri Hakkında 
+
+#09 | ISCTR | ALIM
+     Türkiye Şişe ve Cam Fabrikaları A.Ş. Pay Alım İşlemleri Hakkında
+
+#10 | ISCTR | ALIM
+     İş Gayrimenkul Yatırım Ortaklığı A.Ş. Pay Alım İşlemleri Hakkında
+
+#11 | ISCTR | ALIM
+     Türkiye Şişe ve Cam Fabrikaları A.Ş. Pay Alım İşlemleri Hakkında
+
+#12 | ISCTR | ALIM
+     İş Gayrimenkul Yatırım Ortaklığı A.Ş. Pay Alım İşlemleri Hakkında
+
+#13 | ISCTR | ALIM
+     İş Gayrimenkul Yatırım Ortaklığı A.Ş. Pay Alım İşlemleri Hakkında
+
+#14 | ISCTR | ALIM
+     Türkiye Şişe ve Cam Fabrikaları A.Ş. Pay Alım İşlemleri Hakkında
+
+#15 | ISCTR | ALIM
+     Türkiye Şişe ve Cam Fabrikaları A.Ş. Pay Alım İşlemleri Hakkında
+
+#16 | ISCTR | ALIM
+     Türkiye Şişe ve Cam Fabrikaları A.Ş. Pay Alım İşlemleri Hakkında
+
+#17 | ISCTR | ALIM
+     İş Gayrimenkul Yatırım Ortaklığı A.Ş. Pay Alım İşlemleri Hakkında
+
+#18 | ISCTR | ALIM
+     İş Gayrimenkul Yatırım Ortaklığı A.Ş. Pay Alım İşlemleri Hakkında
+
+#19 | ISCTR | ALIM
+     Türkiye Şişe ve Cam Fabrikaları A.Ş. Pay Alım İşlemleri Hakkında
+
+#20 | ISCTR | ALIM
+     İş Gayrimenkul Yatırım Ortaklığı A.Ş. Pay Alım İşlemleri Hakkında
+
+#21 | ISCTR | ALIM
+     Türkiye Şişe ve Cam Fabrikaları A.Ş. Pay Alım İşlemleri Hakkında
+
+#22 | ISCTR | ALIM
+     Türkiye Şişe ve Cam Fabrikaları A.Ş. Pay Alım İşlemleri Hakkında 
+
+#23 | ISCTR | ALIM
+     İş Gayrimenkul Yatırım Ortaklığı A.Ş. Pay Alım İşlemleri Hakkında
+
+#24 | KCHOL | SATIM
+     Hisse satışına ilişkin yetkilendirme ve satış sürecinin başlangıcı
+
+#25 | KCHOL | SATIM
+     Hisse satış sürecinde işlem detaylarının belirlenmesi
+
+#26 | KCHOL | SATIM
+     Pay satış işleminin tamamlanması
+
+#27 | SAHOL | SATIM
+     Akçansa Paylarının Satışı
+
+#28 | VAKBN | ALIM
+     Vakıf Finansal Kiralama A.Ş. Pay Alım İşlemleri Hk.
+
+#29 | VAKBN | ALIM
+     Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş. Pay Alım İşlemleri Hk. 
+
+#30 | VAKBN | ALIM
+     Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş. Pay Alım İşlemleri Hk.
+
+#31 | VAKBN | ALIM
+     Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş. Pay Alım İşlemleri Hk.
+
+#32 | VAKBN | ALIM
+     Vakıf Finansal Kiralama A.Ş. Pay Alım İşlemleri Hk.
+
+#33 | VAKBN | ALIM
+     Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş. Pay Alım İşlemleri Hk.
+
+#34 | VAKBN | ALIM
+     Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş. Pay Alım İşlemleri Hk.
+
+#35 | VAKBN | ALIM
+     Vakıf Finansal Kiralama A.Ş. Pay Alım İşlemleri Hk.
+
+#36 | VAKBN | ALIM
+     Vakıf Finansal Kiralama A.Ş. Pay Alım İşlemleri Hk.
+
+#37 | VAKBN | ALIM
+     Vakıf Finansal Kiralama A.Ş. Pay Alım İşlemleri Hk.
+
+#38 | VAKBN | ALIM
+     Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş. Pay Alım İşlemleri Hk.
+

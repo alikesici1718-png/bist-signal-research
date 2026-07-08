@@ -1,0 +1,36 @@
+extreme_down_reversal events: 75965
+volume_spike_2x events: 133393
+
+=== 1) OVERLAP TESTI (likidite bazinda) ===
+Genel overlap: 15090 (19.9% of extreme_down, 11.3% of volume_spike)
+
+  illiquid: extreme_down n= 43182, volume_spike n= 69374, overlap n=  8318 (19.3% / 12.0%)
+  mid     : extreme_down n= 21947, volume_spike n= 47980, overlap n=  4765 (21.7% / 9.9%)
+  liquid  : extreme_down n= 10836, volume_spike n= 16039, overlap n=  2007 (18.5% / 12.5%)
+
+(Yorum: mid/liquid'de overlap %'si yuksekse, bu iki 'ayri' sinyal buyuk olcude
+ ayni olayi iki isimle sayiyor olabilir -- edge'i cift saymak riski var.)
+
+=== 2) ZAMAN KUMELENMESI TESTI ===
+Gunluk event sayisi istatistikleri: ortalama=20.7, std=7.0
+'Kriz gunu' tanimi: gunluk event sayisi z-score > 1.5
+Toplam kriz gunu sayisi: 4 / 3661 toplam olay-gunu
+
+Bagimsiz 'kriz kumesi' sayisi (kriz gunlerinin <= 5 gun ara ile birlesmesi): 4
+(Bu, oncekinden cok daha dar bir tanim -- sadece GERCEKTEN yogun gunleri
+ kriz sayiyor. 'Sakin' gunlerdeki (kriz-disi) olaylar bu kumelemenin disinda
+ kalir ve asagida ayrica 'sakin donem' olarak degerlendirilir.)
+
+Kriz gunlerindeki event sayisi: 480 (0.6%)
+Sakin donemdeki event sayisi : 75485 (99.4%)
+
+=== Net kar: KRIZ GUNU vs SAKIN DONEM karsilastirmasi (mid+liquid, 5g) ===
+KRIZ GUNU  : net_kar_ort=105.2 bps, n=231, kazanma_orani=73.6%
+SAKIN DONEM: net_kar_ort=81.3 bps, n=32446, kazanma_orani=59.5%
+
+YORUM: Eger SAKIN DONEM net kari da pozitif ve kazanma orani ~%50 ustundeyse,
+edge sadece krizlere bagimli degildir -- bu, stratejinin gunluk/surekli
+calisabilir olma ihtimalini artirir. Eger SAKIN DONEM'de kar sifira yakinsa
+veya negatifse, gordugumuz genel kar buyuk olcude az sayida kriz doneminden
+geliyor demektir -- bu durumda strateji ancak kriz taniyabilirsen (ki bu
+zaten zor bir on-kosul) ise yarar, 'her zaman calisan' bir strateji degildir.

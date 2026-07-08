@@ -1,0 +1,81 @@
+Symbols: 576 | Market benchmark: XU100 gercek endeks (data_market/XU100.csv)
+extreme_down_reversal events: 73135
+
+Maliyet modeli: NET = BRUT(short) - KOMISYON(sabit,gercek) - SPREAD(tahmini,HL bazli)
+Komisyon senaryolari (round-trip, bps): Midas_kampanyali=1.0, YapiKredi_kademeli=22.0, AtaYatirim=38.0, HalkYatirim_standart=64.0
+Spread kesir senaryolari (HL_baseline'in yuzdesi, round-trip icin x2): DUSUK_spread=10%, YUKSEK_spread=20%
+
+=== Horizon 1d (n=73041) ===
+BRUT excess (short yon): 17.5 bps (ort. brut(short)=17.5 bps)
+  (not: extreme_down sonrasi excess negatif demek dusus devam ediyor demek -- 'reversal' stratejisi burada LONG degil, momentum/continuation'a dayanir)
+  -- Spread senaryosu: DUSUK_spread (10% of HL, ort=81.5 bps) --
+      [Midas_kampanyali    ] komisyon=1.0bps + spread=81.5bps = toplam=82.5bps | NET=-65.2 bps | kazanma=46.5%
+          illiquid=NET:-84bps/win:46%/n42113 | mid=NET:-41bps/win:47%/n21188 | liquid=NET:-37bps/win:47%/n9740
+      [YapiKredi_kademeli  ] komisyon=22.0bps + spread=81.5bps = toplam=103.5bps | NET=-86.2 bps | kazanma=43.8%
+          illiquid=NET:-105bps/win:43%/n42113 | mid=NET:-62bps/win:44%/n21188 | liquid=NET:-58bps/win:45%/n9740
+      [AtaYatirim          ] komisyon=38.0bps + spread=81.5bps = toplam=119.5bps | NET=-102.2 bps | kazanma=41.8%
+          illiquid=NET:-121bps/win:41%/n42113 | mid=NET:-78bps/win:42%/n21188 | liquid=NET:-74bps/win:42%/n9740
+      [HalkYatirim_standart] komisyon=64.0bps + spread=81.5bps = toplam=145.5bps | NET=-128.2 bps | kazanma=38.6%
+          illiquid=NET:-147bps/win:38%/n42113 | mid=NET:-104bps/win:39%/n21188 | liquid=NET:-100bps/win:39%/n9740
+  -- Spread senaryosu: YUKSEK_spread (20% of HL, ort=163.0 bps) --
+      [Midas_kampanyali    ] komisyon=1.0bps + spread=163.0bps = toplam=164.0bps | NET=-146.8 bps | kazanma=36.9%
+          illiquid=NET:-162bps/win:37%/n42113 | mid=NET:-125bps/win:37%/n21188 | liquid=NET:-127bps/win:36%/n9740
+      [YapiKredi_kademeli  ] komisyon=22.0bps + spread=163.0bps = toplam=185.0bps | NET=-167.8 bps | kazanma=34.5%
+          illiquid=NET:-183bps/win:35%/n42113 | mid=NET:-146bps/win:34%/n21188 | liquid=NET:-148bps/win:34%/n9740
+      [AtaYatirim          ] komisyon=38.0bps + spread=163.0bps = toplam=201.0bps | NET=-183.8 bps | kazanma=32.7%
+          illiquid=NET:-199bps/win:33%/n42113 | mid=NET:-162bps/win:32%/n21188 | liquid=NET:-164bps/win:31%/n9740
+      [HalkYatirim_standart] komisyon=64.0bps + spread=163.0bps = toplam=227.0bps | NET=-209.8 bps | kazanma=29.7%
+          illiquid=NET:-225bps/win:30%/n42113 | mid=NET:-188bps/win:29%/n21188 | liquid=NET:-190bps/win:28%/n9740
+
+=== Horizon 3d (n=72983) ===
+BRUT excess (short yon): 19.7 bps (ort. brut(short)=19.7 bps)
+  (not: extreme_down sonrasi excess negatif demek dusus devam ediyor demek -- 'reversal' stratejisi burada LONG degil, momentum/continuation'a dayanir)
+  -- Spread senaryosu: DUSUK_spread (10% of HL, ort=81.5 bps) --
+      [Midas_kampanyali    ] komisyon=1.0bps + spread=81.5bps = toplam=82.5bps | NET=-63.0 bps | kazanma=50.6%
+          illiquid=NET:-94bps/win:50%/n42093 | mid=NET:-23bps/win:52%/n21179 | liquid=NET:-16bps/win:51%/n9711
+      [YapiKredi_kademeli  ] komisyon=22.0bps + spread=81.5bps = toplam=103.5bps | NET=-84.0 bps | kazanma=48.9%
+          illiquid=NET:-115bps/win:48%/n42093 | mid=NET:-44bps/win:50%/n21179 | liquid=NET:-37bps/win:49%/n9711
+      [AtaYatirim          ] komisyon=38.0bps + spread=81.5bps = toplam=119.5bps | NET=-100.0 bps | kazanma=47.5%
+          illiquid=NET:-131bps/win:47%/n42093 | mid=NET:-60bps/win:48%/n21179 | liquid=NET:-53bps/win:48%/n9711
+      [HalkYatirim_standart] komisyon=64.0bps + spread=81.5bps = toplam=145.5bps | NET=-126.0 bps | kazanma=45.3%
+          illiquid=NET:-157bps/win:45%/n42093 | mid=NET:-86bps/win:46%/n21179 | liquid=NET:-79bps/win:46%/n9711
+  -- Spread senaryosu: YUKSEK_spread (20% of HL, ort=162.9 bps) --
+      [Midas_kampanyali    ] komisyon=1.0bps + spread=162.9bps = toplam=163.9bps | NET=-144.7 bps | kazanma=44.2%
+          illiquid=NET:-172bps/win:44%/n42093 | mid=NET:-108bps/win:45%/n21179 | liquid=NET:-106bps/win:44%/n9711
+      [YapiKredi_kademeli  ] komisyon=22.0bps + spread=162.9bps = toplam=184.9bps | NET=-165.7 bps | kazanma=42.6%
+          illiquid=NET:-193bps/win:42%/n42093 | mid=NET:-129bps/win:43%/n21179 | liquid=NET:-127bps/win:43%/n9711
+      [AtaYatirim          ] komisyon=38.0bps + spread=162.9bps = toplam=200.9bps | NET=-181.7 bps | kazanma=41.3%
+          illiquid=NET:-209bps/win:41%/n42093 | mid=NET:-145bps/win:41%/n21179 | liquid=NET:-143bps/win:41%/n9711
+      [HalkYatirim_standart] komisyon=64.0bps + spread=162.9bps = toplam=226.9bps | NET=-207.7 bps | kazanma=39.3%
+          illiquid=NET:-235bps/win:39%/n42093 | mid=NET:-171bps/win:39%/n21179 | liquid=NET:-169bps/win:39%/n9711
+
+=== Horizon 5d (n=72925) ===
+BRUT excess (short yon): 31.8 bps (ort. brut(short)=31.8 bps)
+  (not: extreme_down sonrasi excess negatif demek dusus devam ediyor demek -- 'reversal' stratejisi burada LONG degil, momentum/continuation'a dayanir)
+  -- Spread senaryosu: DUSUK_spread (10% of HL, ort=81.5 bps) --
+      [Midas_kampanyali    ] komisyon=1.0bps + spread=81.5bps = toplam=82.5bps | NET=-51.0 bps | kazanma=52.4%
+          illiquid=NET:-85bps/win:52%/n42075 | mid=NET:-9bps/win:54%/n21158 | liquid=NET:2bps/win:52%/n9692
+      [YapiKredi_kademeli  ] komisyon=22.0bps + spread=81.5bps = toplam=103.5bps | NET=-72.0 bps | kazanma=51.1%
+          illiquid=NET:-106bps/win:50%/n42075 | mid=NET:-30bps/win:52%/n21158 | liquid=NET:-19bps/win:51%/n9692
+      [AtaYatirim          ] komisyon=38.0bps + spread=81.5bps = toplam=119.5bps | NET=-88.0 bps | kazanma=50.1%
+          illiquid=NET:-122bps/win:50%/n42075 | mid=NET:-46bps/win:51%/n21158 | liquid=NET:-35bps/win:50%/n9692
+      [HalkYatirim_standart] komisyon=64.0bps + spread=81.5bps = toplam=145.5bps | NET=-114.0 bps | kazanma=48.5%
+          illiquid=NET:-148bps/win:48%/n42075 | mid=NET:-72bps/win:50%/n21158 | liquid=NET:-61bps/win:48%/n9692
+  -- Spread senaryosu: YUKSEK_spread (20% of HL, ort=162.9 bps) --
+      [Midas_kampanyali    ] komisyon=1.0bps + spread=162.9bps = toplam=163.9bps | NET=-132.7 bps | kazanma=47.7%
+          illiquid=NET:-163bps/win:47%/n42075 | mid=NET:-93bps/win:49%/n21158 | liquid=NET:-88bps/win:47%/n9692
+      [YapiKredi_kademeli  ] komisyon=22.0bps + spread=162.9bps = toplam=184.9bps | NET=-153.7 bps | kazanma=46.3%
+          illiquid=NET:-184bps/win:46%/n42075 | mid=NET:-114bps/win:47%/n21158 | liquid=NET:-109bps/win:46%/n9692
+      [AtaYatirim          ] komisyon=38.0bps + spread=162.9bps = toplam=200.9bps | NET=-169.7 bps | kazanma=45.3%
+          illiquid=NET:-200bps/win:45%/n42075 | mid=NET:-130bps/win:46%/n21158 | liquid=NET:-125bps/win:45%/n9692
+      [HalkYatirim_standart] komisyon=64.0bps + spread=162.9bps = toplam=226.9bps | NET=-195.7 bps | kazanma=43.6%
+          illiquid=NET:-226bps/win:43%/n42075 | mid=NET:-156bps/win:44%/n21158 | liquid=NET:-151bps/win:43%/n9692
+
+YORUM: Bu bir SHORT stratejisi testi -- extreme_down sonrasi dususun
+devam ettigini varsayip short pozisyon acmayi simule eder (Edge Factory'nin
+comprehensive_scan.py bulgusuyla tutarli: excess surekli negatif = momentum,
+reversal degil).
+
+Komisyon bileseni artik SABIT ve GERCEK (yayinlanmis araci kurum tarifeleri).
+Spread bileseni HALA TAHMINI (HL_RATIO'nun bir kesri) - gercek bid-ask spread
+verisi yok. Kesin karar icin gercek order book / Level 2 verisi gerekir.

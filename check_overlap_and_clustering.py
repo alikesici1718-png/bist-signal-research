@@ -1,3 +1,4 @@
+# NOT: Bu dosya check_net_returns_cs.py ile aynidir, yinelenen dosya
 """
 check_net_returns_cs.py
 

@@ -1,0 +1,31 @@
+Kalite kontrolu: 25 sembol (toplam 597 icinden rastgele secildi)
+
+BRMEN: TEMIZ
+AKSGY: TEMIZ
+IHLGM: TEMIZ
+GRNYO: TEMIZ
+FZLGY: TEMIZ
+CRFSA: TEMIZ
+BNTAS: TEMIZ
+ULUSE: TEMIZ
+BFREN: TEMIZ
+OZRDN: TEMIZ
+ALFAS: TEMIZ
+ALCAR: TEMIZ
+BINBN: TEMIZ
+FORMT: TEMIZ
+GESAN: TEMIZ
+TAVHL: TEMIZ
+AKYHO: TEMIZ
+VKGYO: 1 sorun
+    - ASIRI GUNLUK HAREKET (>30%): 1 adet, ilk birkaci: 2014-05-02
+      -> actions cekilemedi: [Errno 22] Invalid argument
+ERBOS: TEMIZ
+OZATD: TEMIZ
+FRIGO: TEMIZ
+PSGYO: TEMIZ
+INDES: TEMIZ
+AEFES: TEMIZ
+DOAS: TEMIZ
+
+OZET: 24/25 sembol tamamen temiz

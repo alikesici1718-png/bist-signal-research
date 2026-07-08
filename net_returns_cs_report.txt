@@ -1,0 +1,46 @@
+Total extreme_down_reversal events: 75965
+
+=== Corwin-Schultz spread tahmini ile genel istatistik ===
+Universe medyan spread tahmini (round-trip icin x2): 50.7 bps (tek yon), 101.4 bps (round-trip)
+
+  illiquid: medyan tek-yon spread=55.3 bps, round-trip=110.7 bps, n_sembol=193
+  mid     : medyan tek-yon spread=51.6 bps, round-trip=103.3 bps, n_sembol=192
+  liquid  : medyan tek-yon spread=48.1 bps, round-trip=96.2 bps, n_sembol=192
+
+(NOT: Bu tahmini, senin onceki sabit varsayimlarinla (illiquid=150,
+ mid=60, liquid=25bps round-trip) karsilastir. Corwin-Schultz genelde
+ sadece SPREAD'i yakalar, market impact/slippage'i yakalamaz -- yani
+ gercek toplam maliyet CS tahmininden biraz yuksek olabilir, ozellikle
+ buyuk pozisyon boyutlarinda.)
+
+=== Net kar (Corwin-Schultz spread tahmini ile, mid+liquid) ===
+--- Horizon 1d (n=32734) ---
+  Ortalama tahmini maliyet: 182.3 bps
+  BRUT excess (long yon)   : -50.4 bps
+  NET KAR (kisa, CS maliyet): -131.9 bps
+  NET KAR pozitif oran      : 39.2%
+    mid     : net_kar=-135.8 bps, maliyet=184.4 bps, n=21915, kazanma=38.6%
+    liquid  : net_kar=-123.9 bps, maliyet=178.1 bps, n=10819, kazanma=40.2%
+
+--- Horizon 3d (n=32698) ---
+  Ortalama tahmini maliyet: 182.3 bps
+  BRUT excess (long yon)   : -76.5 bps
+  NET KAR (kisa, CS maliyet): -105.8 bps
+  NET KAR pozitif oran      : 45.6%
+    mid     : net_kar=-109.8 bps, maliyet=184.4 bps, n=21908, kazanma=45.5%
+    liquid  : net_kar=-97.9 bps, maliyet=178.1 bps, n=10790, kazanma=46.0%
+
+--- Horizon 5d (n=32659) ---
+  Ortalama tahmini maliyet: 182.3 bps
+  BRUT excess (long yon)   : -104.2 bps
+  NET KAR (kisa, CS maliyet): -78.0 bps
+  NET KAR pozitif oran      : 49.2%
+    mid     : net_kar=-83.0 bps, maliyet=184.3 bps, n=21888, kazanma=49.0%
+    liquid  : net_kar=-67.9 bps, maliyet=178.1 bps, n=10771, kazanma=49.5%
+
+YORUM: Bu sonucu check_net_returns.py'deki sabit-varsayim sonucuyla
+karsilastir. Eger CS-tabanli net kar da pozitif kaliyorsa, edge'in
+varligina olan guven artar (iki farkli maliyet yontemi ayni yone isaret
+ediyor). Eger CS spread'i sabit varsayimlardan cok daha yuksek cikip
+net kari negatife ceviriyorsa, once daha guvenilir sabit varsayimlar
+YANLIS DUSUK'tu demektir -- gercek maliyet daha yuksek.

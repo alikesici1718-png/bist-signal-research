@@ -18,11 +18,12 @@ Cikti:
     data_macro/usdtry_regime.csv  (Date, usdtry_close, usdtry_ret, usdtry_vol20, regime)
 """
 
+import os
 import pandas as pd
 import numpy as np
 from evds import evdsAPI
 
-API_KEY = "Mub6hUbWuk"
+API_KEY = os.environ.get("EVDS_API_KEY", "")
 START_DATE = "01-01-2015"   # veri setinizin kapsadigi araligi genis tutmak icin
 END_DATE = "05-07-2026"     # bugune kadar (gelecek tarih vermek hataya sebep olabilir)
 

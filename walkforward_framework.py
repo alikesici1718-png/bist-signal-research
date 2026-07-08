@@ -1,3 +1,4 @@
+# NOT: Bu dosya walk-forward mantigi icermiyor, gercek walk-forward icin walkforward_multi_signal.py kullanin. Output cakismasi onlenmistir.
 """
 diagnose_signals.py
 
@@ -156,7 +157,7 @@ def main():
         report_lines.append("Top 30 most extreme negative 5d-excess events saved to outlier_events.csv")
         report_lines.append("Inceleme onerisi: bu sembol+tarihleri elle kontrol et (split, temettu, limit-down var mi)")
 
-    with open("diagnostic_report.txt", "w", encoding="utf-8") as f:
+    with open("walkforward_framework_diagnostic.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(report_lines))
 
     print("\n".join(report_lines))

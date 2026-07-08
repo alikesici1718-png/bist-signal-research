@@ -1,0 +1,753 @@
+2026-07-06 23:10:31,025 [INFO] Toplam 3 sembol islenecek (2020-01-01 -> 2026-07-06)
+2026-07-06 23:10:31,026 [INFO] Islenecek kalan sembol sayisi: 3
+2026-07-06 23:10:31,370 [WARNING] THYAO: deneme 1/3 basarisiz (Failed to fetch historical disclosures for THYAO: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 3sn bekleniyor...
+2026-07-06 23:10:34,673 [WARNING] THYAO: deneme 2/3 basarisiz (Failed to fetch historical disclosures for THYAO: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 6sn bekleniyor...
+2026-07-06 23:10:41,030 [WARNING] THYAO: deneme 3/3 basarisiz (Failed to fetch historical disclosures for THYAO: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 12sn bekleniyor...
+2026-07-06 23:10:53,032 [ERROR] [1/3] THYAO: KALICI HATA -> THYAO icin 3 deneme de basarisiz: Failed to fetch historical disclosures for THYAO: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria
+2026-07-06 23:10:54,363 [WARNING] AKBNK: deneme 1/3 basarisiz (Failed to fetch historical disclosures for AKBNK: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 3sn bekleniyor...
+2026-07-06 23:10:57,696 [WARNING] AKBNK: deneme 2/3 basarisiz (Failed to fetch historical disclosures for AKBNK: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 6sn bekleniyor...
+2026-07-06 23:11:04,018 [WARNING] AKBNK: deneme 3/3 basarisiz (Failed to fetch historical disclosures for AKBNK: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 12sn bekleniyor...
+2026-07-06 23:11:16,021 [ERROR] [2/3] AKBNK: KALICI HATA -> AKBNK icin 3 deneme de basarisiz: Failed to fetch historical disclosures for AKBNK: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria
+2026-07-06 23:11:17,361 [WARNING] ASELS: deneme 1/3 basarisiz (Failed to fetch historical disclosures for ASELS: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 3sn bekleniyor...
+2026-07-06 23:11:20,696 [WARNING] ASELS: deneme 2/3 basarisiz (Failed to fetch historical disclosures for ASELS: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 6sn bekleniyor...
+2026-07-06 23:11:27,037 [WARNING] ASELS: deneme 3/3 basarisiz (Failed to fetch historical disclosures for ASELS: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 12sn bekleniyor...
+2026-07-06 23:11:39,040 [ERROR] [3/3] ASELS: KALICI HATA -> ASELS icin 3 deneme de basarisiz: Failed to fetch historical disclosures for ASELS: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria
+2026-07-06 23:11:40,046 [INFO] ============================================================
+2026-07-06 23:11:40,046 [INFO] BITTI. Bu calistirmada islenen: 0, toplam cekilen satir: 0, basarisiz: 3
+2026-07-06 23:11:40,046 [INFO] Basarisiz semboller: ['THYAO', 'AKBNK', 'ASELS']
+2026-07-06 23:11:40,046 [INFO] Detaylar icin: kap_data\kap_fetch_failed.csv
+2026-07-06 23:11:40,046 [INFO] Sonuclar: kap_data\kap_financial_report_dates.csv
+2026-07-06 23:11:40,047 [INFO] Tekrar calistirirsan (--no-resume vermeden) kaldigi yerden / basarisiz sembollerden devam eder.
+2026-07-07 00:12:02,644 [INFO] Toplam 3 sembol islenecek (2020-01-01 -> 2026-07-07)
+2026-07-07 00:12:02,652 [INFO] Islenecek kalan sembol sayisi: 3
+2026-07-07 00:12:03,997 [WARNING] THYAO: deneme 1/3 basarisiz (Failed to fetch historical disclosures for THYAO: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 3sn bekleniyor...
+2026-07-07 00:12:07,343 [WARNING] THYAO: deneme 2/3 basarisiz (Failed to fetch historical disclosures for THYAO: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 6sn bekleniyor...
+2026-07-07 00:12:13,714 [WARNING] THYAO: deneme 3/3 basarisiz (Failed to fetch historical disclosures for THYAO: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 12sn bekleniyor...
+2026-07-07 00:12:25,717 [ERROR] [1/3] THYAO: KALICI HATA -> THYAO icin 3 deneme de basarisiz: Failed to fetch historical disclosures for THYAO: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria
+2026-07-07 00:12:27,075 [WARNING] AKBNK: deneme 1/3 basarisiz (Failed to fetch historical disclosures for AKBNK: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 3sn bekleniyor...
+2026-07-07 00:12:30,427 [WARNING] AKBNK: deneme 2/3 basarisiz (Failed to fetch historical disclosures for AKBNK: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 6sn bekleniyor...
+2026-07-07 00:12:36,785 [WARNING] AKBNK: deneme 3/3 basarisiz (Failed to fetch historical disclosures for AKBNK: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 12sn bekleniyor...
+2026-07-07 00:12:48,787 [ERROR] [2/3] AKBNK: KALICI HATA -> AKBNK icin 3 deneme de basarisiz: Failed to fetch historical disclosures for AKBNK: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria
+2026-07-07 00:12:50,114 [WARNING] ASELS: deneme 1/3 basarisiz (Failed to fetch historical disclosures for ASELS: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 3sn bekleniyor...
+2026-07-07 00:12:53,467 [WARNING] ASELS: deneme 2/3 basarisiz (Failed to fetch historical disclosures for ASELS: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 6sn bekleniyor...
+2026-07-07 00:12:59,794 [WARNING] ASELS: deneme 3/3 basarisiz (Failed to fetch historical disclosures for ASELS: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 12sn bekleniyor...
+2026-07-07 00:13:11,796 [ERROR] [3/3] ASELS: KALICI HATA -> ASELS icin 3 deneme de basarisiz: Failed to fetch historical disclosures for ASELS: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria
+2026-07-07 00:13:12,800 [INFO] ============================================================
+2026-07-07 00:13:12,800 [INFO] BITTI. Bu calistirmada islenen: 0, toplam cekilen satir: 0, basarisiz: 3
+2026-07-07 00:13:12,800 [INFO] Basarisiz semboller: ['THYAO', 'AKBNK', 'ASELS']
+2026-07-07 00:13:12,800 [INFO] Detaylar icin: kap_data\kap_fetch_failed.csv
+2026-07-07 00:13:12,800 [INFO] Sonuclar: kap_data\kap_financial_report_dates.csv
+2026-07-07 00:13:12,801 [INFO] Tekrar calistirirsan (--no-resume vermeden) kaldigi yerden / basarisiz sembollerden devam eder.
+2026-07-07 00:47:54,738 [INFO] Toplam 3 sembol islenecek (2020-01-01 -> 2026-07-07)
+2026-07-07 00:47:54,738 [INFO] Islenecek kalan sembol sayisi: 3
+2026-07-07 00:47:55,078 [WARNING] THYAO: deneme 1/3 basarisiz (Failed to fetch historical disclosures for THYAO: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 5sn bekleniyor...
+2026-07-07 00:48:00,440 [WARNING] THYAO: deneme 2/3 basarisiz (Failed to fetch historical disclosures for THYAO: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 10sn bekleniyor...
+2026-07-07 00:48:10,771 [WARNING] THYAO: deneme 3/3 basarisiz (Failed to fetch historical disclosures for THYAO: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 20sn bekleniyor...
+2026-07-07 00:48:30,773 [ERROR] [1/3] THYAO: KALICI HATA -> THYAO icin 3 deneme de basarisiz: Failed to fetch historical disclosures for THYAO: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria
+2026-07-07 00:48:33,622 [WARNING] AKBNK: deneme 1/3 basarisiz (Failed to fetch historical disclosures for AKBNK: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 5sn bekleniyor...
+2026-07-07 00:48:38,956 [WARNING] AKBNK: deneme 2/3 basarisiz (Failed to fetch historical disclosures for AKBNK: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 10sn bekleniyor...
+2026-07-07 00:48:49,300 [WARNING] AKBNK: deneme 3/3 basarisiz (Failed to fetch historical disclosures for AKBNK: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 20sn bekleniyor...
+2026-07-07 00:49:09,302 [ERROR] [2/3] AKBNK: KALICI HATA -> AKBNK icin 3 deneme de basarisiz: Failed to fetch historical disclosures for AKBNK: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria
+2026-07-07 00:49:12,156 [WARNING] ASELS: deneme 1/3 basarisiz (Failed to fetch historical disclosures for ASELS: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 5sn bekleniyor...
+2026-07-07 00:49:17,477 [WARNING] ASELS: deneme 2/3 basarisiz (Failed to fetch historical disclosures for ASELS: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 10sn bekleniyor...
+2026-07-07 00:49:27,833 [WARNING] ASELS: deneme 3/3 basarisiz (Failed to fetch historical disclosures for ASELS: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 20sn bekleniyor...
+2026-07-07 00:49:47,835 [ERROR] [3/3] ASELS: KALICI HATA -> ASELS icin 3 deneme de basarisiz: Failed to fetch historical disclosures for ASELS: 500 Server Error: Internal Server Error for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria
+2026-07-07 00:49:50,340 [INFO] ============================================================
+2026-07-07 00:49:50,340 [INFO] BITTI. Bu calistirmada islenen: 0, toplam cekilen satir: 0, basarisiz: 3
+2026-07-07 00:49:50,340 [INFO] Basarisiz semboller: ['THYAO', 'AKBNK', 'ASELS']
+2026-07-07 00:49:50,340 [INFO] Detaylar icin: kap_data\kap_fetch_failed.csv
+2026-07-07 00:49:50,340 [INFO] Sonuclar: kap_data\kap_financial_report_dates.csv
+2026-07-07 00:49:50,340 [INFO] Tekrar calistirirsan (--no-resume vermeden) kaldigi yerden / basarisiz sembollerden devam eder.
+2026-07-07 01:06:50,239 [INFO] Toplam 3 sembol islenecek (2020-01-01 -> 2026-07-07)
+2026-07-07 01:06:50,239 [INFO] Islenecek kalan sembol sayisi: 3
+2026-07-07 01:07:10,720 [INFO] [1/3] THYAO: 27 bildirim bulundu
+2026-07-07 01:07:33,628 [INFO] [2/3] AKBNK: 52 bildirim bulundu
+2026-07-07 01:07:56,681 [INFO] [3/3] ASELS: 26 bildirim bulundu
+2026-07-07 01:07:59,184 [INFO] ============================================================
+2026-07-07 01:07:59,184 [INFO] BITTI. Bu calistirmada islenen: 3, toplam cekilen satir: 105, basarisiz: 0
+2026-07-07 01:07:59,184 [INFO] Sonuclar: kap_data\kap_financial_report_dates.csv
+2026-07-07 01:07:59,185 [INFO] Tekrar calistirirsan (--no-resume vermeden) kaldigi yerden / basarisiz sembollerden devam eder.
+2026-07-07 01:17:13,500 [INFO] Toplam 759 sembol islenecek (2015-01-01 -> 2026-07-07)
+2026-07-07 01:17:13,501 [INFO] Islenecek kalan sembol sayisi: 759
+2026-07-07 01:17:48,433 [INFO] [1/759] A1CAP: 40 bildirim bulundu
+2026-07-07 01:18:25,699 [INFO] [2/759] A1YEN: 23 bildirim bulundu
+2026-07-07 01:19:03,132 [INFO] [3/759] ACP: 40 bildirim bulundu
+2026-07-07 01:19:40,371 [INFO] [4/759] ACSEL: 40 bildirim bulundu
+2026-07-07 01:20:17,903 [INFO] [5/759] ADEL: 41 bildirim bulundu
+2026-07-07 01:20:55,400 [INFO] [6/759] ADESE: 40 bildirim bulundu
+2026-07-07 01:21:32,955 [INFO] [7/759] ADGYO: 25 bildirim bulundu
+2026-07-07 01:22:10,984 [INFO] [8/759] ADLVY: 1 bildirim bulundu
+2026-07-07 01:22:25,248 [WARNING] AEFES [2018-12-31-2019-12-31]: deneme 1/3 basarisiz (Failed to fetch historical disclosures for AEFES: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 5sn bekleniyor...
+2026-07-07 01:22:30,552 [WARNING] AEFES [2018-12-31-2019-12-31]: deneme 2/3 basarisiz (Failed to fetch historical disclosures for AEFES: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 10sn bekleniyor...
+2026-07-07 01:22:40,911 [WARNING] AEFES [2018-12-31-2019-12-31]: deneme 3/3 basarisiz (Failed to fetch historical disclosures for AEFES: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 20sn bekleniyor...
+2026-07-07 01:23:00,915 [ERROR] [9/759] AEFES: KALICI HATA -> AEFES [2018-12-31-2019-12-31] icin 3 deneme de basarisiz: Failed to fetch historical disclosures for AEFES: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria
+2026-07-07 01:23:03,736 [WARNING] AFB [2015-01-01-2016-01-01]: deneme 1/3 basarisiz (Failed to fetch historical disclosures for AFB: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 5sn bekleniyor...
+2026-07-07 01:23:09,047 [WARNING] AFB [2015-01-01-2016-01-01]: deneme 2/3 basarisiz (Failed to fetch historical disclosures for AFB: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 10sn bekleniyor...
+2026-07-07 01:23:19,350 [WARNING] AFB [2015-01-01-2016-01-01]: deneme 3/3 basarisiz (Failed to fetch historical disclosures for AFB: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 20sn bekleniyor...
+2026-07-07 01:23:39,355 [ERROR] [10/759] AFB: KALICI HATA -> AFB [2015-01-01-2016-01-01] icin 3 deneme de basarisiz: Failed to fetch historical disclosures for AFB: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria
+2026-07-07 01:23:42,167 [WARNING] AFYON [2015-01-01-2016-01-01]: deneme 1/3 basarisiz (Failed to fetch historical disclosures for AFYON: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 5sn bekleniyor...
+2026-07-07 01:23:47,473 [WARNING] AFYON [2015-01-01-2016-01-01]: deneme 2/3 basarisiz (Failed to fetch historical disclosures for AFYON: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 10sn bekleniyor...
+2026-07-07 01:23:57,790 [WARNING] AFYON [2015-01-01-2016-01-01]: deneme 3/3 basarisiz (Failed to fetch historical disclosures for AFYON: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 20sn bekleniyor...
+2026-07-07 01:24:17,792 [ERROR] [11/759] AFYON: KALICI HATA -> AFYON [2015-01-01-2016-01-01] icin 3 deneme de basarisiz: Failed to fetch historical disclosures for AFYON: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria
+2026-07-07 01:24:20,601 [WARNING] AGESA [2015-01-01-2016-01-01]: deneme 1/3 basarisiz (Failed to fetch historical disclosures for AGESA: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 5sn bekleniyor...
+2026-07-07 01:24:25,916 [WARNING] AGESA [2015-01-01-2016-01-01]: deneme 2/3 basarisiz (Failed to fetch historical disclosures for AGESA: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 10sn bekleniyor...
+2026-07-07 01:26:32,613 [INFO] Toplam 759 sembol islenecek (2015-01-01 -> 2026-07-07)
+2026-07-07 01:26:32,620 [INFO] Checkpoint bulundu: 3 sembol daha once islenmis, atlanacak
+2026-07-07 01:26:32,620 [INFO] Islenecek kalan sembol sayisi: 756
+2026-07-07 01:26:32,947 [WARNING] A1CAP [2015-01-01-2016-01-01]: deneme 1/3 basarisiz (Failed to fetch historical disclosures for A1CAP: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 60sn bekleniyor...
+2026-07-07 01:28:49,762 [INFO] [1/756] A1CAP: 40 bildirim bulundu
+2026-07-07 01:30:12,529 [INFO] [2/756] A1YEN: 23 bildirim bulundu
+2026-07-07 01:33:09,077 [INFO] config/symbols.txt kullanildi: 596 sembol
+2026-07-07 01:33:09,077 [INFO] Toplam 596 sembol islenecek (2015-01-01 -> 2026-07-07)
+2026-07-07 01:33:09,077 [INFO] Checkpoint bulundu: 3 sembol daha once islenmis, atlanacak
+2026-07-07 01:33:09,077 [INFO] Islenecek kalan sembol sayisi: 593
+2026-07-07 01:34:26,108 [INFO] [1/593] A1CAP: 40 bildirim bulundu
+2026-07-07 01:35:41,253 [INFO] [2/593] A1YEN: 23 bildirim bulundu
+2026-07-07 01:36:49,142 [INFO] [3/593] ACSEL: 40 bildirim bulundu
+2026-07-07 01:37:50,464 [INFO] [4/593] ADEL: 41 bildirim bulundu
+2026-07-07 01:38:46,186 [INFO] [5/593] ADESE: 40 bildirim bulundu
+2026-07-07 01:39:36,848 [INFO] [6/593] ADGYO: 25 bildirim bulundu
+2026-07-07 01:40:22,854 [INFO] [7/593] AEFES: 42 bildirim bulundu
+2026-07-07 01:41:04,707 [INFO] [8/593] AFYON: 40 bildirim bulundu
+2026-07-07 01:41:42,893 [INFO] [9/593] AGESA: 69 bildirim bulundu
+2026-07-07 01:42:17,554 [INFO] [10/593] AGHOL: 40 bildirim bulundu
+2026-07-07 01:42:49,374 [INFO] [11/593] AGROT: 13 bildirim bulundu
+2026-07-07 01:43:19,942 [INFO] [12/593] AGYO: 69 bildirim bulundu
+2026-07-07 01:43:24,684 [WARNING] AHGAZ [2016-01-01-2016-12-31]: deneme 1/3 basarisiz (Failed to fetch historical disclosures for AHGAZ: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 3sn bekleniyor...
+2026-07-07 01:43:27,972 [WARNING] AHGAZ [2016-01-01-2016-12-31]: deneme 2/3 basarisiz (Failed to fetch historical disclosures for AHGAZ: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 4sn bekleniyor...
+2026-07-07 01:43:32,762 [WARNING] AHGAZ [2016-01-01-2016-12-31]: deneme 3/3 basarisiz (Failed to fetch historical disclosures for AHGAZ: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 7sn bekleniyor...
+2026-07-07 01:43:39,515 [ERROR] [13/593] AHGAZ: KALICI HATA -> AHGAZ [2016-01-01-2016-12-31] icin 3 deneme de basarisiz: Failed to fetch historical disclosures for AHGAZ: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria
+2026-07-07 01:43:46,564 [WARNING] AHSGY [2015-01-01-2016-01-01]: deneme 1/3 basarisiz (Failed to fetch historical disclosures for AHSGY: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 10sn bekleniyor...
+2026-07-07 01:43:56,993 [WARNING] AHSGY [2015-01-01-2016-01-01]: deneme 2/3 basarisiz (Failed to fetch historical disclosures for AHSGY: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 15sn bekleniyor...
+2026-07-07 01:44:12,317 [WARNING] AHSGY [2015-01-01-2016-01-01]: deneme 3/3 basarisiz (Failed to fetch historical disclosures for AHSGY: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 15sn bekleniyor...
+2026-07-07 01:44:27,319 [ERROR] [14/593] AHSGY: KALICI HATA -> AHSGY [2015-01-01-2016-01-01] icin 3 deneme de basarisiz: Failed to fetch historical disclosures for AHSGY: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria
+2026-07-07 01:44:42,659 [WARNING] AKCNS [2015-01-01-2016-01-01]: deneme 1/3 basarisiz (Failed to fetch historical disclosures for AKCNS: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 15sn bekleniyor...
+2026-07-07 01:44:57,974 [WARNING] AKCNS [2015-01-01-2016-01-01]: deneme 2/3 basarisiz (Failed to fetch historical disclosures for AKCNS: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 15sn bekleniyor...
+2026-07-07 01:47:31,477 [INFO] config/symbols.txt kullanildi: 596 sembol
+2026-07-07 01:47:31,477 [INFO] Toplam 596 sembol islenecek (2015-01-01 -> 2026-07-07)
+2026-07-07 01:47:31,477 [INFO] Checkpoint bulundu: 3 sembol daha once islenmis, atlanacak
+2026-07-07 01:47:31,477 [INFO] Islenecek kalan sembol sayisi: 593
+2026-07-07 01:47:31,795 [WARNING] A1CAP [2015-01-01-2016-01-01]: deneme 1/3 basarisiz (Failed to fetch historical disclosures for A1CAP: 429 Client Error: Request Limit Exceeded for url: https://www.kap.org.tr/tr/api/disclosure/members/byCriteria). 60sn bekleniyor...
+2026-07-07 01:50:12,706 [INFO] [1/593] A1CAP: 40 bildirim bulundu
+2026-07-07 01:52:01,388 [INFO] [2/593] A1YEN: 23 bildirim bulundu
+2026-07-07 01:53:49,952 [INFO] [3/593] ACSEL: 40 bildirim bulundu
+2026-07-07 01:55:38,556 [INFO] [4/593] ADEL: 41 bildirim bulundu
+2026-07-07 01:57:27,119 [INFO] [5/593] ADESE: 40 bildirim bulundu
+2026-07-07 01:59:15,879 [INFO] [6/593] ADGYO: 25 bildirim bulundu
+2026-07-07 02:01:04,424 [INFO] [7/593] AEFES: 42 bildirim bulundu
+2026-07-07 02:02:53,090 [INFO] [8/593] AFYON: 40 bildirim bulundu
+2026-07-07 02:04:41,701 [INFO] [9/593] AGESA: 69 bildirim bulundu
+2026-07-07 02:06:30,088 [INFO] [10/593] AGHOL: 40 bildirim bulundu
+2026-07-07 02:08:18,586 [INFO] [11/593] AGROT: 13 bildirim bulundu
+2026-07-07 02:10:06,988 [INFO] [12/593] AGYO: 69 bildirim bulundu
+2026-07-07 02:11:55,510 [INFO] [13/593] AHGAZ: 14 bildirim bulundu
+2026-07-07 02:13:44,051 [INFO] [14/593] AHSGY: 8 bildirim bulundu
+2026-07-07 02:15:32,768 [INFO] [15/593] AKCNS: 42 bildirim bulundu
+2026-07-07 02:17:21,248 [INFO] [16/593] AKENR: 40 bildirim bulundu
+2026-07-07 02:19:09,955 [INFO] [17/593] AKFGY: 81 bildirim bulundu
+2026-07-07 02:20:58,511 [INFO] [18/593] AKFIS: 6 bildirim bulundu
+2026-07-07 02:22:47,307 [INFO] [19/593] AKFYE: 14 bildirim bulundu
+2026-07-07 02:24:35,749 [INFO] [20/593] AKGRT: 51 bildirim bulundu
+2026-07-07 02:26:24,274 [INFO] [21/593] AKHAN: 2 bildirim bulundu
+2026-07-07 02:28:12,959 [INFO] [22/593] AKMGY: 41 bildirim bulundu
+2026-07-07 02:30:01,364 [INFO] [23/593] AKSA: 40 bildirim bulundu
+2026-07-07 02:31:49,786 [INFO] [24/593] AKSEN: 46 bildirim bulundu
+2026-07-07 02:33:38,164 [INFO] [25/593] AKSGY: 80 bildirim bulundu
+2026-07-07 02:35:26,887 [INFO] [26/593] AKSUE: 43 bildirim bulundu
+2026-07-07 02:37:15,312 [INFO] [27/593] AKYHO: 41 bildirim bulundu
+2026-07-07 02:39:03,815 [INFO] [28/593] ALARK: 40 bildirim bulundu
+2026-07-07 02:40:52,421 [INFO] [29/593] ALBRK: 80 bildirim bulundu
+2026-07-07 02:42:40,850 [INFO] [30/593] ALCAR: 40 bildirim bulundu
+2026-07-07 02:44:29,327 [INFO] [31/593] ALCTL: 40 bildirim bulundu
+2026-07-07 02:46:17,938 [INFO] [32/593] ALFAS: 17 bildirim bulundu
+2026-07-07 02:48:06,258 [INFO] [33/593] ALGYO: 57 bildirim bulundu
+2026-07-07 02:49:54,860 [INFO] [34/593] ALKA: 42 bildirim bulundu
+2026-07-07 02:51:43,527 [INFO] [35/593] ALKIM: 40 bildirim bulundu
+2026-07-07 02:53:32,230 [INFO] [36/593] ALKLC: 8 bildirim bulundu
+2026-07-07 02:55:21,031 [INFO] [37/593] ALTNY: 10 bildirim bulundu
+2026-07-07 02:57:09,713 [INFO] [38/593] ALVES: 11 bildirim bulundu
+2026-07-07 02:58:58,269 [INFO] [39/593] ANELE: 46 bildirim bulundu
+2026-07-07 02:59:06,275 [WARNING] ANGEN [2015-01-01-2016-01-01]: deneme 1/3 basarisiz (Ticker 'ANGEN' not found in BIST company list.). 15sn bekleniyor...
+2026-07-07 02:59:21,278 [WARNING] ANGEN [2015-01-01-2016-01-01]: deneme 2/3 basarisiz (Ticker 'ANGEN' not found in BIST company list.). 30sn bekleniyor...
+2026-07-07 02:59:51,283 [WARNING] ANGEN [2015-01-01-2016-01-01]: deneme 3/3 basarisiz (Ticker 'ANGEN' not found in BIST company list.). 60sn bekleniyor...
+2026-07-07 03:00:51,285 [ERROR] [40/593] ANGEN: KALICI HATA -> ANGEN [2015-01-01-2016-01-01] icin 3 deneme de basarisiz: Ticker 'ANGEN' not found in BIST company list.
+2026-07-07 03:02:40,371 [INFO] [41/593] ANHYT: 80 bildirim bulundu
+2026-07-07 03:04:29,379 [INFO] [42/593] ANSGR: 80 bildirim bulundu
+2026-07-07 03:06:18,821 [INFO] [43/593] ARASE: 20 bildirim bulundu
+2026-07-07 03:08:08,674 [INFO] [44/593] ARCLK: 40 bildirim bulundu
+2026-07-07 03:09:57,449 [INFO] [45/593] ARDYZ: 27 bildirim bulundu
+2026-07-07 03:11:46,359 [INFO] [46/593] ARENA: 42 bildirim bulundu
+2026-07-07 03:13:35,341 [INFO] [47/593] ARFYE: 2 bildirim bulundu
+2026-07-07 03:15:24,006 [INFO] [48/593] ARMGD: 6 bildirim bulundu
+2026-07-07 03:17:12,568 [INFO] [49/593] ARSAN: 49 bildirim bulundu
+2026-07-07 03:19:01,505 [INFO] [50/593] ARTMS: 10 bildirim bulundu
+2026-07-07 03:19:09,508 [INFO] --- Checkpoint kaydedildi: 52/596 sembol tamamlandi ---
+2026-07-07 03:20:50,264 [INFO] [51/593] ARZUM: 22 bildirim bulundu
+2026-07-07 03:22:39,111 [INFO] [52/593] ASGYO: 14 bildirim bulundu
+2026-07-07 03:24:27,744 [INFO] [53/593] ASTOR: 16 bildirim bulundu
+2026-07-07 03:26:16,433 [INFO] [54/593] ASUZU: 40 bildirim bulundu
+2026-07-07 03:28:05,869 [INFO] [55/593] ATAGY: 44 bildirim bulundu
+2026-07-07 03:29:54,878 [INFO] [56/593] ATAKP: 13 bildirim bulundu
+2026-07-07 03:31:43,843 [INFO] [57/593] ATATP: 22 bildirim bulundu
+2026-07-07 03:33:32,614 [INFO] [58/593] ATATR: 2 bildirim bulundu
+2026-07-07 03:35:21,342 [INFO] [59/593] ATEKS: 43 bildirim bulundu
+2026-07-07 03:37:10,053 [INFO] [60/593] ATLAS: 40 bildirim bulundu
+2026-07-07 03:38:59,053 [INFO] [61/593] ATSYH: 43 bildirim bulundu
+2026-07-07 03:40:48,346 [INFO] [62/593] AVGYO: 79 bildirim bulundu
+2026-07-07 03:42:38,473 [INFO] [63/593] AVHOL: 36 bildirim bulundu
+2026-07-07 03:44:26,921 [INFO] [64/593] AVOD: 42 bildirim bulundu
+2026-07-07 03:46:15,472 [INFO] [65/593] AVPGY: 10 bildirim bulundu
+2026-07-07 03:48:03,921 [INFO] [66/593] AVTUR: 40 bildirim bulundu
+2026-07-07 03:49:52,382 [INFO] [67/593] AYCES: 41 bildirim bulundu
+2026-07-07 03:51:40,958 [INFO] [68/593] AYDEM: 22 bildirim bulundu
+2026-07-07 03:53:29,347 [INFO] [69/593] AYEN: 41 bildirim bulundu
+2026-07-07 03:55:17,802 [INFO] [70/593] AYES: 22 bildirim bulundu
+2026-07-07 03:57:06,382 [INFO] [71/593] AYGAZ: 40 bildirim bulundu
+2026-07-07 03:58:55,028 [INFO] [72/593] AZTEK: 16 bildirim bulundu
+2026-07-07 04:00:43,635 [INFO] [73/593] BAGFS: 41 bildirim bulundu
+2026-07-07 04:02:32,359 [INFO] [74/593] BAHKM: 8 bildirim bulundu
+2026-07-07 04:04:20,950 [INFO] [75/593] BAKAB: 40 bildirim bulundu
+2026-07-07 04:06:09,647 [INFO] [76/593] BALAT: 22 bildirim bulundu
+2026-07-07 04:07:58,417 [INFO] [77/593] BALSU: 6 bildirim bulundu
+2026-07-07 04:09:47,092 [INFO] [78/593] BANVT: 46 bildirim bulundu
+2026-07-07 04:11:35,861 [INFO] [79/593] BARMA: 17 bildirim bulundu
+2026-07-07 04:13:24,544 [INFO] [80/593] BASCM: 20 bildirim bulundu
+2026-07-07 04:15:13,176 [INFO] [81/593] BASGZ: 23 bildirim bulundu
+2026-07-07 04:17:02,186 [INFO] [82/593] BAYRK: 27 bildirim bulundu
+2026-07-07 04:18:50,947 [INFO] [83/593] BEGYO: 10 bildirim bulundu
+2026-07-07 04:20:39,651 [INFO] [84/593] BERA: 43 bildirim bulundu
+2026-07-07 04:22:28,205 [INFO] [85/593] BESLR: 42 bildirim bulundu
+2026-07-07 04:24:16,835 [INFO] [86/593] BESTE: 2 bildirim bulundu
+2026-07-07 04:26:05,490 [INFO] [87/593] BEYAZ: 31 bildirim bulundu
+2026-07-07 04:27:54,006 [INFO] [88/593] BFREN: 41 bildirim bulundu
+2026-07-07 04:29:43,074 [INFO] [89/593] BIENY: 13 bildirim bulundu
+2026-07-07 04:31:31,775 [INFO] [90/593] BIGCH: 13 bildirim bulundu
+2026-07-07 04:33:20,600 [INFO] [91/593] BIGEN: 7 bildirim bulundu
+2026-07-07 04:35:09,165 [INFO] [92/593] BIGTK: 40 bildirim bulundu
+2026-07-07 04:36:57,716 [INFO] [93/593] BIMAS: 40 bildirim bulundu
+2026-07-07 04:38:46,450 [INFO] [94/593] BINBN: 8 bildirim bulundu
+2026-07-07 04:40:35,268 [INFO] [95/593] BINHO: 11 bildirim bulundu
+2026-07-07 04:42:23,892 [INFO] [96/593] BIOEN: 21 bildirim bulundu
+2026-07-07 04:44:12,573 [INFO] [97/593] BIZIM: 40 bildirim bulundu
+2026-07-07 04:46:01,090 [INFO] [98/593] BJKAS: 44 bildirim bulundu
+2026-07-07 04:47:49,677 [INFO] [99/593] BLCYT: 41 bildirim bulundu
+2026-07-07 04:49:38,289 [INFO] [100/593] BLUME: 42 bildirim bulundu
+2026-07-07 04:49:46,293 [INFO] --- Checkpoint kaydedildi: 102/596 sembol tamamlandi ---
+2026-07-07 04:51:27,064 [INFO] [101/593] BMSCH: 22 bildirim bulundu
+2026-07-07 04:53:15,699 [INFO] [102/593] BMSTL: 17 bildirim bulundu
+2026-07-07 04:55:04,289 [INFO] [103/593] BNTAS: 45 bildirim bulundu
+2026-07-07 04:56:52,993 [INFO] [104/593] BOBET: 24 bildirim bulundu
+2026-07-07 04:58:41,612 [INFO] [105/593] BORLS: 11 bildirim bulundu
+2026-07-07 05:00:30,193 [INFO] [106/593] BORSK: 10 bildirim bulundu
+2026-07-07 05:02:18,698 [INFO] [107/593] BOSSA: 41 bildirim bulundu
+2026-07-07 05:04:07,182 [INFO] [108/593] BRISA: 41 bildirim bulundu
+2026-07-07 05:05:55,635 [INFO] [109/593] BRKO: 51 bildirim bulundu
+2026-07-07 05:07:44,213 [INFO] [110/593] BRKSN: 42 bildirim bulundu
+2026-07-07 05:09:32,939 [INFO] [111/593] BRKVY: 22 bildirim bulundu
+2026-07-07 05:11:21,507 [INFO] [112/593] BRLSM: 21 bildirim bulundu
+2026-07-07 05:13:10,108 [INFO] [113/593] BRMEN: 40 bildirim bulundu
+2026-07-07 05:14:58,627 [INFO] [114/593] BRSAN: 40 bildirim bulundu
+2026-07-07 05:16:47,150 [INFO] [115/593] BRYAT: 40 bildirim bulundu
+2026-07-07 05:18:35,629 [INFO] [116/593] BSOKE: 41 bildirim bulundu
+2026-07-07 05:20:24,231 [INFO] [117/593] BTCIM: 41 bildirim bulundu
+2026-07-07 05:22:12,872 [INFO] [118/593] BUCIM: 43 bildirim bulundu
+2026-07-07 05:24:01,459 [INFO] [119/593] BULGS: 6 bildirim bulundu
+2026-07-07 05:25:49,843 [INFO] [120/593] BURCE: 41 bildirim bulundu
+2026-07-07 05:27:38,569 [INFO] [121/593] BURVA: 41 bildirim bulundu
+2026-07-07 05:29:27,261 [INFO] [122/593] BVSAN: 15 bildirim bulundu
+2026-07-07 05:31:15,961 [INFO] [123/593] BYDNR: 12 bildirim bulundu
+2026-07-07 05:33:04,911 [INFO] [124/593] CANTE: 22 bildirim bulundu
+2026-07-07 05:34:53,522 [INFO] [125/593] CASA: 44 bildirim bulundu
+2026-07-07 05:36:42,282 [INFO] [126/593] CATES: 10 bildirim bulundu
+2026-07-07 05:38:31,047 [INFO] [127/593] CCOLA: 41 bildirim bulundu
+2026-07-07 05:40:20,086 [INFO] [128/593] CELHA: 41 bildirim bulundu
+2026-07-07 05:42:08,584 [INFO] [129/593] CEMAS: 40 bildirim bulundu
+2026-07-07 05:43:57,222 [INFO] [130/593] CEMTS: 40 bildirim bulundu
+2026-07-07 05:45:45,909 [INFO] [131/593] CEMZY: 8 bildirim bulundu
+2026-07-07 05:47:34,682 [INFO] [132/593] CEOEM: 28 bildirim bulundu
+2026-07-07 05:49:23,393 [INFO] [133/593] CGCAM: 8 bildirim bulundu
+2026-07-07 05:51:12,000 [INFO] [134/593] CIMSA: 40 bildirim bulundu
+2026-07-07 05:53:00,662 [INFO] [135/593] CLEBI: 40 bildirim bulundu
+2026-07-07 05:54:49,282 [INFO] [136/593] CMBTN: 40 bildirim bulundu
+2026-07-07 05:56:37,844 [INFO] [137/593] CMENT: 41 bildirim bulundu
+2026-07-07 05:58:26,496 [INFO] [138/593] CONSE: 18 bildirim bulundu
+2026-07-07 06:00:15,119 [INFO] [139/593] COSMO: 41 bildirim bulundu
+2026-07-07 06:02:03,775 [INFO] [140/593] CRDFA: 43 bildirim bulundu
+2026-07-07 06:03:52,280 [INFO] [141/593] CRFSA: 41 bildirim bulundu
+2026-07-07 06:05:40,853 [INFO] [142/593] CUSAN: 40 bildirim bulundu
+2026-07-07 06:07:29,610 [INFO] [143/593] CVKMD: 13 bildirim bulundu
+2026-07-07 06:09:18,312 [INFO] [144/593] CWENE: 13 bildirim bulundu
+2026-07-07 06:11:06,948 [INFO] [145/593] DAGI: 42 bildirim bulundu
+2026-07-07 06:12:55,709 [INFO] [146/593] DAPGM: 18 bildirim bulundu
+2026-07-07 06:14:44,381 [INFO] [147/593] DARDL: 42 bildirim bulundu
+2026-07-07 06:16:33,131 [INFO] [148/593] DCTTR: 8 bildirim bulundu
+2026-07-07 06:18:21,730 [INFO] [149/593] DENGE: 35 bildirim bulundu
+2026-07-07 06:20:10,456 [INFO] [150/593] DERHL: 28 bildirim bulundu
+2026-07-07 06:20:18,459 [INFO] --- Checkpoint kaydedildi: 152/596 sembol tamamlandi ---
+2026-07-07 06:21:58,987 [INFO] [151/593] DERIM: 41 bildirim bulundu
+2026-07-07 06:23:47,501 [INFO] [152/593] DESA: 44 bildirim bulundu
+2026-07-07 06:25:36,136 [INFO] [153/593] DESPC: 41 bildirim bulundu
+2026-07-07 06:27:24,594 [INFO] [154/593] DEVA: 41 bildirim bulundu
+2026-07-07 06:29:13,071 [INFO] [155/593] DGATE: 41 bildirim bulundu
+2026-07-07 06:31:01,612 [INFO] [156/593] DGGYO: 40 bildirim bulundu
+2026-07-07 06:32:50,054 [INFO] [157/593] DIRIT: 44 bildirim bulundu
+2026-07-07 06:34:38,470 [INFO] [158/593] DITAS: 40 bildirim bulundu
+2026-07-07 06:36:27,126 [INFO] [159/593] DMRGD: 11 bildirim bulundu
+2026-07-07 06:38:15,501 [INFO] [160/593] DMSAS: 41 bildirim bulundu
+2026-07-07 06:40:04,033 [INFO] [161/593] DNISI: 23 bildirim bulundu
+2026-07-07 06:41:52,642 [INFO] [162/593] DOAS: 40 bildirim bulundu
+2026-07-07 06:42:00,645 [WARNING] DOCO [2015-01-01-2016-01-01]: deneme 1/3 basarisiz (Ticker 'DOCO' not found in BIST company list.). 15sn bekleniyor...
+2026-07-07 06:42:15,651 [WARNING] DOCO [2015-01-01-2016-01-01]: deneme 2/3 basarisiz (Ticker 'DOCO' not found in BIST company list.). 30sn bekleniyor...
+2026-07-07 06:42:45,656 [WARNING] DOCO [2015-01-01-2016-01-01]: deneme 3/3 basarisiz (Ticker 'DOCO' not found in BIST company list.). 60sn bekleniyor...
+2026-07-07 06:43:45,657 [ERROR] [163/593] DOCO: KALICI HATA -> DOCO [2015-01-01-2016-01-01] icin 3 deneme de basarisiz: Ticker 'DOCO' not found in BIST company list.
+2026-07-07 06:45:34,354 [INFO] [164/593] DOFER: 13 bildirim bulundu
+2026-07-07 06:47:23,388 [INFO] [165/593] DOFRB: 3 bildirim bulundu
+2026-07-07 06:49:12,006 [INFO] [166/593] DOGUB: 40 bildirim bulundu
+2026-07-07 06:51:00,633 [INFO] [167/593] DOHOL: 40 bildirim bulundu
+2026-07-07 06:52:49,108 [INFO] [168/593] DOKTA: 42 bildirim bulundu
+2026-07-07 06:54:37,694 [INFO] [169/593] DSTKF: 23 bildirim bulundu
+2026-07-07 06:56:26,262 [INFO] [170/593] DUNYH: 42 bildirim bulundu
+2026-07-07 06:58:14,972 [INFO] [171/593] DURKN: 7 bildirim bulundu
+2026-07-07 07:00:03,917 [INFO] [172/593] DYOBY: 41 bildirim bulundu
+2026-07-07 07:01:52,570 [INFO] [173/593] DZGYO: 41 bildirim bulundu
+2026-07-07 07:03:41,280 [INFO] [174/593] EBEBK: 12 bildirim bulundu
+2026-07-07 07:05:29,844 [INFO] [175/593] ECILC: 43 bildirim bulundu
+2026-07-07 07:07:18,565 [INFO] [176/593] ECOGR: 4 bildirim bulundu
+2026-07-07 07:09:07,089 [INFO] [177/593] ECZYT: 42 bildirim bulundu
+2026-07-07 07:10:55,724 [INFO] [178/593] EDATA: 23 bildirim bulundu
+2026-07-07 07:12:44,327 [INFO] [179/593] EDIP: 40 bildirim bulundu
+2026-07-07 07:14:33,004 [INFO] [180/593] EFOR: 8 bildirim bulundu
+2026-07-07 07:16:21,645 [INFO] [181/593] EGEEN: 41 bildirim bulundu
+2026-07-07 07:18:10,240 [INFO] [182/593] EGEGY: 6 bildirim bulundu
+2026-07-07 07:19:58,935 [INFO] [183/593] EGEPO: 22 bildirim bulundu
+2026-07-07 07:21:47,513 [INFO] [184/593] EGGUB: 41 bildirim bulundu
+2026-07-07 07:23:36,258 [INFO] [185/593] EGPRO: 41 bildirim bulundu
+2026-07-07 07:25:24,874 [INFO] [186/593] EGSER: 41 bildirim bulundu
+2026-07-07 07:27:13,442 [INFO] [187/593] EKGYO: 70 bildirim bulundu
+2026-07-07 07:29:02,471 [INFO] [188/593] EKIZ: 42 bildirim bulundu
+2026-07-07 07:30:51,194 [INFO] [189/593] EKOS: 11 bildirim bulundu
+2026-07-07 07:32:39,915 [INFO] [190/593] EKSUN: 13 bildirim bulundu
+2026-07-07 07:34:29,003 [INFO] [191/593] ELITE: 23 bildirim bulundu
+2026-07-07 07:36:17,596 [INFO] [192/593] EMKEL: 41 bildirim bulundu
+2026-07-07 07:38:06,140 [INFO] [193/593] EMNIS: 41 bildirim bulundu
+2026-07-07 07:39:54,711 [INFO] [194/593] EMPAE: 2 bildirim bulundu
+2026-07-07 07:41:43,663 [INFO] [195/593] ENDAE: 6 bildirim bulundu
+2026-07-07 07:43:32,543 [INFO] [196/593] ENERY: 12 bildirim bulundu
+2026-07-07 07:45:21,237 [INFO] [197/593] ENJSA: 35 bildirim bulundu
+2026-07-07 07:47:09,984 [INFO] [198/593] ENKAI: 40 bildirim bulundu
+2026-07-07 07:48:58,766 [INFO] [199/593] ENSRI: 17 bildirim bulundu
+2026-07-07 07:50:47,520 [INFO] [200/593] ENTRA: 10 bildirim bulundu
+2026-07-07 07:50:55,523 [INFO] --- Checkpoint kaydedildi: 201/596 sembol tamamlandi ---
+2026-07-07 07:52:36,492 [INFO] [201/593] EPLAS: 44 bildirim bulundu
+2026-07-07 07:54:25,273 [INFO] [202/593] ERBOS: 42 bildirim bulundu
+2026-07-07 07:56:14,080 [INFO] [203/593] ERCB: 20 bildirim bulundu
+2026-07-07 07:58:02,682 [INFO] [204/593] EREGL: 41 bildirim bulundu
+2026-07-07 07:59:51,258 [INFO] [205/593] ERSU: 46 bildirim bulundu
+2026-07-07 08:01:40,100 [INFO] [206/593] ESCAR: 21 bildirim bulundu
+2026-07-07 08:03:28,646 [INFO] [207/593] ESCOM: 44 bildirim bulundu
+2026-07-07 08:05:17,409 [INFO] [208/593] ESEN: 24 bildirim bulundu
+2026-07-07 08:07:06,033 [INFO] [209/593] ETILR: 53 bildirim bulundu
+2026-07-07 08:08:54,631 [INFO] [210/593] ETYAT: 43 bildirim bulundu
+2026-07-07 08:10:43,263 [INFO] [211/593] EUHOL: 40 bildirim bulundu
+2026-07-07 08:12:31,767 [INFO] [212/593] EUKYO: 43 bildirim bulundu
+2026-07-07 08:14:20,450 [INFO] [213/593] EUPWR: 13 bildirim bulundu
+2026-07-07 08:16:09,204 [INFO] [214/593] EUREN: 16 bildirim bulundu
+2026-07-07 08:17:57,922 [INFO] [215/593] EUYO: 42 bildirim bulundu
+2026-07-07 08:19:46,991 [INFO] [216/593] EYGYO: 28 bildirim bulundu
+2026-07-07 08:21:35,575 [INFO] [217/593] FADE: 27 bildirim bulundu
+2026-07-07 08:23:24,176 [INFO] [218/593] FENER: 41 bildirim bulundu
+2026-07-07 08:25:12,741 [INFO] [219/593] FLAP: 41 bildirim bulundu
+2026-07-07 08:27:01,571 [INFO] [220/593] FMIZP: 48 bildirim bulundu
+2026-07-07 08:28:50,275 [INFO] [221/593] FONET: 39 bildirim bulundu
+2026-07-07 08:30:39,055 [INFO] [222/593] FORMT: 35 bildirim bulundu
+2026-07-07 08:32:27,935 [INFO] [223/593] FORTE: 12 bildirim bulundu
+2026-07-07 08:34:16,657 [INFO] [224/593] FRIGO: 41 bildirim bulundu
+2026-07-07 08:36:05,744 [INFO] [225/593] FRMPL: 2 bildirim bulundu
+2026-07-07 08:37:54,319 [INFO] [226/593] FROTO: 41 bildirim bulundu
+2026-07-07 08:39:42,976 [INFO] [227/593] FZLGY: 24 bildirim bulundu
+2026-07-07 08:41:31,821 [INFO] [228/593] GARAN: 80 bildirim bulundu
+2026-07-07 08:43:20,264 [INFO] [229/593] GARFA: 43 bildirim bulundu
+2026-07-07 08:45:08,679 [INFO] [230/593] GATEG: 43 bildirim bulundu
+2026-07-07 08:46:57,648 [INFO] [231/593] GEDIK: 43 bildirim bulundu
+2026-07-07 08:48:46,311 [INFO] [232/593] GEDZA: 41 bildirim bulundu
+2026-07-07 08:50:34,897 [INFO] [233/593] GENIL: 21 bildirim bulundu
+2026-07-07 08:52:23,442 [INFO] [234/593] GENKM: 1 bildirim bulundu
+2026-07-07 08:54:11,819 [INFO] [235/593] GENTS: 41 bildirim bulundu
+2026-07-07 08:56:00,637 [INFO] [236/593] GEREL: 43 bildirim bulundu
+2026-07-07 08:57:49,251 [INFO] [237/593] GESAN: 21 bildirim bulundu
+2026-07-07 08:59:37,957 [INFO] [238/593] GIPTA: 13 bildirim bulundu
+2026-07-07 09:01:26,947 [INFO] [239/593] GLBMD: 42 bildirim bulundu
+2026-07-07 09:03:15,726 [INFO] [240/593] GLCVY: 27 bildirim bulundu
+2026-07-07 09:05:04,946 [INFO] [241/593] GLRMK: 7 bildirim bulundu
+2026-07-07 09:06:53,539 [INFO] [242/593] GLRYH: 43 bildirim bulundu
+2026-07-07 09:08:42,114 [INFO] [243/593] GLYHO: 40 bildirim bulundu
+2026-07-07 09:10:30,936 [INFO] [244/593] GMTAS: 20 bildirim bulundu
+2026-07-07 09:12:20,129 [INFO] [245/593] GOKNR: 14 bildirim bulundu
+2026-07-07 09:14:08,839 [INFO] [246/593] GOLTS: 41 bildirim bulundu
+2026-07-07 09:15:57,270 [INFO] [247/593] GOODY: 42 bildirim bulundu
+2026-07-07 09:17:45,761 [INFO] [248/593] GOZDE: 40 bildirim bulundu
+2026-07-07 09:19:34,324 [INFO] [249/593] GRNYO: 41 bildirim bulundu
+2026-07-07 09:21:23,131 [INFO] [250/593] GRSEL: 17 bildirim bulundu
+2026-07-07 09:21:31,135 [INFO] --- Checkpoint kaydedildi: 251/596 sembol tamamlandi ---
+2026-07-07 09:23:11,837 [INFO] [251/593] GRTHO: 13 bildirim bulundu
+2026-07-07 09:25:00,261 [INFO] [252/593] GSDDE: 40 bildirim bulundu
+2026-07-07 09:26:48,737 [INFO] [253/593] GSDHO: 40 bildirim bulundu
+2026-07-07 09:28:37,211 [INFO] [254/593] GSRAY: 41 bildirim bulundu
+2026-07-07 09:30:26,144 [INFO] [255/593] GUBRF: 41 bildirim bulundu
+2026-07-07 09:32:15,056 [INFO] [256/593] GUNDG: 8 bildirim bulundu
+2026-07-07 09:34:03,976 [INFO] [257/593] GWIND: 22 bildirim bulundu
+2026-07-07 09:35:52,851 [INFO] [258/593] GZNMI: 17 bildirim bulundu
+2026-07-07 09:37:41,679 [INFO] [259/593] HALKB: 80 bildirim bulundu
+2026-07-07 09:39:30,318 [INFO] [260/593] HATEK: 42 bildirim bulundu
+2026-07-07 09:41:19,083 [INFO] [261/593] HATSN: 11 bildirim bulundu
+2026-07-07 09:43:07,779 [INFO] [262/593] HDFGS: 40 bildirim bulundu
+2026-07-07 09:44:56,564 [INFO] [263/593] HEDEF: 19 bildirim bulundu
+2026-07-07 09:46:45,041 [INFO] [264/593] HEKTS: 40 bildirim bulundu
+2026-07-07 09:48:33,753 [INFO] [265/593] HKTM: 17 bildirim bulundu
+2026-07-07 09:50:22,170 [INFO] [266/593] HLGYO: 57 bildirim bulundu
+2026-07-07 09:52:10,965 [INFO] [267/593] HOROZ: 9 bildirim bulundu
+2026-07-07 09:54:00,598 [INFO] [268/593] HRKET: 11 bildirim bulundu
+2026-07-07 09:55:49,134 [INFO] [269/593] HTTBT: 18 bildirim bulundu
+2026-07-07 09:57:37,613 [INFO] [270/593] HUBVC: 44 bildirim bulundu
+2026-07-07 09:59:26,727 [INFO] [271/593] HUNER: 19 bildirim bulundu
+2026-07-07 10:01:15,484 [INFO] [272/593] HURGZ: 43 bildirim bulundu
+2026-07-07 10:03:04,371 [INFO] [273/593] ICBCT: 80 bildirim bulundu
+2026-07-07 10:04:53,089 [INFO] [274/593] IDGYO: 41 bildirim bulundu
+2026-07-07 10:06:41,876 [INFO] [275/593] IEYHO: 41 bildirim bulundu
+2026-07-07 10:08:30,670 [INFO] [276/593] IHAAS: 19 bildirim bulundu
+2026-07-07 10:10:19,490 [INFO] [277/593] IHEVA: 42 bildirim bulundu
+2026-07-07 10:12:08,121 [INFO] [278/593] IHGZT: 40 bildirim bulundu
+2026-07-07 10:13:56,872 [INFO] [279/593] IHLAS: 40 bildirim bulundu
+2026-07-07 10:15:45,756 [INFO] [280/593] IHLGM: 40 bildirim bulundu
+2026-07-07 10:17:34,424 [INFO] [281/593] IHYAY: 40 bildirim bulundu
+2026-07-07 10:19:23,211 [INFO] [282/593] IMASM: 17 bildirim bulundu
+2026-07-07 10:21:11,960 [INFO] [283/593] INDES: 41 bildirim bulundu
+2026-07-07 10:23:00,857 [INFO] [284/593] INFO: 42 bildirim bulundu
+2026-07-07 10:24:49,500 [INFO] [285/593] INGRM: 40 bildirim bulundu
+2026-07-07 10:26:38,096 [INFO] [286/593] INTEK: 21 bildirim bulundu
+2026-07-07 10:28:26,646 [INFO] [287/593] INTEM: 40 bildirim bulundu
+2026-07-07 10:30:15,275 [INFO] [288/593] INVEO: 40 bildirim bulundu
+2026-07-07 10:32:04,042 [INFO] [289/593] INVES: 17 bildirim bulundu
+2026-07-07 10:33:52,676 [INFO] [290/593] ISBIR: 23 bildirim bulundu
+2026-07-07 10:35:41,520 [INFO] [291/593] ISBTR: 80 bildirim bulundu
+2026-07-07 10:37:30,983 [INFO] [292/593] ISCTR: 80 bildirim bulundu
+2026-07-07 10:39:19,679 [INFO] [293/593] ISDMR: 38 bildirim bulundu
+2026-07-07 10:41:08,584 [INFO] [294/593] ISFIN: 42 bildirim bulundu
+2026-07-07 10:42:57,319 [INFO] [295/593] ISGSY: 40 bildirim bulundu
+2026-07-07 10:44:46,027 [INFO] [296/593] ISGYO: 41 bildirim bulundu
+2026-07-07 10:46:34,767 [INFO] [297/593] ISKPL: 22 bildirim bulundu
+2026-07-07 10:48:23,635 [INFO] [298/593] ISKUR: 80 bildirim bulundu
+2026-07-07 10:50:12,493 [INFO] [299/593] ISMEN: 49 bildirim bulundu
+2026-07-07 10:52:01,323 [INFO] [300/593] ISSEN: 19 bildirim bulundu
+2026-07-07 10:52:09,325 [INFO] --- Checkpoint kaydedildi: 301/596 sembol tamamlandi ---
+2026-07-07 10:53:50,125 [INFO] [301/593] IZENR: 12 bildirim bulundu
+2026-07-07 10:55:38,819 [INFO] [302/593] IZFAS: 34 bildirim bulundu
+2026-07-07 10:57:27,508 [INFO] [303/593] IZINV: 38 bildirim bulundu
+2026-07-07 10:59:16,264 [INFO] [304/593] IZMDC: 41 bildirim bulundu
+2026-07-07 11:01:05,022 [INFO] [305/593] JANTS: 40 bildirim bulundu
+2026-07-07 11:02:53,742 [INFO] [306/593] KAPLM: 41 bildirim bulundu
+2026-07-07 11:04:42,573 [INFO] [307/593] KAREL: 40 bildirim bulundu
+2026-07-07 11:06:31,283 [INFO] [308/593] KARSN: 41 bildirim bulundu
+2026-07-07 11:08:19,919 [INFO] [309/593] KARTN: 41 bildirim bulundu
+2026-07-07 11:10:08,598 [INFO] [310/593] KATMR: 40 bildirim bulundu
+2026-07-07 11:11:57,358 [INFO] [311/593] KAYSE: 13 bildirim bulundu
+2026-07-07 11:13:46,092 [INFO] [312/593] KBORU: 11 bildirim bulundu
+2026-07-07 11:15:35,084 [INFO] [313/593] KCAER: 17 bildirim bulundu
+2026-07-07 11:17:23,820 [INFO] [314/593] KCHOL: 40 bildirim bulundu
+2026-07-07 11:19:12,434 [INFO] [315/593] KENT: 40 bildirim bulundu
+2026-07-07 11:21:01,123 [INFO] [316/593] KERVN: 43 bildirim bulundu
+2026-07-07 11:22:49,942 [INFO] [317/593] KFEIN: 33 bildirim bulundu
+2026-07-07 11:24:38,574 [INFO] [318/593] KGYO: 89 bildirim bulundu
+2026-07-07 11:26:27,414 [INFO] [319/593] KIMMR: 19 bildirim bulundu
+2026-07-07 11:28:16,020 [INFO] [320/593] KLGYO: 41 bildirim bulundu
+2026-07-07 11:30:04,834 [INFO] [321/593] KLKIM: 22 bildirim bulundu
+2026-07-07 11:31:53,604 [INFO] [322/593] KLMSN: 49 bildirim bulundu
+2026-07-07 11:33:42,502 [INFO] [323/593] KLNMA: 62 bildirim bulundu
+2026-07-07 11:35:31,235 [INFO] [324/593] KLRHO: 17 bildirim bulundu
+2026-07-07 11:37:19,983 [INFO] [325/593] KLSER: 21 bildirim bulundu
+2026-07-07 11:39:08,798 [INFO] [326/593] KLSYN: 19 bildirim bulundu
+2026-07-07 11:40:57,531 [INFO] [327/593] KLYPV: 6 bildirim bulundu
+2026-07-07 11:42:46,277 [INFO] [328/593] KMPUR: 17 bildirim bulundu
+2026-07-07 11:44:35,181 [INFO] [329/593] KNFRT: 40 bildirim bulundu
+2026-07-07 11:46:24,048 [INFO] [330/593] KOCMT: 9 bildirim bulundu
+2026-07-07 11:48:13,259 [INFO] [331/593] KONKA: 19 bildirim bulundu
+2026-07-07 11:50:02,029 [INFO] [332/593] KONTR: 24 bildirim bulundu
+2026-07-07 11:51:50,788 [INFO] [333/593] KONYA: 40 bildirim bulundu
+2026-07-07 11:53:39,712 [INFO] [334/593] KOPOL: 13 bildirim bulundu
+2026-07-07 11:55:28,392 [INFO] [335/593] KORDS: 41 bildirim bulundu
+2026-07-07 11:57:17,232 [INFO] [336/593] KOTON: 17 bildirim bulundu
+2026-07-07 11:57:25,240 [WARNING] KOZAA [2015-01-01-2016-01-01]: deneme 1/3 basarisiz (Ticker 'KOZAA' not found in BIST company list.). 15sn bekleniyor...
+2026-07-07 11:57:40,246 [WARNING] KOZAA [2015-01-01-2016-01-01]: deneme 2/3 basarisiz (Ticker 'KOZAA' not found in BIST company list.). 30sn bekleniyor...
+2026-07-07 11:58:10,253 [WARNING] KOZAA [2015-01-01-2016-01-01]: deneme 3/3 basarisiz (Ticker 'KOZAA' not found in BIST company list.). 60sn bekleniyor...
+2026-07-07 11:59:10,254 [ERROR] [337/593] KOZAA: KALICI HATA -> KOZAA [2015-01-01-2016-01-01] icin 3 deneme de basarisiz: Ticker 'KOZAA' not found in BIST company list.
+2026-07-07 12:00:59,069 [INFO] [338/593] KRDMA: 41 bildirim bulundu
+2026-07-07 12:02:47,789 [INFO] [339/593] KRDMB: 41 bildirim bulundu
+2026-07-07 12:04:36,431 [INFO] [340/593] KRDMD: 41 bildirim bulundu
+2026-07-07 12:06:25,124 [INFO] [341/593] KRGYO: 40 bildirim bulundu
+2026-07-07 12:08:15,306 [INFO] [342/593] KRONT: 40 bildirim bulundu
+2026-07-07 12:10:04,041 [INFO] [343/593] KRPLS: 18 bildirim bulundu
+2026-07-07 12:11:52,694 [INFO] [344/593] KRSTL: 42 bildirim bulundu
+2026-07-07 12:13:41,506 [INFO] [345/593] KRTEK: 42 bildirim bulundu
+2026-07-07 12:15:30,825 [INFO] [346/593] KRVGD: 24 bildirim bulundu
+2026-07-07 12:17:19,458 [INFO] [347/593] KSTUR: 20 bildirim bulundu
+2026-07-07 12:19:08,261 [INFO] [348/593] KTLEV: 12 bildirim bulundu
+2026-07-07 12:20:58,221 [INFO] [349/593] KTSKR: 22 bildirim bulundu
+2026-07-07 12:22:46,913 [INFO] [350/593] KUTPO: 42 bildirim bulundu
+2026-07-07 12:22:54,915 [INFO] --- Checkpoint kaydedildi: 350/596 sembol tamamlandi ---
+2026-07-07 12:24:35,908 [INFO] [351/593] KUVVA: 43 bildirim bulundu
+2026-07-07 12:26:24,770 [INFO] [352/593] KUYAS: 43 bildirim bulundu
+2026-07-07 12:28:13,551 [INFO] [353/593] KZBGY: 34 bildirim bulundu
+2026-07-07 12:30:02,381 [INFO] [354/593] KZGYO: 22 bildirim bulundu
+2026-07-07 12:31:51,256 [INFO] [355/593] LIDER: 25 bildirim bulundu
+2026-07-07 12:33:39,931 [INFO] [356/593] LIDFA: 44 bildirim bulundu
+2026-07-07 12:35:28,825 [INFO] [357/593] LILAK: 9 bildirim bulundu
+2026-07-07 12:37:17,592 [INFO] [358/593] LINK: 40 bildirim bulundu
+2026-07-07 12:39:06,281 [INFO] [359/593] LKMNH: 42 bildirim bulundu
+2026-07-07 12:40:55,251 [INFO] [360/593] LMKDC: 10 bildirim bulundu
+2026-07-07 12:42:44,028 [INFO] [361/593] LOGO: 41 bildirim bulundu
+2026-07-07 12:44:32,697 [INFO] [362/593] LRSHO: 41 bildirim bulundu
+2026-07-07 12:46:21,369 [INFO] [363/593] LUKSK: 42 bildirim bulundu
+2026-07-07 12:48:10,106 [INFO] [364/593] LYDHO: 42 bildirim bulundu
+2026-07-07 12:49:58,799 [INFO] [365/593] LYDYE: 33 bildirim bulundu
+2026-07-07 12:51:47,456 [INFO] [366/593] MAALT: 41 bildirim bulundu
+2026-07-07 12:53:36,198 [INFO] [367/593] MACKO: 14 bildirim bulundu
+2026-07-07 12:55:25,098 [INFO] [368/593] MAGEN: 20 bildirim bulundu
+2026-07-07 12:57:14,599 [INFO] [369/593] MAKIM: 17 bildirim bulundu
+2026-07-07 12:59:03,264 [INFO] [370/593] MAKTK: 40 bildirim bulundu
+2026-07-07 13:00:52,401 [INFO] [371/593] MANAS: 21 bildirim bulundu
+2026-07-07 13:02:41,224 [INFO] [372/593] MARBL: 12 bildirim bulundu
+2026-07-07 13:02:49,225 [WARNING] MARKA [2015-01-01-2016-01-01]: deneme 1/3 basarisiz (Ticker 'MARKA' not found in BIST company list.). 15sn bekleniyor...
+2026-07-07 13:03:04,231 [WARNING] MARKA [2015-01-01-2016-01-01]: deneme 2/3 basarisiz (Ticker 'MARKA' not found in BIST company list.). 30sn bekleniyor...
+2026-07-07 13:03:34,239 [WARNING] MARKA [2015-01-01-2016-01-01]: deneme 3/3 basarisiz (Ticker 'MARKA' not found in BIST company list.). 60sn bekleniyor...
+2026-07-07 13:04:34,240 [ERROR] [373/593] MARKA: KALICI HATA -> MARKA [2015-01-01-2016-01-01] icin 3 deneme de basarisiz: Ticker 'MARKA' not found in BIST company list.
+2026-07-07 13:06:22,980 [INFO] [374/593] MARMR: 3 bildirim bulundu
+2026-07-07 13:08:11,734 [INFO] [375/593] MARTI: 40 bildirim bulundu
+2026-07-07 13:10:00,725 [INFO] [376/593] MAVI: 38 bildirim bulundu
+2026-07-07 13:11:49,542 [INFO] [377/593] MEDTR: 20 bildirim bulundu
+2026-07-07 13:13:38,457 [INFO] [378/593] MEGAP: 33 bildirim bulundu
+2026-07-07 13:15:27,222 [INFO] [379/593] MEGMT: 10 bildirim bulundu
+2026-07-07 13:17:15,931 [INFO] [380/593] MEKAG: 11 bildirim bulundu
+2026-07-07 13:19:04,691 [INFO] [381/593] MEPET: 42 bildirim bulundu
+2026-07-07 13:20:53,644 [INFO] [382/593] MERCN: 24 bildirim bulundu
+2026-07-07 13:22:42,285 [INFO] [383/593] MERIT: 30 bildirim bulundu
+2026-07-07 13:24:32,028 [INFO] [384/593] MERKO: 42 bildirim bulundu
+2026-07-07 13:26:20,704 [INFO] [385/593] METRO: 42 bildirim bulundu
+2026-07-07 13:28:09,628 [INFO] [386/593] MEYSU: 2 bildirim bulundu
+2026-07-07 13:29:58,673 [INFO] [387/593] MGROS: 42 bildirim bulundu
+2026-07-07 13:31:47,455 [INFO] [388/593] MHRGY: 12 bildirim bulundu
+2026-07-07 13:33:36,405 [INFO] [389/593] MIATK: 20 bildirim bulundu
+2026-07-07 13:35:24,969 [INFO] [390/593] MMCAS: 56 bildirim bulundu
+2026-07-07 13:37:13,840 [INFO] [391/593] MNDRS: 40 bildirim bulundu
+2026-07-07 13:39:02,424 [INFO] [392/593] MNDTR: 42 bildirim bulundu
+2026-07-07 13:40:51,236 [INFO] [393/593] MOBTL: 20 bildirim bulundu
+2026-07-07 13:42:39,997 [INFO] [394/593] MOGAN: 10 bildirim bulundu
+2026-07-07 13:44:28,753 [INFO] [395/593] MOPAS: 6 bildirim bulundu
+2026-07-07 13:46:17,623 [INFO] [396/593] MPARK: 37 bildirim bulundu
+2026-07-07 13:48:06,241 [INFO] [397/593] MRGYO: 45 bildirim bulundu
+2026-07-07 13:49:54,897 [INFO] [398/593] MRSHL: 43 bildirim bulundu
+2026-07-07 13:51:43,727 [INFO] [399/593] MSGYO: 56 bildirim bulundu
+2026-07-07 13:53:32,573 [INFO] [400/593] MTRKS: 24 bildirim bulundu
+2026-07-07 13:53:40,577 [INFO] --- Checkpoint kaydedildi: 399/596 sembol tamamlandi ---
+2026-07-07 13:55:21,216 [INFO] [401/593] MTRYO: 43 bildirim bulundu
+2026-07-07 13:57:09,835 [INFO] [402/593] MZHLD: 44 bildirim bulundu
+2026-07-07 13:58:58,633 [INFO] [403/593] NATEN: 28 bildirim bulundu
+2026-07-07 14:00:47,519 [INFO] [404/593] NETAS: 40 bildirim bulundu
+2026-07-07 14:02:36,496 [INFO] [405/593] NETCD: 2 bildirim bulundu
+2026-07-07 14:04:25,299 [INFO] [406/593] NIBAS: 40 bildirim bulundu
+2026-07-07 14:06:14,113 [INFO] [407/593] NTGAZ: 22 bildirim bulundu
+2026-07-07 14:08:02,773 [INFO] [408/593] NTHOL: 40 bildirim bulundu
+2026-07-07 14:09:51,468 [INFO] [409/593] NUGYO: 42 bildirim bulundu
+2026-07-07 14:11:40,688 [INFO] [410/593] NUHCM: 40 bildirim bulundu
+2026-07-07 14:13:29,401 [INFO] [411/593] OBAMS: 10 bildirim bulundu
+2026-07-07 14:15:18,058 [INFO] [412/593] OBASE: 16 bildirim bulundu
+2026-07-07 14:17:06,713 [INFO] [413/593] ODAS: 41 bildirim bulundu
+2026-07-07 14:18:55,403 [INFO] [414/593] ODINE: 9 bildirim bulundu
+2026-07-07 14:20:44,324 [INFO] [415/593] OFSYM: 14 bildirim bulundu
+2026-07-07 14:22:32,953 [INFO] [416/593] ONCSM: 15 bildirim bulundu
+2026-07-07 14:24:21,774 [INFO] [417/593] ONRYT: 8 bildirim bulundu
+2026-07-07 14:26:10,595 [INFO] [418/593] ORCAY: 22 bildirim bulundu
+2026-07-07 14:27:59,268 [INFO] [419/593] ORGE: 41 bildirim bulundu
+2026-07-07 14:29:47,909 [INFO] [420/593] ORMA: 20 bildirim bulundu
+2026-07-07 14:31:36,918 [INFO] [421/593] OSMEN: 45 bildirim bulundu
+2026-07-07 14:33:25,526 [INFO] [422/593] OSTIM: 40 bildirim bulundu
+2026-07-07 14:35:14,147 [INFO] [423/593] OTKAR: 41 bildirim bulundu
+2026-07-07 14:37:02,841 [INFO] [424/593] OTTO: 39 bildirim bulundu
+2026-07-07 14:38:51,502 [INFO] [425/593] OYAKC: 41 bildirim bulundu
+2026-07-07 14:40:40,232 [INFO] [426/593] OYAYO: 41 bildirim bulundu
+2026-07-07 14:42:28,945 [INFO] [427/593] OYLUM: 41 bildirim bulundu
+2026-07-07 14:44:18,060 [INFO] [428/593] OYYAT: 40 bildirim bulundu
+2026-07-07 14:46:06,774 [INFO] [429/593] OZATD: 7 bildirim bulundu
+2026-07-07 14:47:55,494 [INFO] [430/593] OZGYO: 55 bildirim bulundu
+2026-07-07 14:49:44,110 [INFO] [431/593] OZKGY: 86 bildirim bulundu
+2026-07-07 14:51:32,656 [INFO] [432/593] OZRDN: 31 bildirim bulundu
+2026-07-07 14:53:21,353 [INFO] [433/593] OZSUB: 17 bildirim bulundu
+2026-07-07 14:55:10,162 [INFO] [434/593] OZYSR: 8 bildirim bulundu
+2026-07-07 14:56:58,788 [INFO] [435/593] PAGYO: 84 bildirim bulundu
+2026-07-07 14:58:47,436 [INFO] [436/593] PAHOL: 3 bildirim bulundu
+2026-07-07 15:00:35,992 [INFO] [437/593] PAMEL: 33 bildirim bulundu
+2026-07-07 15:02:24,666 [INFO] [438/593] PAPIL: 26 bildirim bulundu
+2026-07-07 15:04:13,326 [INFO] [439/593] PARSN: 42 bildirim bulundu
+2026-07-07 15:06:02,096 [INFO] [440/593] PASEU: 12 bildirim bulundu
+2026-07-07 15:07:51,114 [INFO] [441/593] PATEK: 10 bildirim bulundu
+2026-07-07 15:09:39,779 [INFO] [442/593] PCILT: 19 bildirim bulundu
+2026-07-07 15:11:28,414 [INFO] [443/593] PEKGY: 68 bildirim bulundu
+2026-07-07 15:13:17,336 [INFO] [444/593] PENTA: 21 bildirim bulundu
+2026-07-07 15:15:05,841 [INFO] [445/593] PETKM: 41 bildirim bulundu
+2026-07-07 15:16:54,513 [INFO] [446/593] PETUN: 41 bildirim bulundu
+2026-07-07 15:18:43,087 [INFO] [447/593] PGSUS: 42 bildirim bulundu
+2026-07-07 15:20:31,663 [INFO] [448/593] PINSU: 40 bildirim bulundu
+2026-07-07 15:22:20,218 [INFO] [449/593] PKENT: 41 bildirim bulundu
+2026-07-07 15:24:08,933 [INFO] [450/593] PLTUR: 14 bildirim bulundu
+2026-07-07 15:24:16,937 [INFO] --- Checkpoint kaydedildi: 449/596 sembol tamamlandi ---
+2026-07-07 15:25:57,668 [INFO] [451/593] PNLSN: 21 bildirim bulundu
+2026-07-07 15:27:46,241 [INFO] [452/593] PNSUT: 43 bildirim bulundu
+2026-07-07 15:29:35,020 [INFO] [453/593] POLHO: 40 bildirim bulundu
+2026-07-07 15:31:23,754 [INFO] [454/593] POLTK: 33 bildirim bulundu
+2026-07-07 15:33:12,682 [INFO] [455/593] PRDGS: 16 bildirim bulundu
+2026-07-07 15:35:01,496 [INFO] [456/593] PRKAB: 42 bildirim bulundu
+2026-07-07 15:36:50,136 [INFO] [457/593] PRKME: 41 bildirim bulundu
+2026-07-07 15:38:38,735 [INFO] [458/593] PSDTC: 41 bildirim bulundu
+2026-07-07 15:40:27,418 [INFO] [459/593] PSGYO: 32 bildirim bulundu
+2026-07-07 15:42:16,264 [INFO] [460/593] QNBFK: 42 bildirim bulundu
+2026-07-07 15:44:05,116 [INFO] [461/593] QNBTR: 80 bildirim bulundu
+2026-07-07 15:45:54,144 [INFO] [462/593] QUAGR: 22 bildirim bulundu
+2026-07-07 15:47:42,765 [INFO] [463/593] RALYH: 45 bildirim bulundu
+2026-07-07 15:49:31,311 [INFO] [464/593] RAYSG: 41 bildirim bulundu
+2026-07-07 15:51:20,127 [INFO] [465/593] REEDR: 11 bildirim bulundu
+2026-07-07 15:53:08,911 [INFO] [466/593] RGYAS: 11 bildirim bulundu
+2026-07-07 15:54:57,732 [INFO] [467/593] RNPOL: 20 bildirim bulundu
+2026-07-07 15:56:46,377 [INFO] [468/593] RODRG: 34 bildirim bulundu
+2026-07-07 15:58:35,159 [INFO] [469/593] RTALB: 44 bildirim bulundu
+2026-07-07 16:00:23,992 [INFO] [470/593] RUBNS: 16 bildirim bulundu
+2026-07-07 16:02:12,724 [INFO] [471/593] RUZYE: 42 bildirim bulundu
+2026-07-07 16:04:01,561 [INFO] [472/593] RYGYO: 84 bildirim bulundu
+2026-07-07 16:05:50,273 [INFO] [473/593] RYSAS: 46 bildirim bulundu
+2026-07-07 16:07:39,310 [INFO] [474/593] SAFKR: 30 bildirim bulundu
+2026-07-07 16:09:27,921 [INFO] [475/593] SAHOL: 40 bildirim bulundu
+2026-07-07 16:10:34,902 [WARNING] SAMAT [2021-12-30-2022-12-30]: deneme 1/3 basarisiz (Failed to fetch historical disclosures for SAMAT: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))). 15sn bekleniyor...
+2026-07-07 16:11:32,218 [INFO] [476/593] SAMAT: 48 bildirim bulundu
+2026-07-07 16:13:20,955 [INFO] [477/593] SANEL: 41 bildirim bulundu
+2026-07-07 16:15:09,653 [INFO] [478/593] SANFM: 41 bildirim bulundu
+2026-07-07 16:16:58,461 [INFO] [479/593] SANKO: 40 bildirim bulundu
+2026-07-07 16:18:47,178 [INFO] [480/593] SARKY: 42 bildirim bulundu
+2026-07-07 16:20:36,004 [INFO] [481/593] SASA: 42 bildirim bulundu
+2026-07-07 16:22:24,609 [INFO] [482/593] SAYAS: 41 bildirim bulundu
+2026-07-07 16:24:13,358 [INFO] [483/593] SDTTR: 15 bildirim bulundu
+2026-07-07 16:26:02,087 [INFO] [484/593] SEGMN: 8 bildirim bulundu
+2026-07-07 16:27:50,934 [INFO] [485/593] SEGYO: 34 bildirim bulundu
+2026-07-07 16:29:39,686 [INFO] [486/593] SEKFK: 42 bildirim bulundu
+2026-07-07 16:31:28,280 [INFO] [487/593] SEKUR: 42 bildirim bulundu
+2026-07-07 16:33:16,998 [INFO] [488/593] SELEC: 40 bildirim bulundu
+2026-07-07 16:35:05,792 [INFO] [489/593] SELVA: 20 bildirim bulundu
+2026-07-07 16:36:54,517 [INFO] [490/593] SERNT: 6 bildirim bulundu
+2026-07-07 16:38:43,378 [INFO] [491/593] SEYKM: 34 bildirim bulundu
+2026-07-07 16:40:32,080 [INFO] [492/593] SILVR: 40 bildirim bulundu
+2026-07-07 16:42:20,771 [INFO] [493/593] SISE: 41 bildirim bulundu
+2026-07-07 16:44:09,884 [INFO] [494/593] SKBNK: 80 bildirim bulundu
+2026-07-07 16:45:58,651 [INFO] [495/593] SKTAS: 40 bildirim bulundu
+2026-07-07 16:47:47,414 [INFO] [496/593] SKYLP: 31 bildirim bulundu
+2026-07-07 16:49:36,293 [INFO] [497/593] SKYMD: 43 bildirim bulundu
+2026-07-07 16:51:25,477 [INFO] [498/593] SMART: 30 bildirim bulundu
+2026-07-07 16:53:14,762 [INFO] [499/593] SMRTG: 17 bildirim bulundu
+2026-07-07 16:55:03,590 [INFO] [500/593] SMRVA: 26 bildirim bulundu
+2026-07-07 16:55:11,594 [INFO] --- Checkpoint kaydedildi: 499/596 sembol tamamlandi ---
+2026-07-07 16:56:52,369 [INFO] [501/593] SNGYO: 84 bildirim bulundu
+2026-07-07 16:58:41,140 [INFO] [502/593] SNICA: 16 bildirim bulundu
+2026-07-07 17:00:29,845 [INFO] [503/593] SNPAM: 43 bildirim bulundu
+2026-07-07 17:02:18,761 [INFO] [504/593] SODSN: 20 bildirim bulundu
+2026-07-07 17:04:07,676 [INFO] [505/593] SOKE: 14 bildirim bulundu
+2026-07-07 17:05:56,375 [INFO] [506/593] SOKM: 33 bildirim bulundu
+2026-07-07 17:07:44,948 [INFO] [507/593] SONME: 42 bildirim bulundu
+2026-07-07 17:09:33,536 [INFO] [508/593] SRVGY: 82 bildirim bulundu
+2026-07-07 17:11:22,916 [INFO] [509/593] SUMAS: 18 bildirim bulundu
+2026-07-07 17:13:11,672 [INFO] [510/593] SUNTK: 17 bildirim bulundu
+2026-07-07 17:15:00,353 [INFO] [511/593] SURGY: 10 bildirim bulundu
+2026-07-07 17:16:49,410 [INFO] [512/593] SUWEN: 17 bildirim bulundu
+2026-07-07 17:18:38,134 [INFO] [513/593] TABGD: 11 bildirim bulundu
+2026-07-07 17:20:26,982 [INFO] [514/593] TARKM: 15 bildirim bulundu
+2026-07-07 17:22:15,905 [INFO] [515/593] TATEN: 13 bildirim bulundu
+2026-07-07 17:24:05,335 [INFO] [516/593] TATGD: 40 bildirim bulundu
+2026-07-07 17:25:54,083 [INFO] [517/593] TAVHL: 41 bildirim bulundu
+2026-07-07 17:27:43,005 [INFO] [518/593] TBORG: 41 bildirim bulundu
+2026-07-07 17:29:31,655 [INFO] [519/593] TCELL: 40 bildirim bulundu
+2026-07-07 17:31:20,556 [INFO] [520/593] TCKRC: 8 bildirim bulundu
+2026-07-07 17:33:09,391 [INFO] [521/593] TDGYO: 37 bildirim bulundu
+2026-07-07 17:34:58,148 [INFO] [522/593] TEHOL: 43 bildirim bulundu
+2026-07-07 17:36:46,797 [INFO] [523/593] TEKTU: 40 bildirim bulundu
+2026-07-07 17:38:36,853 [INFO] [524/593] TERA: 45 bildirim bulundu
+2026-07-07 17:40:26,474 [INFO] [525/593] TEZOL: 20 bildirim bulundu
+2026-07-07 17:42:15,345 [INFO] [526/593] TGSAS: 44 bildirim bulundu
+2026-07-07 17:44:03,960 [INFO] [527/593] TKFEN: 40 bildirim bulundu
+2026-07-07 17:45:53,232 [INFO] [528/593] TKNSA: 41 bildirim bulundu
+2026-07-07 17:47:42,394 [INFO] [529/593] TLMAN: 35 bildirim bulundu
+2026-07-07 17:49:31,078 [INFO] [530/593] TMPOL: 45 bildirim bulundu
+2026-07-07 17:51:20,358 [INFO] [531/593] TMSN: 44 bildirim bulundu
+2026-07-07 17:53:09,521 [INFO] [532/593] TNZTP: 14 bildirim bulundu
+2026-07-07 17:54:58,194 [INFO] [533/593] TOASO: 40 bildirim bulundu
+2026-07-07 17:56:46,907 [INFO] [534/593] TRALT: 43 bildirim bulundu
+2026-07-07 17:58:35,869 [INFO] [535/593] TRCAS: 41 bildirim bulundu
+2026-07-07 18:00:24,496 [INFO] [536/593] TRENJ: 44 bildirim bulundu
+2026-07-07 18:02:13,223 [INFO] [537/593] TRGYO: 78 bildirim bulundu
+2026-07-07 18:04:01,989 [INFO] [538/593] TRHOL: 40 bildirim bulundu
+2026-07-07 18:05:51,059 [INFO] [539/593] TRILC: 23 bildirim bulundu
+2026-07-07 18:07:39,673 [INFO] [540/593] TRMET: 44 bildirim bulundu
+2026-07-07 18:09:28,524 [INFO] [541/593] TSGYO: 42 bildirim bulundu
+2026-07-07 18:11:17,922 [INFO] [542/593] TSKB: 80 bildirim bulundu
+2026-07-07 18:13:07,031 [INFO] [543/593] TSPOR: 42 bildirim bulundu
+2026-07-07 18:14:55,693 [INFO] [544/593] TTKOM: 44 bildirim bulundu
+2026-07-07 18:16:44,420 [INFO] [545/593] TTRAK: 43 bildirim bulundu
+2026-07-07 18:18:33,158 [INFO] [546/593] TUCLK: 42 bildirim bulundu
+2026-07-07 18:20:21,822 [INFO] [547/593] TUKAS: 43 bildirim bulundu
+2026-07-07 18:22:10,464 [INFO] [548/593] TUPRS: 41 bildirim bulundu
+2026-07-07 18:23:59,773 [INFO] [549/593] TUREX: 21 bildirim bulundu
+2026-07-07 18:25:48,629 [INFO] [550/593] TURGG: 41 bildirim bulundu
+2026-07-07 18:25:56,633 [INFO] --- Checkpoint kaydedildi: 549/596 sembol tamamlandi ---
+2026-07-07 18:27:37,295 [INFO] [551/593] TURSG: 66 bildirim bulundu
+2026-07-07 18:29:26,063 [INFO] [552/593] UCAYM: 2 bildirim bulundu
+2026-07-07 18:31:14,764 [INFO] [553/593] UFUK: 40 bildirim bulundu
+2026-07-07 18:33:03,779 [INFO] [554/593] ULAS: 40 bildirim bulundu
+2026-07-07 18:34:52,486 [INFO] [555/593] ULKER: 40 bildirim bulundu
+2026-07-07 18:36:41,358 [INFO] [556/593] ULUFA: 31 bildirim bulundu
+2026-07-07 18:38:29,996 [INFO] [557/593] ULUSE: 43 bildirim bulundu
+2026-07-07 18:40:18,663 [INFO] [558/593] ULUUN: 42 bildirim bulundu
+2026-07-07 18:42:07,517 [INFO] [559/593] UNLU: 21 bildirim bulundu
+2026-07-07 18:43:56,039 [INFO] [560/593] USAK: 42 bildirim bulundu
+2026-07-07 18:45:44,816 [INFO] [561/593] VAKBN: 80 bildirim bulundu
+2026-07-07 18:47:33,536 [INFO] [562/593] VAKFA: 22 bildirim bulundu
+2026-07-07 18:49:22,399 [INFO] [563/593] VAKFN: 44 bildirim bulundu
+2026-07-07 18:51:10,996 [INFO] [564/593] VAKKO: 41 bildirim bulundu
+2026-07-07 18:52:59,738 [INFO] [565/593] VBTYZ: 22 bildirim bulundu
+2026-07-07 18:54:48,540 [INFO] [566/593] VERTU: 41 bildirim bulundu
+2026-07-07 18:56:37,227 [INFO] [567/593] VERUS: 41 bildirim bulundu
+2026-07-07 18:58:26,291 [INFO] [568/593] VESBE: 42 bildirim bulundu
+2026-07-07 19:00:15,069 [INFO] [569/593] VESTL: 41 bildirim bulundu
+2026-07-07 19:02:03,820 [INFO] [570/593] VKFYO: 41 bildirim bulundu
+2026-07-07 19:03:52,536 [INFO] [571/593] VKGYO: 40 bildirim bulundu
+2026-07-07 19:05:41,170 [INFO] [572/593] VKING: 40 bildirim bulundu
+2026-07-07 19:07:30,040 [INFO] [573/593] VRGYO: 12 bildirim bulundu
+2026-07-07 19:09:19,086 [INFO] [574/593] VSNMD: 6 bildirim bulundu
+2026-07-07 19:11:07,702 [INFO] [575/593] YAPRK: 41 bildirim bulundu
+2026-07-07 19:12:56,043 [INFO] [576/593] YATAS: 41 bildirim bulundu
+2026-07-07 19:14:44,798 [INFO] [577/593] YAYLA: 41 bildirim bulundu
+2026-07-07 19:16:33,264 [INFO] [578/593] YBTAS: 20 bildirim bulundu
+2026-07-07 19:18:22,295 [INFO] [579/593] YEOTK: 20 bildirim bulundu
+2026-07-07 19:20:11,780 [INFO] [580/593] YESIL: 43 bildirim bulundu
+2026-07-07 19:22:01,187 [INFO] [581/593] YGGYO: 75 bildirim bulundu
+2026-07-07 19:23:50,570 [INFO] [582/593] YGYO: 84 bildirim bulundu
+2026-07-07 19:25:39,696 [INFO] [583/593] YIGIT: 9 bildirim bulundu
+2026-07-07 19:27:29,386 [INFO] [584/593] YKBNK: 80 bildirim bulundu
+2026-07-07 19:29:18,982 [INFO] [585/593] YKSLN: 27 bildirim bulundu
+2026-07-07 19:31:08,523 [INFO] [586/593] YONGA: 21 bildirim bulundu
+2026-07-07 19:32:58,298 [INFO] [587/593] YUNSA: 40 bildirim bulundu
+2026-07-07 19:34:47,908 [INFO] [588/593] YYLGD: 17 bildirim bulundu
+2026-07-07 19:36:37,179 [INFO] [589/593] ZEDUR: 43 bildirim bulundu
+2026-07-07 19:38:26,859 [INFO] [590/593] ZERGY: 2 bildirim bulundu
+2026-07-07 19:40:16,043 [INFO] [591/593] ZGYO: 2 bildirim bulundu
+2026-07-07 19:42:05,110 [INFO] [592/593] ZOREN: 43 bildirim bulundu
+2026-07-07 19:43:54,182 [INFO] [593/593] ZRGYO: 44 bildirim bulundu
+2026-07-07 19:44:02,184 [INFO] ============================================================
+2026-07-07 19:44:02,184 [INFO] BITTI. Bu calistirmada islenen: 589, toplam cekilen satir: 19591, basarisiz: 4
+2026-07-07 19:44:02,184 [INFO] Basarisiz semboller: ['ANGEN', 'DOCO', 'KOZAA', 'MARKA']
+2026-07-07 19:44:02,184 [INFO] Detaylar icin: kap_data\kap_fetch_failed.csv
+2026-07-07 19:44:02,184 [INFO] Sonuclar: kap_data\kap_financial_report_dates.csv
+2026-07-07 19:44:02,184 [INFO] Tekrar calistirirsan (--no-resume vermeden) kaldigi yerden / basarisiz sembollerden devam eder.

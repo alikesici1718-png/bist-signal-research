@@ -1,0 +1,15 @@
+#01 | ADESE | SATIM | 25.02.2025 19:46:17
+     Şirketimizin Pay Satım Bildirimi Hk.
+
+#02 | BRYAT | BELIRSIZ | 18.03.2024 18:35:35
+     Türkiye dışında yerleşik uluslararası bir kurumsal yatırımcıya yapılan plasman işleminin tamamlanması
+
+#03 | HEKTS | SATIM | 29.06.2026 18:15:16
+     Kurumsal yatırımcılara hızlandırılmış talep toplama yöntemiyle yapılan satışın takasının tamamlanması
+
+#04 | KLMSN | BELIRSIZ | 06.07.2026 18:54:29
+     Pay Alım Satım Bildirimi
+
+#05 | KLMSN | BELIRSIZ | 26.09.2025 00:01:36
+     Pay Alım Satım Bildirimi
+

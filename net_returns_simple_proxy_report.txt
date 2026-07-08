@@ -1,0 +1,49 @@
+*** ACIMASIZ STRES TESTI: yuksek maliyet varsayimi (0.5x range + 20bps sabit) ***
+Total extreme_down_reversal events: 75965
+
+=== HL_RATIO (High-Low)/Close -- likidite proxy sagligi ===
+Universe medyan HL_RATIO: 361.6 bps/gun
+  illiquid: medyan HL_RATIO=341.9 bps/gun, n_sembol=193
+  mid     : medyan HL_RATIO=345.3 bps/gun, n_sembol=192
+  liquid  : medyan HL_RATIO=404.3 bps/gun, n_sembol=192
+(Beklenti: illiquid > mid > liquid siralamasi olmali -- bu, proxy'nin
+ likidite ile mantikli iliski kurdugunu dogrular.)
+
+Tahmini tek-yon maliyet (HL_RATIO x 0.5):
+  illiquid: tek_yon=170.9 bps, round_trip=341.9 bps
+  mid     : tek_yon=172.6 bps, round_trip=345.3 bps
+  liquid  : tek_yon=202.1 bps, round_trip=404.3 bps
+
+(KARSILASTIRMA -- onceki sabit varsayimlar: illiquid=150, mid=60, liquid=25bps round-trip.
+ Bu proxy'nin ciktisi bunlara ne kadar yakinsa, o kadar guveniyoruz.)
+
+=== Net kar (HL_RATIO proxy maliyeti ile, mid+liquid) ===
+--- Horizon 1d (n=32759) ---
+  Ortalama tahmini maliyet (round-trip): 393.7 bps
+  BRUT excess (long yon)   : -53.1 bps
+  NET KAR (kisa, proxy maliyet): -340.5 bps
+  NET KAR pozitif oran      : 14.0%
+    mid     : net_kar=-325.0 bps, maliyet=379.9 bps, n=21931, kazanma=14.3%
+    liquid  : net_kar=-372.0 bps, maliyet=421.6 bps, n=10828, kazanma=13.3%
+
+--- Horizon 3d (n=32719) ---
+  Ortalama tahmini maliyet (round-trip): 393.6 bps
+  BRUT excess (long yon)   : -99.1 bps
+  NET KAR (kisa, proxy maliyet): -294.5 bps
+  NET KAR pozitif oran      : 29.0%
+    mid     : net_kar=-281.6 bps, maliyet=379.9 bps, n=21911, kazanma=28.9%
+    liquid  : net_kar=-320.7 bps, maliyet=421.5 bps, n=10808, kazanma=29.3%
+
+--- Horizon 5d (n=32677) ---
+  Ortalama tahmini maliyet (round-trip): 393.6 bps
+  BRUT excess (long yon)   : -129.9 bps
+  NET KAR (kisa, proxy maliyet): -263.7 bps
+  NET KAR pozitif oran      : 36.0%
+    mid     : net_kar=-252.1 bps, maliyet=379.9 bps, n=21898, kazanma=36.0%
+    liquid  : net_kar=-287.1 bps, maliyet=421.4 bps, n=10779, kazanma=36.0%
+
+YORUM: SPREAD_FRACTION_OF_RANGE=0.25 KESIN DEGIL -- kaba bir varsayim.
+Bu script'in asil degeri, HL_RATIO siralamasinin (illiquid>mid>liquid)
+mantikli olup olmadigini dogrulamak ve maliyetin buyukluk mertebesini
+gormek. Kesin bir 'edge var/yok' hukmu icin GERCEK bid-ask verisi ya da
+gercek bir aracidan emir denemesi hala gerekli.

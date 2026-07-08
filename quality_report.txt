@@ -1,0 +1,3208 @@
+Symbol: A1CAP
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: A1YEN
+Total Rows: 507
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ACSEL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ADEL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ADESE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ADGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AEFES
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AFYON
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AGESA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AGHOL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AGROT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AHGAZ
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AHSGY
+Total Rows: 465
+Date Range: (Timestamp('2024-08-29 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AKBNK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AKCNS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AKENR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AKFGY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AKFIS
+Total Rows: 355
+Date Range: (Timestamp('2025-02-04 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AKFYE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AKGRT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AKHAN
+Total Rows: 102
+Date Range: (Timestamp('2026-02-06 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: AKMGY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AKSA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AKSEN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AKSGY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AKSUE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AKYHO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 27   2024-08-12
+31   2024-08-16
+32   2024-08-19
+35   2024-08-22
+Name: Date, dtype: datetime64[us]
+
+Symbol: ALARK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ALBRK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ALCAR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ALCTL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ALFAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ALGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ALKA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ALKIM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ALKLC
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ALTNY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ALVES
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ANELE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ANGEN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ANHYT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ANSGR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ARASE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ARCLK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ARDYZ
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ARENA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ARFYE
+Total Rows: 126
+Date Range: (Timestamp('2026-01-05 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: ARMGD
+Total Rows: 377
+Date Range: (Timestamp('2025-01-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ARSAN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ARTMS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ARZUM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 287   2025-08-26
+Name: Date, dtype: datetime64[us]
+
+Symbol: ASELS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ASGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ASTOR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ASUZU
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ATAGY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ATAKP
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ATATP
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ATATR
+Total Rows: 91
+Date Range: (Timestamp('2026-02-23 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: ATEKS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ATLAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ATSYH
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AVGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AVHOL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AVOD
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AVPGY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AVTUR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AYCES
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AYDEM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AYEN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AYES
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AYGAZ
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: AZTEK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BAGFS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BAHKM
+Total Rows: 477
+Date Range: (Timestamp('2024-08-13 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BAKAB
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BALAT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BALSU
+Total Rows: 343
+Date Range: (Timestamp('2025-02-20 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BANVT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BARMA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BASCM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BASGZ
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BAYRK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BEGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BERA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BESLR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BESTE
+Total Rows: 99
+Date Range: (Timestamp('2026-02-11 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: BEYAZ
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BFREN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 206   2025-04-28
+Name: Date, dtype: datetime64[us]
+
+Symbol: BIENY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BIGCH
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BIGEN
+Total Rows: 354
+Date Range: (Timestamp('2025-02-05 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BIGTK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BIMAS
+Total Rows: 507
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BINBN
+Total Rows: 435
+Date Range: (Timestamp('2024-10-11 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 144   2025-05-09
+Name: Date, dtype: datetime64[us]
+
+Symbol: BINHO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BIOEN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BIZIM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BJKAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 192   2025-04-07
+Name: Date, dtype: datetime64[us]
+
+Symbol: BLCYT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BLUME
+Total Rows: 508
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BMSCH
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BMSTL
+Total Rows: 508
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BNTAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 160   2025-02-18
+Name: Date, dtype: datetime64[us]
+
+Symbol: BOBET
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BORLS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BORSK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BOSSA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BRISA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BRKO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BRKSN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BRKVY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BRLSM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BRMEN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 370   2025-12-22
+Name: Date, dtype: datetime64[us]
+
+Symbol: BRSAN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BRYAT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BSOKE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 105   2024-12-02
+Name: Date, dtype: datetime64[us]
+
+Symbol: BTCIM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BUCIM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BULGS
+Total Rows: 342
+Date Range: (Timestamp('2025-02-21 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BURCE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BURVA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BVSAN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: BYDNR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CANTE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CASA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CATES
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CCOLA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 20   2024-08-01
+Name: Date, dtype: datetime64[us]
+
+Symbol: CELHA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 258   2025-07-16
+Name: Date, dtype: datetime64[us]
+
+Symbol: CEMAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CEMTS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CEMZY
+Total Rows: 459
+Date Range: (Timestamp('2024-09-10 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CEOEM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CGCAM
+Total Rows: 385
+Date Range: (Timestamp('2024-12-23 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CIMSA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CLEBI
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CMBTN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CMENT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CONSE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 9   2024-07-17
+Name: Date, dtype: datetime64[us]
+
+Symbol: COSMO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CRDFA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CRFSA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CUSAN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CVKMD
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: CWENE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DAGI
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DAPGM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DARDL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 212   2025-05-07
+Name: Date, dtype: datetime64[us]
+
+Symbol: DCTTR
+Total Rows: 486
+Date Range: (Timestamp('2024-07-31 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DENGE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 207   2025-04-29
+Name: Date, dtype: datetime64[us]
+
+Symbol: DERHL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DERIM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DESA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DESPC
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DEVA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DGATE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DGGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DIRIT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DITAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 372   2025-12-24
+Name: Date, dtype: datetime64[us]
+
+Symbol: DMRGD
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DMSAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DNISI
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DOAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DOCO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DOFER
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DOFRB
+Total Rows: 205
+Date Range: (Timestamp('2025-09-12 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: DOGUB
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DOHOL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DOKTA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DSTKF
+Total Rows: 353
+Date Range: (Timestamp('2025-02-06 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DUNYH
+Total Rows: 508
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 314   2025-10-02
+Name: Date, dtype: datetime64[us]
+
+Symbol: DURKN
+Total Rows: 452
+Date Range: (Timestamp('2024-09-18 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DYOBY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: DZGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EBEBK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ECILC
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ECOGR
+Total Rows: 170
+Date Range: (Timestamp('2025-11-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: ECZYT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EDATA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EDIP
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EFOR
+Total Rows: 503
+Date Range: (Timestamp('2024-07-05 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EGEEN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EGEGY
+Total Rows: 370
+Date Range: (Timestamp('2025-01-14 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EGEPO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EGGUB
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EGPRO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EGSER
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EKGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EKIZ
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EKOS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EKSUN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ELITE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EMKEL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EMNIS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EMPAE
+Total Rows: 88
+Date Range: (Timestamp('2026-02-26 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: ENDAE
+Total Rows: 347
+Date Range: (Timestamp('2025-02-14 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ENERY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ENJSA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ENKAI
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ENSRI
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ENTRA
+Total Rows: 508
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EPLAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ERBOS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ERCB
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EREGL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ERSU
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ESCAR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ESCOM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ESEN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ETILR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 277   2025-08-12
+Name: Date, dtype: datetime64[us]
+
+Symbol: ETYAT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EUHOL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EUKYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EUPWR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EUREN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 105   2024-12-02
+Name: Date, dtype: datetime64[us]
+
+Symbol: EUYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: EYGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: FADE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: FENER
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 110   2024-12-09
+242   2025-06-23
+375   2025-12-29
+Name: Date, dtype: datetime64[us]
+
+Symbol: FLAP
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: FMIZP
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: FONET
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: FORMT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 212   2025-05-07
+Name: Date, dtype: datetime64[us]
+
+Symbol: FORTE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: FRIGO
+Total Rows: 507
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: FRMPL
+Total Rows: 118
+Date Range: (Timestamp('2026-01-15 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: FROTO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: FZLGY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GARAN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GARFA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GATEG
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GEDIK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GEDZA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GENIL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GENKM
+Total Rows: 81
+Date Range: (Timestamp('2026-03-09 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: GENTS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GEREL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GESAN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GIPTA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GLBMD
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GLCVY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GLRMK
+Total Rows: 367
+Date Range: (Timestamp('2025-01-17 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GLRYH
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 139   2025-01-20
+Name: Date, dtype: datetime64[us]
+
+Symbol: GLYHO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GMTAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GOKNR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GOLTS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GOODY
+Total Rows: 508
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GOZDE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GRNYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GRSEL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GRTHO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GSDDE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GSDHO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GSRAY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 120   2024-12-23
+247   2025-06-30
+Name: Date, dtype: datetime64[us]
+
+Symbol: GUBRF
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GUNDG
+Total Rows: 443
+Date Range: (Timestamp('2024-10-01 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GWIND
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: GZNMI
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: HALKB
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: HATEK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: HATSN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: HDFGS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: HEDEF
+Total Rows: 508
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: HEKTS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 46   2024-09-09
+Name: Date, dtype: datetime64[us]
+
+Symbol: HKTM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: HLGYO
+Total Rows: 508
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 502   2026-06-26
+Name: Date, dtype: datetime64[us]
+
+Symbol: HOROZ
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: HRKET
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: HTTBT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: HUBVC
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: HUNER
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: HURGZ
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ICBCT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: IDGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 22   2024-08-05
+24   2024-08-07
+29   2024-08-14
+Name: Date, dtype: datetime64[us]
+
+Symbol: IEYHO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: IHAAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: IHEVA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: IHGZT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: IHLAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 481   2026-06-02
+Name: Date, dtype: datetime64[us]
+
+Symbol: IHLGM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: IHYAY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: IMASM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: INDES
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: INFO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: INGRM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: INTEK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: INTEM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: INVEO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: INVES
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ISBIR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ISBTR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ISCTR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ISDMR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ISFIN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ISGSY
+Total Rows: 502
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ISGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ISKPL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ISKUR
+Total Rows: 74
+Date Range: (Timestamp('2024-07-17 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: ISMEN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ISSEN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: IZENR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: IZFAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 361   2025-12-09
+Name: Date, dtype: datetime64[us]
+
+Symbol: IZINV
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: IZMDC
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: JANTS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KAPLM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KAREL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KARSN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KARTN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KATMR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 197   2025-04-14
+Name: Date, dtype: datetime64[us]
+
+Symbol: KAYSE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KBORU
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 127   2025-01-02
+Name: Date, dtype: datetime64[us]
+
+Symbol: KCAER
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KCHOL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KENT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 399   2026-02-02
+Name: Date, dtype: datetime64[us]
+
+Symbol: KERVN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KFEIN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 248   2025-07-01
+Name: Date, dtype: datetime64[us]
+
+Symbol: KIMMR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KLGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KLKIM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KLMSN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KLNMA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 159   2025-02-17
+Name: Date, dtype: datetime64[us]
+
+Symbol: KLRHO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KLSER
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KLSYN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KLYPV
+Total Rows: 310
+Date Range: (Timestamp('2025-04-10 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KMPUR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KNFRT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KOCMT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KONKA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KONTR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 355   2025-12-01
+Name: Date, dtype: datetime64[us]
+
+Symbol: KONYA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KOPOL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KORDS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KOTON
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KRDMA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KRDMB
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KRDMD
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KRGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 257   2025-07-14
+Name: Date, dtype: datetime64[us]
+
+Symbol: KRONT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KRPLS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KRSTL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KRTEK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KRVGD
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KSTUR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KTLEV
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 127   2025-01-02
+231   2025-06-04
+Name: Date, dtype: datetime64[us]
+
+Symbol: KTSKR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KUTPO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KUVVA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KUYAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KZBGY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: KZGYO
+Total Rows: 501
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: LIDER
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: LIDFA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: LILAK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: LINK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: LKMNH
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: LMKDC
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: LOGO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: LRSHO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: LUKSK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: LYDHO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: LYDYE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MAALT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MACKO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MAGEN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MAKIM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MAKTK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MANAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 95    2024-11-18
+390   2026-01-20
+Name: Date, dtype: datetime64[us]
+
+Symbol: MARBL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MARKA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MARMR
+Total Rows: 200
+Date Range: (Timestamp('2025-09-19 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: MARTI
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 410   2026-02-17
+Name: Date, dtype: datetime64[us]
+
+Symbol: MAVI
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MEDTR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MEGAP
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MEGMT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MEKAG
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MEPET
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MERCN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MERIT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MERKO
+Total Rows: 507
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 462   2026-05-01
+Name: Date, dtype: datetime64[us]
+
+Symbol: METRO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MEYSU
+Total Rows: 120
+Date Range: (Timestamp('2026-01-13 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: MGROS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MHRGY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MIATK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MMCAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MNDRS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MNDTR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MOBTL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MOGAN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MOPAS
+Total Rows: 351
+Date Range: (Timestamp('2025-02-10 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MPARK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MRGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 405   2026-02-10
+Name: Date, dtype: datetime64[us]
+
+Symbol: MRSHL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MSGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MTRKS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MTRYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: MZHLD
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: NATEN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: NETAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: NETCD
+Total Rows: 103
+Date Range: (Timestamp('2026-02-05 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: NIBAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: NTGAZ
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: NTHOL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: NUGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: NUHCM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: OBAMS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: OBASE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ODAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ODINE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: OFSYM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ONCSM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ONRYT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ORCAY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 331   2025-10-27
+Name: Date, dtype: datetime64[us]
+
+Symbol: ORGE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ORMA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: OSMEN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 20   2024-08-01
+Name: Date, dtype: datetime64[us]
+
+Symbol: OSTIM
+Total Rows: 508
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: OTKAR
+Total Rows: 503
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: OTTO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: OYAKC
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: OYAYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: OYLUM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: OYYAT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: OZATD
+Total Rows: 461
+Date Range: (Timestamp('2024-09-05 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: OZGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: OZKGY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: OZRDN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: OZSUB
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: OZYSR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PAGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PAHOL
+Total Rows: 156
+Date Range: (Timestamp('2025-11-21 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: PAMEL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PAPIL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PARSN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PASEU
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PATEK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PCILT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PEKGY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 247   2025-06-30
+Name: Date, dtype: datetime64[us]
+
+Symbol: PENTA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PETKM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PETUN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PGSUS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PINSU
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PKENT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PLTUR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PNLSN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PNSUT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: POLHO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 302   2025-09-16
+Name: Date, dtype: datetime64[us]
+
+Symbol: POLTK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PRDGS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PRKAB
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PRKME
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PSDTC
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: PSGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: QNBFK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 105   2024-12-02
+433   2026-03-23
+Name: Date, dtype: datetime64[us]
+
+Symbol: QNBTR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 293   2025-09-03
+Name: Date, dtype: datetime64[us]
+
+Symbol: QUAGR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: RALYH
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: RAYSG
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: REEDR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: RGYAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: RNPOL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: RODRG
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: RTALB
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: RUBNS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: RUZYE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 218   2025-05-15
+Name: Date, dtype: datetime64[us]
+
+Symbol: RYGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: RYSAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SAFKR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SAHOL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SAMAT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SANEL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SANFM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SANKO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SARKY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SASA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SAYAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SDTTR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SEGMN
+Total Rows: 504
+Date Range: (Timestamp('2024-07-04 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SEGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SEKFK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SEKUR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 348   2025-11-20
+Name: Date, dtype: datetime64[us]
+
+Symbol: SELEC
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SELVA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 328   2025-10-22
+Name: Date, dtype: datetime64[us]
+
+Symbol: SERNT
+Total Rows: 355
+Date Range: (Timestamp('2025-02-04 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SEYKM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 24   2024-08-07
+25   2024-08-08
+Name: Date, dtype: datetime64[us]
+
+Symbol: SILVR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SISE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SKBNK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SKTAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 278   2025-08-13
+Name: Date, dtype: datetime64[us]
+
+Symbol: SKYLP
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SKYMD
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SMART
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SMRTG
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SMRVA
+Total Rows: 386
+Date Range: (Timestamp('2024-12-23 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SNGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SNICA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SNPAM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 267   2025-07-29
+Name: Date, dtype: datetime64[us]
+
+Symbol: SODSN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SOKE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SOKM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SONME
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SRVGY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SUMAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SUNTK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SURGY
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: SUWEN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TABGD
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TARKM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TATEN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TATGD
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 117   2024-12-18
+Name: Date, dtype: datetime64[us]
+
+Symbol: TAVHL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TBORG
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TCELL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TCKRC
+Total Rows: 468
+Date Range: (Timestamp('2024-08-26 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TDGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TEHOL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 321   2025-10-13
+Name: Date, dtype: datetime64[us]
+
+Symbol: TEKTU
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TERA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TEZOL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TGSAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: THYAO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TKFEN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TKNSA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TLMAN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TMPOL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TMSN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TNZTP
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TOASO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TRALT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TRCAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TRENJ
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TRGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TRHOL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 133   2025-01-10
+134   2025-01-13
+Name: Date, dtype: datetime64[us]
+
+Symbol: TRILC
+Total Rows: 506
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TRMET
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TSGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TSKB
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TSPOR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 46    2024-09-09
+240   2025-06-19
+Name: Date, dtype: datetime64[us]
+
+Symbol: TTKOM
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TTRAK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TUCLK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 356   2025-12-02
+Name: Date, dtype: datetime64[us]
+
+Symbol: TUKAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 149   2025-02-03
+Name: Date, dtype: datetime64[us]
+
+Symbol: TUPRS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TUREX
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TURGG
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: TURSG
+Total Rows: 508
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: UCAYM
+Total Rows: 113
+Date Range: (Timestamp('2026-01-22 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: UFUK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ULAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ULKER
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ULUFA
+Total Rows: 502
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ULUSE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ULUUN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: UNLU
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: USAK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 394   2026-01-26
+Name: Date, dtype: datetime64[us]
+
+Symbol: USDTRY
+Total Rows: 519
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-04 00:00:00'))
+Issues Count: 0
+
+Symbol: USDTRY=X
+Total Rows: 519
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-04 00:00:00'))
+Issues Count: 0
+
+Symbol: VAKBN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: VAKFA
+Total Rows: 157
+Date Range: (Timestamp('2025-11-20 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: VAKFN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: VAKKO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: VBTYZ
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: VERTU
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: VERUS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: VESBE
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: VESTL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: VKFYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: VKGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: VKING
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: VRGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: VSNMD
+Total Rows: 350
+Date Range: (Timestamp('2025-02-11 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: YAPRK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: YATAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: YAYLA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: YBTAS
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: YEOTK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: YESIL
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 38   2024-08-27
+43   2024-09-04
+Name: Date, dtype: datetime64[us]
+
+Symbol: YGGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: YIGIT
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: YKBNK
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: YKSLN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Large changes detected on dates: 355   2025-12-01
+Name: Date, dtype: datetime64[us]
+
+Symbol: YONGA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: YUNSA
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: YYLGD
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ZEDUR
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ZERGY
+Total Rows: 137
+Date Range: (Timestamp('2025-12-18 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: ZGYO
+Total Rows: 117
+Date Range: (Timestamp('2026-01-16 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 1
+Issues:
+- Insufficient trading days
+
+Symbol: ZOREN
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+
+Symbol: ZRGYO
+Total Rows: 505
+Date Range: (Timestamp('2024-07-03 00:00:00'), Timestamp('2026-07-03 00:00:00'))
+Issues Count: 0
+

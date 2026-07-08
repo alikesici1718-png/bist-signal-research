@@ -1,0 +1,24 @@
+Total extreme_down_reversal events: 75965
+
+=== Gap analizi: t=0 kapanis -> t+1 acilis ===
+  Ortalama gap: -19.2 bps (n=75779)
+  Medyan gap  : 0.0 bps
+  Negatif gap (%<0) oran: 29.0%
+(Negatifse: sinyali gordugunde fiyat zaten dusmus oluyor demektir --
+ acilista girsen bile bir kisim hareketi kacirmis olursun.)
+
+=== Senaryo A (kagit uzerinde, t=0 kapanistan giris -- ONCEKI SCRIPTLERIN YAPTIGI) ===
+  Horizon 1d: -54.2 bps (n=75779)
+  Horizon 3d: -86.6 bps (n=75452)
+  Horizon 5d: -114.5 bps (n=75146)
+
+=== Senaryo B (gercekci, t+1 acilistan giris) ===
+  Horizon 1d: -32.1 bps (n=75779)
+  Horizon 3d: -65.6 bps (n=75546)
+  Horizon 5d: -94.2 bps (n=75462)
+
+YORUM: Senaryo B, Senaryo A'dan onemli olcude daha dusuk (0'a daha yakin)
+ise, 'edge'in buyuk kismi zaten senin sinyali gordugunde olmus olan
+gap hareketinden geliyor demektir -- yani KACIRIYORSUN, trade edilebilir
+degil. Eger B, A'ya yakin kaliyorsa, edge'in cogu t+1'den itibaren hala
+orada demektir -- bu durumda gercekten trade edilebilir olma ihtimali var.

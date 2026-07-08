@@ -1,0 +1,31 @@
+Total extreme_down_reversal events: 75965
+Events with day-of pct_change <= -18.0% (limit-yakini): 723 (1.0%)
+
+Limit-yakini olaylardan sonra ortalama ardisik limit-gunu sayisi: 0.43
+Limit-yakini olaylarin %23.9'inde olay sonrasi da en az 1 limit-yakini gun var
+(Bu yuksekse: sinyal 'taban yapan hisse tabana devam eder' seklinde limit-down zincirini
+ yakaliyor demektir -- trade edilebilirligi supheli, cunku bu gunlerde satis/kisa pozisyon
+ pratik degil.)
+
+Limit-disi (gercek fiyatlanma) extreme_down olaylari: 75242 (99.0%)
+
+=== Forward excess return karsilastirmasi ===
+--- Horizon 1d ---
+  TUM olaylar        : -54.2 bps (n=75779)
+  Limit-yakini olaylar: -406.9 bps (n=720)
+  Limit-disi olaylar  : -50.8 bps (n=75059)
+
+--- Horizon 3d ---
+  TUM olaylar        : -86.6 bps (n=75452)
+  Limit-yakini olaylar: -682.3 bps (n=714)
+  Limit-disi olaylar  : -80.9 bps (n=74738)
+
+--- Horizon 5d ---
+  TUM olaylar        : -114.5 bps (n=75146)
+  Limit-yakini olaylar: -843.4 bps (n=708)
+  Limit-disi olaylar  : -107.6 bps (n=74438)
+
+YORUM: Eger 'Limit-disi olaylar' bps degeri 'Limit-yakini olaylar'a gore
+cok daha kucukse (0'a yakinsa), sinyalin gorunen 'edge'inin buyuk kismi
+trade edilemeyen limit-down zincirinden geliyor demektir -- gercek, trade
+edilebilir bir edge degil.

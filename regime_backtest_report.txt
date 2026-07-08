@@ -1,0 +1,88 @@
+Symbols: 576 | Market benchmark: XU100 gercek endeks (data_market/XU100.csv)
+Makro rejim kaynagi: TLREF (data_macro/tlref_regime.csv)
+Toplam sinyal: 73135
+Rejime ayrilan gun sayisi: YUKSEK=867, DUSUK=872
+
+HIPOTEZ: extreme_down_reversal sinyali, USDTRY volatilite rejimine
+gore farkli calisiyor mu? (YUKSEK vol = panik/asiri tepki donemleri)
+
+KAPASITE KISITI: gunde en fazla 15 pozisyon (capacity_backtest.py ile ayni)
+ANA SENARYO: AtaYatirim komisyonu + YUKSEK_spread
+
+======================================================================
+HORIZON 1d
+======================================================================
+[Midas_kampanyali     + DUSUK_spread  ]
+    YUKSEK  : NET_ort=11.5 bps | kazanma=52.8% | n_gun=866 | std=164.7 | ort/std=0.070
+    DUSUK   : NET_ort=16.5 bps | kazanma=51.5% | n_gun=872 | std=209.2 | ort/std=0.079
+[AtaYatirim           + DUSUK_spread  ]
+    YUKSEK  : NET_ort=-25.5 bps | kazanma=43.1% | n_gun=866 | std=164.7 | ort/std=-0.155
+    DUSUK   : NET_ort=-20.5 bps | kazanma=43.5% | n_gun=872 | std=209.2 | ort/std=-0.098
+[HalkYatirim_standart + DUSUK_spread  ]
+    YUKSEK  : NET_ort=-51.5 bps | kazanma=37.0% | n_gun=866 | std=164.7 | ort/std=-0.313
+    DUSUK   : NET_ort=-46.5 bps | kazanma=37.5% | n_gun=872 | std=209.2 | ort/std=-0.222
+[Midas_kampanyali     + YUKSEK_spread ]
+    YUKSEK  : NET_ort=-87.6 bps | kazanma=28.8% | n_gun=866 | std=165.1 | ort/std=-0.531
+    DUSUK   : NET_ort=-80.8 bps | kazanma=32.3% | n_gun=872 | std=210.2 | ort/std=-0.384
+[AtaYatirim           + YUKSEK_spread ] *** ANA SENARYO ***
+    YUKSEK  : NET_ort=-124.6 bps | kazanma=20.2% | n_gun=866 | std=165.1 | ort/std=-0.755
+    DUSUK   : NET_ort=-117.8 bps | kazanma=25.0% | n_gun=872 | std=210.2 | ort/std=-0.560
+[HalkYatirim_standart + YUKSEK_spread ]
+    YUKSEK  : NET_ort=-150.6 bps | kazanma=16.6% | n_gun=866 | std=165.1 | ort/std=-0.912
+    DUSUK   : NET_ort=-143.8 bps | kazanma=21.1% | n_gun=872 | std=210.2 | ort/std=-0.684
+
+======================================================================
+HORIZON 3d
+======================================================================
+[Midas_kampanyali     + DUSUK_spread  ]
+    YUKSEK  : NET_ort=75.2 bps | kazanma=58.4% | n_gun=864 | std=310.4 | ort/std=0.242
+    DUSUK   : NET_ort=51.7 bps | kazanma=56.7% | n_gun=872 | std=375.4 | ort/std=0.138
+[AtaYatirim           + DUSUK_spread  ]
+    YUKSEK  : NET_ort=38.2 bps | kazanma=53.7% | n_gun=864 | std=310.4 | ort/std=0.123
+    DUSUK   : NET_ort=14.7 bps | kazanma=52.8% | n_gun=872 | std=375.4 | ort/std=0.039
+[HalkYatirim_standart + DUSUK_spread  ]
+    YUKSEK  : NET_ort=12.2 bps | kazanma=49.8% | n_gun=864 | std=310.4 | ort/std=0.039
+    DUSUK   : NET_ort=-11.3 bps | kazanma=49.2% | n_gun=872 | std=375.4 | ort/std=-0.030
+[Midas_kampanyali     + YUKSEK_spread ]
+    YUKSEK  : NET_ort=-23.9 bps | kazanma=45.3% | n_gun=864 | std=309.3 | ort/std=-0.077
+    DUSUK   : NET_ort=-45.6 bps | kazanma=45.6% | n_gun=872 | std=376.6 | ort/std=-0.121
+[AtaYatirim           + YUKSEK_spread ] *** ANA SENARYO ***
+    YUKSEK  : NET_ort=-60.9 bps | kazanma=40.5% | n_gun=864 | std=309.3 | ort/std=-0.197
+    DUSUK   : NET_ort=-82.6 bps | kazanma=39.6% | n_gun=872 | std=376.6 | ort/std=-0.219
+[HalkYatirim_standart + YUKSEK_spread ]
+    YUKSEK  : NET_ort=-86.9 bps | kazanma=36.7% | n_gun=864 | std=309.3 | ort/std=-0.281
+    DUSUK   : NET_ort=-108.6 bps | kazanma=37.0% | n_gun=872 | std=376.6 | ort/std=-0.288
+
+======================================================================
+HORIZON 5d
+======================================================================
+[Midas_kampanyali     + DUSUK_spread  ]
+    YUKSEK  : NET_ort=105.8 bps | kazanma=59.4% | n_gun=862 | std=405.5 | ort/std=0.261
+    DUSUK   : NET_ort=84.3 bps | kazanma=55.6% | n_gun=872 | std=499.7 | ort/std=0.169
+[AtaYatirim           + DUSUK_spread  ]
+    YUKSEK  : NET_ort=68.8 bps | kazanma=55.8% | n_gun=862 | std=405.5 | ort/std=0.170
+    DUSUK   : NET_ort=47.3 bps | kazanma=53.0% | n_gun=872 | std=499.7 | ort/std=0.095
+[HalkYatirim_standart + DUSUK_spread  ]
+    YUKSEK  : NET_ort=42.8 bps | kazanma=54.2% | n_gun=862 | std=405.5 | ort/std=0.105
+    DUSUK   : NET_ort=21.3 bps | kazanma=51.0% | n_gun=872 | std=499.7 | ort/std=0.043
+[Midas_kampanyali     + YUKSEK_spread ]
+    YUKSEK  : NET_ort=6.7 bps | kazanma=51.4% | n_gun=862 | std=403.8 | ort/std=0.016
+    DUSUK   : NET_ort=-12.9 bps | kazanma=48.5% | n_gun=872 | std=500.9 | ort/std=-0.026
+[AtaYatirim           + YUKSEK_spread ] *** ANA SENARYO ***
+    YUKSEK  : NET_ort=-30.3 bps | kazanma=47.4% | n_gun=862 | std=403.8 | ort/std=-0.075
+    DUSUK   : NET_ort=-49.9 bps | kazanma=45.3% | n_gun=872 | std=500.9 | ort/std=-0.100
+[HalkYatirim_standart + YUKSEK_spread ]
+    YUKSEK  : NET_ort=-56.3 bps | kazanma=45.6% | n_gun=862 | std=403.8 | ort/std=-0.140
+    DUSUK   : NET_ort=-75.9 bps | kazanma=43.6% | n_gun=872 | std=500.9 | ort/std=-0.152
+
+ONEMLI NOTLAR:
+- Rejim, sinyal gunundeki USDTRY 20-gunluk rolling volatilitesinin
+  tum donem medyanina gore YUKSEK/DUSUK ikiye ayrilmasiyla belirlenir
+  (bkz. fetch_macro_regime.py). Kaba/basit bir ayrim, ML tabanli degil.
+- Eger iki rejim arasinda buyuk fark VARSA: sinyalin ortalamasi iki
+  farkli davranisi maskelemis olabilir - rejime kosullu bir strateji
+  dusunulebilir (ama bu, yeni bir overfitting riski de tasir - rejim
+  sinirinin kendisi de bir serbestlik derecesidir).
+- Eger iki rejim arasinda BUYUK FARK YOKSA: bu, sinyalin zayifliginin
+  makro volatiliteden bagimsiz oldugunu, yapisal bir sorun oldugunu
+  gosterir (rejim ayrimi sonucu degistirmiyor).
