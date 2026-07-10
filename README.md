@@ -60,3 +60,7 @@ pip install pandas numpy yfinance borsapy evds statsmodels scipy
 - `data/`: directory of per-symbol OHLCV CSV files (Date, Open, High, Low, Close, Volume)
 - `data_macro/`: output directory for EVDS macro series (auto-created)
 - EVDS API key required for `fetch_macro_regime.py` — copy `.env.example` to `.env` and set `EVDS_API_KEY`
+
+## Archived code
+
+`vol_compression_breakout.py` (v1) and `walkforward_framework.py` have been archived — see `archive/` for historical versions. Use `vol_compression_breakout_v2.py` and `walkforward_multi_signal.py` instead. `archive/vol_compression_breakout_results.csv` is the v1 output; `vol_compression_breakout_results_v2.csv` (repo root) is the current v2 output. The `archive/utils/`, `archive/data_sources/`, and `archive/processors/` folders are leftover skeleton code from an unrelated project.
