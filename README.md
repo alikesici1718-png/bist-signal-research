@@ -1,5 +1,11 @@
 # BIST Systematic Signal Research
 
+![Tests](https://img.shields.io/badge/tests-7%20passing-brightgreen)
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+> **TL;DR:** Tested 20+ trading hypotheses on Turkish equities (BIST) — technical signals, PEAD, liquidity premium, IPO underpricing, information diffusion, index inclusion, and more. Result: no exploitable edge survives realistic transaction costs. Full methodology, code, and negative results documented below, including a worked notebook walkthrough and unit-tested core statistics.
+
 ## Overview
 
 This repository tests four categories of hypotheses on Turkish equity markets (BIST), using daily OHLCV data fetched via borsapy/yfinance.
