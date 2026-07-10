@@ -38,6 +38,10 @@ See `notebooks/liquidity_premium_walkthrough.ipynb` for a full worked example (d
 
 ![Cost-Adjusted Returns](visualizations/cost_adjusted_return_comparison.png)
 
+![IPO Overnight vs Intraday](visualizations/ipo_overnight_vs_intraday.png)
+
+*The IPO first-day effect is priced almost entirely overnight (before market open) — the intraday component is slightly negative, meaning the effect cannot be captured by any order placed during regular trading hours. See `data/ipo_overnight_intraday_decomposition.csv` for full data (n=2,965, 593 symbols).*
+
 *Extreme-down reversal signal: gross return appears positive, but is fully erased once realistic transaction costs are applied (see net_returns_report.txt for full breakdown).*
 
 ## Notable Bugs Found and Fixed
