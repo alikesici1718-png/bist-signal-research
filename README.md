@@ -40,6 +40,10 @@ See `notebooks/liquidity_premium_walkthrough.ipynb` for a full worked example (d
 
 ![IPO Overnight vs Intraday](visualizations/ipo_overnight_vs_intraday.png)
 
+![Information Diffusion](visualizations/information_diffusion.png)
+
+*Low-liquidity stocks show genuinely slower information absorption (day-1 price discovery: 26.6% vs 27.6% for high-liquidity stocks) — but the resulting drift doesn't survive realistic transaction costs. See `information_diffusion_speed_test.py` for full methodology.*
+
 *The IPO first-day effect is priced almost entirely overnight (before market open) — the intraday component is slightly negative, meaning the effect cannot be captured by any order placed during regular trading hours. (n=2,965 observations, 593 symbols — see [`ipo_overnight_intraday.py`](ipo_overnight_intraday.py) for full methodology.)*
 
 *Extreme-down reversal signal: gross return appears positive, but is fully erased once realistic transaction costs are applied (see net_returns_report.txt for full breakdown).*
