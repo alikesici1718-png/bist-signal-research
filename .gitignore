@@ -11,3 +11,5 @@ kap_data/*.csv
 logs/
 .pytest_cache/
 .mypy_cache/
+UsersalikeAppDataLocalTemptest_env_bist/
+test_env*/
