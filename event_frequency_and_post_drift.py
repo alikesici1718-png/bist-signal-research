@@ -1,3 +1,10 @@
+"""Diagnostic: event frequency over time and post-event drift paths.
+
+Tabulates how often volume-spike / extreme-down events fire per year and
+traces mean cumulative returns over the days following each event, split
+by liquidity tier. Used to sanity-check that scan results are not driven
+by a single period or by illiquid names. Console output only.
+"""
 import os
 import pandas as pd
 import numpy as np

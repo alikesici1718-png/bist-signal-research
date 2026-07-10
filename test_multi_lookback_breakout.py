@@ -1,3 +1,11 @@
+"""Breakout test across multiple lookback windows vs the XU100 benchmark.
+
+Hypothesis: price breakouts above the rolling N-day high (N = multiple
+lookbacks) predict positive forward returns relative to the XU100 index.
+Method: per-lookback event panels, next-open entry, benchmark-adjusted
+forward returns, t-tests and OLS. Console output.
+Result: no lookback produced a significant benchmark-adjusted edge.
+"""
 import os
 import pandas as pd
 import numpy as np

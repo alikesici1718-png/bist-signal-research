@@ -1,3 +1,7 @@
+"""Debug script: probe the raw KAP disclosure API with different HTTP
+headers to find out why unauthenticated requests fail. One-off tooling
+for fetch_kap_financial_reports.py; no analysis output.
+"""
 import requests
 import json
 

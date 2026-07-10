@@ -1,3 +1,7 @@
+"""Debug script: binary-search the maximum date range the KAP disclosure
+API accepts per request (found ~5y works, ~6.5y fails) — motivated the
+year-chunked windowing in fetch_kap_financial_reports.py.
+"""
 import pykap
 import traceback
 

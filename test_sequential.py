@@ -1,3 +1,6 @@
+"""Debug script: fire 7 sequential pykap disclosure requests for THYAO
+to check for rate limiting / intermittent failures. No analysis output.
+"""
 import pykap
 import time
 import traceback

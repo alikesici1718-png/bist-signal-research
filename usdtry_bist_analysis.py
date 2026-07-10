@@ -1,3 +1,13 @@
+"""FX shock event study: do BIST stocks react tradably to USDTRY shocks?
+
+Hypothesis: large USDTRY moves (90th-percentile daily log return) predict
+abnormal equity returns in the following days, and rolling FX/equity
+correlation regimes modulate this. Method: event study around shock dates
+with next-open entry, t-tests by direction/horizon, plus rolling
+correlation analysis. Output: usdtry_bist_analysis_results.csv.
+Result: no significant reaction — e.g. TL_WEAKENS 5d +12.4 bps (p=0.82),
+TL_STRENGTHENS 5d -117 bps (p=0.41, n=11 only).
+"""
 import os
 import pandas as pd
 import numpy as np

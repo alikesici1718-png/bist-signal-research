@@ -1,3 +1,8 @@
+"""Download daily OHLCV data for BIST symbols via yfinance into data/.
+
+Reads tickers from config/symbols.txt and writes one CSV per symbol
+(Date, Open, High, Low, Close, Volume). Data acquisition only.
+"""
 import yfinance as yf
 import pandas as pd
 import os

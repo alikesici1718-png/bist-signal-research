@@ -50,6 +50,26 @@ This repository tests four categories of hypotheses on Turkish equity markets (B
 | Pilots | capital_increase_pilot.py, kap_insider_trading_pilot.py, btc_wallet_clustering_pilot.py | Exploratory institutional flow proxies |
 | Capacity | capacity_backtest.py | Slippage scaling with position size |
 
+## Usage
+
+`run_all.py` is the single entry point for running the analyses. Each analysis executes its own script unchanged (via `runpy`), so results are identical to running the scripts directly.
+
+```bash
+# List all available analyses with one-line descriptions
+python run_all.py --list
+
+# Run a single analysis by name
+python run_all.py --analysis liquidity_premium
+python run_all.py --analysis vol_compression_v2
+python run_all.py --analysis walkforward
+
+# Run every registered analysis in order (continues past failures,
+# prints a pass/fail summary at the end)
+python run_all.py --all
+```
+
+Data-acquisition scripts (`get_*`, `fetch_*`) and one-off KAP API debug scripts (`test_kap_*`, `test_date_type.py`, etc.) are not registered in `run_all.py` — they require network access / API keys and are run manually as needed. Most analyses expect `data/` to be populated first (see Requirements below).
+
 ## Requirements
 
 ```

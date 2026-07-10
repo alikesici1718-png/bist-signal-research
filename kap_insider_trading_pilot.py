@@ -1,3 +1,9 @@
+"""Pre-registered pilot: do KAP insider BUY filings predict positive
+20-60 day drift? Fetches insider trading disclosures from KAP for a
+liquid-symbol sample and tests post-filing returns. See the Turkish
+pre-commitment block below.
+Result: insufficient signal frequency for a robust test (see README).
+"""
 # ON-TAAHHUT: Yonetici/buyuk ortak (icerideki) pay ALIM bildirimi sonrasi
 # 20-60 gunde fiyat pozitif yonde hareket etmesi bekleniyor (akademik literatur:
 # Sazak/Aydin BIST insider trading calismasi, 2015-2020, icerdekiler piyasayi

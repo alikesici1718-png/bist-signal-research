@@ -1,3 +1,10 @@
+"""Diagnostic: list USDTRY shock dates used by the FX-shock event study.
+
+Flags days where the absolute USDTRY log return exceeds its 90th
+percentile and prints the TL-strengthening shock dates with magnitudes,
+for manual verification against known macro events (CBRT interventions,
+elections). Feeds usdtry_bist_analysis.py. Console output only.
+"""
 import os
 import pandas as pd
 import numpy as np

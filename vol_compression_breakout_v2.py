@@ -1,3 +1,15 @@
+"""Volatility-compression breakout test, v2 (market-adjusted).
+
+Hypothesis: breakouts to new highs occurring after a volatility
+compression (realized vol in its lowest percentile band) carry positive
+drift. Method: vol percentile filter + N-day-high breakout, next-open
+entry, and — new in v2 vs the archived v1 — excess return vs the
+equal-weighted market so that market beta is stripped out; t-tests on raw
+and excess returns, full/older/recent splits.
+Output: vol_compression_breakout_results_v2.csv.
+Result: raw +42 bps (p=0.038) at 10d-lookback/5d-horizon, but excess
+-20 bps (p=0.18) — the raw effect is market exposure, not stock selection.
+"""
 import os
 import pandas as pd
 import numpy as np

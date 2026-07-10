@@ -1,3 +1,12 @@
+"""Laggard catch-up test: do stocks that lag a market rally catch up?
+
+Hypothesis: when the equal-weighted market rallies over a lookback window,
+the worst-performing (laggard) stocks subsequently outperform.
+Method: cross-sectional laggard selection, next-open entry, excess return
+vs equal-weighted market, t-test on overlapping and non-overlapping
+samples across lookback/horizon grid. Output: laggard_catchup_results.csv.
+Result: no edge — e.g. 5d/5d excess +3.6 bps, p=0.77.
+"""
 import os
 import pandas as pd
 import numpy as np

@@ -1,3 +1,7 @@
+"""Debug script: step-by-step pykap BISTCompany initialization and
+disclosure fetch for THYAO with full tracebacks. One-off tooling for
+fetch_kap_financial_reports.py; no analysis output.
+"""
 import pykap
 import traceback
 

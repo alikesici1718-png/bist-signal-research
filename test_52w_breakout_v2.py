@@ -1,3 +1,12 @@
+"""52-week-high breakout test with regression controls.
+
+Hypothesis: closes at/near the 52-week high predict positive forward
+excess returns. Method: panel of breakout events, next-open entry, excess
+return vs equal-weighted market, OLS with controls (volume, volatility)
+in addition to plain t-tests. Console output.
+Result: no robust edge after market adjustment (superseded by the
+multi-lookback version, test_multi_lookback_breakout.py).
+"""
 import os
 import pandas as pd
 import numpy as np

@@ -1,3 +1,13 @@
+"""Rolling walk-forward out-of-sample validation of the candidate signals.
+
+Hypothesis: any in-sample signal edge should survive rolling out-of-sample
+windows and realistic round-trip costs. Method: signals re-evaluated on
+successive OOS windows at 0/15/30/45 bps cost assumptions, benchmark-adjusted.
+Outputs: walkforward_results_{0,15,30,45}bps.csv.
+Result: no signal retains a significant positive net edge out-of-sample.
+This is the canonical walk-forward script (the old walkforward_framework.py
+was a mislabeled diagnostic copy and has been archived).
+"""
 import os
 import pandas as pd
 import numpy as np

@@ -1,3 +1,15 @@
+"""Cross-sectional scan of technical event signals on BIST daily data.
+
+Hypothesis: simple technical events (2x volume spike, extreme down day,
+52w-high breakout, etc.) predict abnormal forward returns.
+Method: per-symbol event detection over data/*.csv, next-open entry,
+t-test on forward excess returns at multiple horizons, overlapping and
+non-overlapping event sets, Benjamini-Hochberg FDR correction across
+hypotheses. Output: comprehensive_scan_results.csv.
+Result: strongest effect is NEGATIVE post-event drift (volume_spike_2x
+5d excess -117 bps, q<1e-12) — a short-side signal that does not survive
+transaction costs (see check_net_returns.py); no exploitable long edge.
+"""
 import os
 import pandas as pd
 import numpy as np

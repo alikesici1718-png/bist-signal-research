@@ -1,3 +1,11 @@
+"""Diagnostic: are signal events concentrated in a few symbols or dates?
+
+Checks whether volume-spike / extreme-down event counts cluster in a
+handful of (mostly illiquid) symbols or calendar dates, which would make
+pooled t-stats unreliable. Reports per-symbol and per-date concentration
+plus liquidity (avg volume) stratification. Diagnostic only — produces
+console output, no result CSV.
+"""
 import os
 import pandas as pd
 import numpy as np

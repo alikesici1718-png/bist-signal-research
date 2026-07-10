@@ -1,3 +1,6 @@
+"""Debug script: fetch KAP disclosures for THYAO/AKBNK/ASELS to check
+whether failures are symbol-specific. No analysis output.
+"""
 import pykap
 import traceback
 

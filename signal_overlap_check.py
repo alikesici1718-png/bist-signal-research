@@ -1,3 +1,10 @@
+"""Diagnostic: overlap between volume-spike and extreme-down signals.
+
+Measures how many (symbol, date) events are shared between the
+volume_spike_2x and extreme_down signals to determine whether they are
+independent hypotheses or one phenomenon counted twice (relevant for the
+BH-FDR correction in comprehensive_scan.py). Console output only.
+"""
 import os
 import pandas as pd
 import numpy as np

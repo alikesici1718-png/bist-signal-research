@@ -1,3 +1,12 @@
+"""Re-run of the event-signal scan within liquidity strata.
+
+Hypothesis: apparent event-signal returns are an illiquid-stock artifact
+and vanish in the liquid segment. Method: symbols bucketed by 60-day
+average volume, per-bucket event detection and forward-return t-tests
+with BH-FDR correction. Console/report output.
+Result: consistent with the artifact hypothesis — effects shrink in the
+liquid tier; see also illiquid_segment_scan.py for the mirror test.
+"""
 import os
 import pandas as pd
 import numpy as np

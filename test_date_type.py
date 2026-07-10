@@ -1,3 +1,6 @@
+"""Debug script: test whether pykap's disclosure API accepts string vs
+datetime.date arguments. One-off tooling; no analysis output.
+"""
 import pykap
 from datetime import date, datetime
 import traceback

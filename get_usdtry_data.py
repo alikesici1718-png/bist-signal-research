@@ -1,3 +1,8 @@
+"""Download daily USDTRY FX data via yfinance into data/.
+
+Used by the FX-shock event studies (usdtry_bist_analysis.py,
+fx_shock_dates_check.py). Data acquisition only.
+"""
 import yfinance as yf
 import pandas as pd
 import os

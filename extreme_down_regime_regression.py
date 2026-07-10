@@ -1,3 +1,9 @@
+"""Pre-registered regression: does macro volatility regime modulate the
+extreme-down reversal signal? Interaction OLS (signal_strength x regime
+dummy) on the full panel. See the Turkish pre-commitment block below for
+the pre-registered expectations.
+Result: no interaction edge — coeff +1.98 bps, t=0.35, p=0.72, N=1,437,255.
+"""
 # ON-TAAHHUT (calistirmadan once yazildi):
 # Beklenen yon: sinyal_siddeti x rejim_dummy etkilesim katsayisi POZITIF
 # Beklenen buyukluk: mutevazi (belki 20-50 bps rejimler arasi fark)

@@ -1,3 +1,9 @@
+"""Data-quality audit of per-symbol OHLCV CSVs in data/.
+
+Checks each downloaded symbol file for missing values, date gaps,
+non-positive prices and other structural problems before any signal
+scan consumes the data. Output: quality_report.txt.
+"""
 import os
 import pandas as pd
 from datetime import timedelta

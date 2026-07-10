@@ -1,3 +1,10 @@
+"""Pairwise cointegration scan across BIST symbols (pairs-trading candidates).
+
+Hypothesis: some BIST stock pairs are cointegrated and thus candidates for
+mean-reversion pairs trading. Method: Engle-Granger cointegration test on
+price pairs with Benjamini-Hochberg FDR correction across all pairs.
+Output: cointegration_results.csv (screening only — no pairs backtest here).
+"""
 import os
 import pandas as pd
 from statsmodels.tsa.stattools import coint

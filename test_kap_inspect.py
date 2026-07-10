@@ -1,3 +1,7 @@
+"""Debug script: inspect kap_data/kap_financial_report_dates.csv
+(row counts, date formats, year/period distributions) to validate the
+KAP fetch output. No analysis output.
+"""
 import pandas as pd
 
 df = pd.read_csv("kap_data/kap_financial_report_dates.csv")
