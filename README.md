@@ -56,6 +56,10 @@ See `notebooks/liquidity_premium_walkthrough.ipynb` for a full worked example (d
 | Pilots | capital_increase_pilot.py, kap_insider_trading_pilot.py, btc_wallet_clustering_pilot.py | Exploratory institutional flow proxies |
 | Capacity | capacity_backtest.py | Slippage scaling with position size |
 
+## Testing
+
+Run `pytest tests/` to verify core statistical functions (Corwin-Schultz spread estimator, BH-FDR correction).
+
 ## Usage
 
 `run_all.py` is the single entry point for running the analyses. Each analysis executes its own script unchanged (via `runpy`), so results are identical to running the scripts directly.
