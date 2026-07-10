@@ -28,6 +28,10 @@ This repository tests four categories of hypotheses on Turkish equity markets (B
 | Regime interaction (pre-registered) | No interaction edge | N=1,437,255; signal_strength:regime_dummy coeff=+1.98 bps (brut), t=0.35, p=0.72; direction correct per pre-registration but statistically insignificant (extreme_down_regime_regression.py) |
 | Illiquid segment | Signal larger, cost larger, net more negative | extreme_down brut excess at 5d: -18.7 bps (t=-0.44, p=0.66); net Midas+DUSUK: -105 bps, AtaYatirim+YUKSEK: -264 bps; n=989 events in illiquid-only universe — cost expansion exceeds any signal gain vs. full universe (illiquid_scan_results.csv) |
 
+![Cost-Adjusted Returns](visualizations/cost_adjusted_return_comparison.png)
+
+*Extreme-down reversal signal: gross return appears positive, but is fully erased once realistic transaction costs are applied (see net_returns_report.txt for full breakdown).*
+
 ## Notable Bugs Found and Fixed
 
 - **Corwin-Schultz formula error**: original alpha formula used wrong coefficient; corrected to `(sqrt(2)-1)*sqrt(beta)/K - sqrt(gamma)/K` per Schultz (2012)
