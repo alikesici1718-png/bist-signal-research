@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-> **TL;DR:** Tested 20+ trading hypotheses on Turkish equities (BIST) — technical signals, PEAD, liquidity premium, IPO underpricing, information diffusion, index inclusion, and more. Result: no exploitable edge survives realistic transaction costs. Full methodology, code, and negative results documented below, including a worked notebook walkthrough and unit-tested core statistics.
+> **TL;DR:** Tested 20+ trading hypotheses on Turkish equities (BIST) — technical signals, PEAD, liquidity premium, IPO underpricing, information diffusion, index inclusion, and more. Result: no exploitable edge survives realistic transaction costs or look-ahead bias checks. The long-term liquidity premium initially appeared to survive costs (+853 bps net), but follow-up analysis shows the premium is driven by stocks that become liquid during the holding period — which cannot be identified in advance. Full methodology, code, and negative results documented below, including a worked notebook walkthrough and unit-tested core statistics.
 
 ## Overview
 
@@ -67,6 +67,8 @@ Post-KAP-disclosure excess returns at 1m/3m/6m/12m horizons, cross-sectionally s
 This is a long-horizon (12-month) finding, not a short-term trading signal. Real-world exit costs for large positions in illiquid names likely exceed the flat-cost assumption used here.
 
 **Robustness check:** the effect holds across both high-inflation periods (2018, 2021–2023) and other periods, with consistent direction (Q1 > Q4) in both — though magnitude varies (Q1 median: −251 bps in high-inflation periods vs. +2,103 bps otherwise). This indicates the finding is not driven by a single macro regime.
+
+**Critical follow-up finding:** Decomposing this premium reveals it is driven almost entirely by stocks that become more liquid during the 12-month window ('liquidity discovery') — those that stay illiquid actually show negative returns (−1,458 bps median). Crucially, the volume increase and price appreciation happen concurrently, not sequentially — meaning there is no way to identify in advance which Q1 stocks will be 'discovered.' A static long position in the full Q1 quartile captures a much weaker, mixed signal than the headline number suggests. This finding is retained as a methodological case study in look-ahead bias detection, not as a tradable strategy.
 
 ![Long-Term Liquidity Premium](visualizations/long_term_liquidity_premium.png)
 
