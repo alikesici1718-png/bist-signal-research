@@ -33,6 +33,7 @@ This repository tests four categories of hypotheses on Turkish equity markets (B
 | Institutional flow | No edge | Capital increase and insider trading pilots: insufficient signal frequency for robust test |
 | Regime interaction (pre-registered) | No interaction edge | N=1,437,255; signal_strength:regime_dummy coeff=+1.98 bps (brut), t=0.35, p=0.72; direction correct per pre-registration but statistically insignificant (extreme_down_regime_regression.py) |
 | Illiquid segment | Signal larger, cost larger, net more negative | extreme_down brut excess at 5d: -18.7 bps (t=-0.44, p=0.66); net Midas+DUSUK: -105 bps, AtaYatirim+YUKSEK: -264 bps; n=989 events in illiquid-only universe — cost expansion exceeds any signal gain vs. full universe (illiquid_scan_results.csv) |
+| Long-term liquidity premium | Real, survives costs (+853.6 bps net, 12m) | Likely a risk premium, not alpha — large positions face higher exit costs than modeled |
 
 See `notebooks/liquidity_premium_walkthrough.ipynb` for a full worked example (data loading → quartile classification → cost adjustment → statistical testing) of the liquidity premium test.
 
@@ -47,6 +48,25 @@ See `notebooks/liquidity_premium_walkthrough.ipynb` for a full worked example (d
 *The IPO first-day effect is priced almost entirely overnight (before market open) — the intraday component is slightly negative, meaning the effect cannot be captured by any order placed during regular trading hours. (n=2,965 observations, 593 symbols — see [`ipo_overnight_intraday.py`](ipo_overnight_intraday.py) for full methodology.)*
 
 *Extreme-down reversal signal: gross return appears positive, but is fully erased once realistic transaction costs are applied (see net_returns_report.txt for full breakdown).*
+
+## Long-Term Liquidity Premium
+
+Post-KAP-disclosure excess returns at 1m/3m/6m/12m horizons, cross-sectionally split by trailing 3-month average TL volume (Q1 = lowest 25%, Q4 = highest 25%). n=17,205 events, 593 symbols.
+
+| Horizon | Q1 Median (bps) | Q4 Median (bps) | BH-FDR q |
+|---|---|---|---|
+| 1m  | −47.6  | −126.4  | 0.012  |
+| 3m  | −52.1  | −342.0  | <0.001 |
+| 6m  | +157.9 | −603.7  | <0.001 |
+| 12m | +1,080.6 | −1,151.7 | <0.001 |
+
+**Cost-adjusted (12m Q1):** gross +1,080.6 bps → net +998.1 bps (Midas+DUSUK, 82.5 bps) / +853.6 bps (AtaYatırım+YUKSEK, 227 bps). Positive under both cost scenarios.
+
+**Placebo control:** random ticker split gives 177 bps spread (p=0.269) vs. 2,232 bps for the real liquidity split (p<0.001). The signal is not an artifact of cross-sectional noise.
+
+This is a long-horizon (12-month) finding, not a short-term trading signal. Real-world exit costs for large positions in illiquid names likely exceed the flat-cost assumption used here.
+
+![Long-Term Liquidity Premium](visualizations/long_term_liquidity_premium.png)
 
 ## Notable Bugs Found and Fixed
 
