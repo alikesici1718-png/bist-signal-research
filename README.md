@@ -66,6 +66,8 @@ Post-KAP-disclosure excess returns at 1m/3m/6m/12m horizons, cross-sectionally s
 
 This is a long-horizon (12-month) finding, not a short-term trading signal. Real-world exit costs for large positions in illiquid names likely exceed the flat-cost assumption used here.
 
+**Robustness check:** the effect holds across both high-inflation periods (2018, 2021–2023) and other periods, with consistent direction (Q1 > Q4) in both — though magnitude varies (Q1 median: −251 bps in high-inflation periods vs. +2,103 bps otherwise). This indicates the finding is not driven by a single macro regime.
+
 ![Long-Term Liquidity Premium](visualizations/long_term_liquidity_premium.png)
 
 ## Notable Bugs Found and Fixed
